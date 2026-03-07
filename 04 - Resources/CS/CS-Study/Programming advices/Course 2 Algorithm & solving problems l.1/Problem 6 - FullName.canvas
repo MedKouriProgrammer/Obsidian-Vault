@@ -1,0 +1,110 @@
+{
+  "edges": [
+    {
+      "fromNode": "db8daa736639f898",
+      "fromSide": "bottom",
+      "id": "74da0d304d67daea",
+      "styleAttributes": {
+      },
+      "toNode": "3aec9bd2f5e8eeec",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 960,
+      "id": "ef2f914df1894b8e",
+      "label": "Untitled group",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 800,
+      "x": -480,
+      "y": 720
+    },
+    {
+      "height": 720,
+      "id": "ff55decb60eb497d",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "![[2025-03-13 (10) 1.png]]",
+      "type": "text",
+      "width": 560,
+      "x": -360,
+      "y": -80
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "db8daa736639f898",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Start",
+      "type": "text",
+      "width": 300,
+      "x": -230,
+      "y": 760
+    },
+    {
+      "color": "5",
+      "height": 120,
+      "id": "d878e350ed667a6c",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Ask user enter: first name && last name",
+      "type": "text",
+      "width": 350,
+      "x": -255,
+      "y": 920
+    },
+    {
+      "color": "5",
+      "height": 120,
+      "id": "5410ed997f788902",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# num 1 “ “ num 2\n",
+      "type": "text",
+      "width": 350,
+      "x": -255,
+      "y": 1120
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "084c02096eddf6f9",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# print full name",
+      "type": "text",
+      "width": 300,
+      "x": -230,
+      "y": 1320
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "3aec9bd2f5e8eeec",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# End",
+      "type": "text",
+      "width": 300,
+      "x": -230,
+      "y": 1480
+    }
+  ]
+}

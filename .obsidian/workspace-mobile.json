@@ -1,0 +1,294 @@
+{
+  "main": {
+    "id": "dedf308ac1f72c2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2691aeac1cd459c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "816beeef48626aee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99 - Meta/00 - Templates/Zettelkasten/Permanents.T.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Permanents.T"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c5778b07cde5045",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "55ea588c68276194",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "eb1d5dafbe618288",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:Resources/Articles",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "b75669e0d4327864",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "alphabetical",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "ad81b96ca6f364d3",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "c41e1ae1bdfb6aa2",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "7a44aa4b4dffdc3e",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {},
+          "icon": "clock",
+          "title": "Recent Files"
+        }
+      },
+      {
+        "id": "3fc7a8b15e19da27",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1cdd4a1ff0a3aee4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "60e373397214e07e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "03 - Resources/+To Do/How to Build a System for Lifelong Learning.md",
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "5f36ca6e0fa95a24",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "03 - Resources/+To Do/How to Build a System for Lifelong Learning.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "ce0622f7df6d72bc",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "99 - Meta/00 - Templates/Zettelkasten/Permanents.T.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "85807ef89dd3e61e",
+        "type": "leaf",
+        "state": {
+          "type": "dictionary-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "cd633c44b73302c7",
+        "type": "leaf",
+        "state": {
+          "type": "podcast_player_view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "0cb89fb5f2356a09",
+        "type": "leaf",
+        "state": {
+          "type": "reminder-list",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "75271602600f3c8f",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "99dc89331f3dfd33",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "277299ab0d2629cf",
+        "type": "leaf",
+        "state": {
+          "type": "journal-calendar",
+          "state": {},
+          "icon": "calendar-days",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "daily-notes:Open today's daily note": false
+    }
+  },
+  "active": "816beeef48626aee",
+  "lastOpenFiles": [
+    "Index.md",
+    "05 - Permanent/CS/What is a IT.md",
+    "05 - Permanent/CS/What is a data science.md",
+    "06 - Daily/Daily/2025-02-01.md",
+    "06 - Daily/Daily/2025-01-22.md",
+    "03 - Resources/+To Do/How to Build a System for Lifelong Learning.md",
+    "00 - Maps of Content/PKM/Zettlekasten.md",
+    "03 - Resources/Videos/Zettelkasten with Obsidian workflow.md",
+    "00 - Maps of Content/PKM/+PKM.md",
+    "00 - Maps of Content/PKM/+Anki.md",
+    "00 - Maps of Content/PKM/Obsidian.md",
+    "00 - Maps of Content/TRP/Psychology/+Psychology.md",
+    "00 - Maps of Content/CS/+CS.md",
+    "00 - Maps of Content/CS/Python.md",
+    "smart-notes-main/projects/How to Take Smart Notes in Obsidian.md",
+    "smart-notes-main/slip-box/202110121234.md",
+    "smart-notes-main/reference/How to Take Smart Notes.md",
+    "smart-notes-main/slip-box/202110121231.md",
+    "smart-notes-main/index.md",
+    "smart-notes-main/slip-box/202110131440.md",
+    "smart-notes-main/slip-box/202110131053.md",
+    "03 - Resources/Books/How to Take Smart Notes.md",
+    "smart-notes-main/smart notes.md",
+    "03 - Resources/+To Do/Be a reflection to her nature.md",
+    "smart-notes-main/slip-box/202110131416.md",
+    "smart-notes-main/slip-box/202110131415.md",
+    "04 - Permanent/PKM",
+    "99 - Meta/99 - Attachment/1734544493666.jpg",
+    "99 - Meta/99 - Attachment",
+    "07 - Archives/Fleeting",
+    "99 - Meta/00 - Templates/Zettelkasten",
+    "03 - Resources/Course",
+    "04 - Permanent/CS",
+    "04 - Permanent/New",
+    "03 - Resources/Omnivore",
+    "03 - Resources/Omnivore/2024-07-04",
+    "03 - Resources/TRP/Psychology",
+    "99 - Meta/99 - Attachment/How to Take Smart Notes.jpg",
+    "99 - Meta/99 - Attachment/How to Take Smart Notes_ One Simple Technique to Boost -- Sönke Ahrens -- 2, 2022 -- Sönke Ahrens -- 9781667007557 -- 288866051a3fa6404694fe7f87b732aa -- Anna’s Archive.epub_3.png",
+    "99 - Meta/99 - Attachment/Pasted image 20240610211359.png",
+    "99 - Meta/99 - Attachment/Pasted image 20240610210640.png",
+    "Untitled.canvas"
+  ]
+}

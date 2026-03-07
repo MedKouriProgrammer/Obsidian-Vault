@@ -1,0 +1,113 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "02 AREAS/02 EDUCATION/Library/books",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "ae273592-6b29-43ce-86e0-1d3f9984ea82",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "coverField": "Cover",
+            "fitStyle": "contain",
+            "includeFields": [
+              "PagesRead",
+              "Category",
+              "Author",
+              "name",
+              "Status",
+              "Rating"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "ddface9f-5539-4d26-af92-8cd721cf06b8",
+          "name": "G",
+          "type": "gallery"
+        }
+      ],
+      "id": "b21f920c-01cd-418d-8c1e-01eb5885c2e4",
+      "name": "Books project"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "02 AREAS/01 PERSONAL/Review/Daily",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "coverField": "banner",
+            "includeFields": [],
+            "fitStyle": "contain"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "36867541-c6f3-41a5-be01-a2c1ec8eac71",
+          "name": "Gallery",
+          "type": "gallery"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "054ac455-68c2-4bd0-9c44-d7dcd6865f38",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "2ae8a0ba-9944-485b-abf7-5c565a2ea5c8",
+      "name": "Review daily project"
+    }
+  ],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": []
+  }
+}

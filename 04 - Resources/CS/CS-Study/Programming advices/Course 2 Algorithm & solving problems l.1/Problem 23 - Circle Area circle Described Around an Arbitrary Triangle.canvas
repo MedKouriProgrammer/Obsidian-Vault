@@ -1,0 +1,101 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 1080,
+      "id": "ec08ceb41c6ff047",
+      "label": "Untitled group",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 860,
+      "x": -520,
+      "y": 240
+    },
+    {
+      "height": 680,
+      "id": "d95310713ec38276",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "![[2025-03-15 (8).png]]",
+      "type": "text",
+      "width": 1240,
+      "x": -720,
+      "y": -520
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "a864847d091a0ad7",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Start",
+      "type": "text",
+      "width": 300,
+      "x": -230,
+      "y": 280
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "a5e082a9d7c76dee",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Read a,b,c",
+      "type": "text",
+      "width": 300,
+      "x": -230,
+      "y": 440
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "0221c5d844d69236",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# End",
+      "type": "text",
+      "width": 300,
+      "x": -230,
+      "y": 1200
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "421a8e1cc9b744bd",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print: Area",
+      "type": "text",
+      "width": 300,
+      "x": -230,
+      "y": 1040
+    },
+    {
+      "color": "5",
+      "height": 360,
+      "id": "1cd03000fc7261aa",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# PI=3.14\n# P=(a + b + c) / 2\n# T=(a x b x c) / (4 x sqrt(p x (p-a)x(p-b)x(p-c)))\n# T=TxT\n# Area = PI x T",
+      "type": "text",
+      "width": 750,
+      "x": -455,
+      "y": 600
+    }
+  ]
+}

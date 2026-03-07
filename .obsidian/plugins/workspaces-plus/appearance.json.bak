@@ -1,0 +1,20 @@
+{
+  "baseFontSize": 16,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength",
+    "old-style-callouts",
+    "supercharged-links-gen",
+    "【AD优化】admonitions",
+    "【主页设置】homepage setting",
+    "【主页设置】homepage setting media mobile",
+    "【分栏支持】admonition-col2-col3-flex",
+    "【卡片视图】zettelkasten",
+    "【边栏图标】sidepane",
+    "【进度颜色】colourful progress bar",
+    "【项目管理】sharetype"
+  ],
+  "theme": "obsidian",
+  "accentColor": ""
+}

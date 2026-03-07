@@ -1,0 +1,111 @@
+{
+  "edges": [
+    {
+      "color": "5",
+      "fromNode": "d1ae36d584abe600",
+      "fromSide": "bottom",
+      "id": "bf663fa3a13f2042",
+      "styleAttributes": {
+      },
+      "toNode": "6c580b284f48a699",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 1000,
+      "id": "d12759c9652da4bb",
+      "label": "Untitled group",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1200,
+      "x": -400,
+      "y": -120
+    },
+    {
+      "height": 540,
+      "id": "99fe7ef35d8e39f6",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "![[2025-03-20 (4).png]]",
+      "type": "text",
+      "width": 1200,
+      "x": -400,
+      "y": -680
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "d1ae36d584abe600",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Start",
+      "type": "text",
+      "width": 300,
+      "x": 50,
+      "y": -40
+    },
+    {
+      "color": "5",
+      "height": 140,
+      "id": "7d13dc5f1d57cb65",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Read: LoonAmonth & NumOfMonth",
+      "type": "text",
+      "width": 390,
+      "x": 5,
+      "y": 100
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "6c580b284f48a699",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# End",
+      "type": "text",
+      "width": 300,
+      "x": 50,
+      "y": 680
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "3e88f5adb908776c",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print: MonthlyPayments",
+      "type": "text",
+      "width": 355,
+      "x": 23,
+      "y": 520
+    },
+    {
+      "color": "5",
+      "height": 160,
+      "id": "65cac80a4d4aa4ed",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# MonthlyPayments= LoonAmonth / NumOfMonth",
+      "type": "text",
+      "width": 715,
+      "x": -157,
+      "y": 320
+    }
+  ]
+}

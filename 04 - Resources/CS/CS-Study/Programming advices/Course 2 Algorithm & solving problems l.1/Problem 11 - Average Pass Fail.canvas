@@ -1,0 +1,197 @@
+{
+  "edges": [
+    {
+      "fromNode": "d825dea7160f0993",
+      "fromSide": "bottom",
+      "id": "6676995297a9d7d8",
+      "styleAttributes": {
+      },
+      "toNode": "f571ca79673e6508",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "067c8ab9a4da9481",
+      "fromSide": "left",
+      "id": "b6b7301f8f9a1c33",
+      "styleAttributes": {
+      },
+      "toNode": "f1ce478ad601c81b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f571ca79673e6508",
+      "fromSide": "right",
+      "id": "f854dc5d6248f178",
+      "styleAttributes": {
+      },
+      "toNode": "067c8ab9a4da9481",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "067c8ab9a4da9481",
+      "fromSide": "right",
+      "id": "7f8269602a442118",
+      "styleAttributes": {
+      },
+      "toNode": "164323e827172def",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f1ce478ad601c81b",
+      "fromSide": "bottom",
+      "id": "9b2f7a8b689c891b",
+      "styleAttributes": {
+      },
+      "toNode": "5aa949d181fc94ce",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "164323e827172def",
+      "fromSide": "bottom",
+      "id": "a8d2316ee8e4e666",
+      "styleAttributes": {
+      },
+      "toNode": "5aa949d181fc94ce",
+      "toSide": "right"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 1240,
+      "id": "4dcfb578fa0a2416",
+      "label": "Untitled group",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1760,
+      "x": -520,
+      "y": 640
+    },
+    {
+      "height": 720,
+      "id": "cea66df6cd293124",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "![[2025-03-14 (3).png]]",
+      "type": "text",
+      "width": 1100,
+      "x": -520,
+      "y": -160
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "f571ca79673e6508",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print avr",
+      "type": "text",
+      "width": 300,
+      "x": -360,
+      "y": 1280
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "f1ce478ad601c81b",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print: avr “\\n“ PASSE",
+      "type": "text",
+      "width": 300,
+      "x": 120,
+      "y": 1490
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "164323e827172def",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print: avr “\\n“ FAIL",
+      "type": "text",
+      "width": 300,
+      "x": 840,
+      "y": 1490
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "d825dea7160f0993",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Start",
+      "type": "text",
+      "width": 300,
+      "x": -360,
+      "y": 680
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "4ae70f23a7e7e3c9",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# read: Mark 1 & Mark 2 & Mark 3\n",
+      "type": "text",
+      "width": 400,
+      "x": -410,
+      "y": 880
+    },
+    {
+      "color": "5",
+      "height": 120,
+      "id": "40c8ada6d857dc3e",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# avr= (Mark 1 + mark 2 + mark 3)/3\n",
+      "type": "text",
+      "width": 350,
+      "x": -385,
+      "y": 1040
+    },
+    {
+      "color": "5",
+      "height": 280,
+      "id": "067c8ab9a4da9481",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "text": "# avr >= 50",
+      "type": "text",
+      "width": 300,
+      "x": 480,
+      "y": 1100
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "5aa949d181fc94ce",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# End",
+      "type": "text",
+      "width": 300,
+      "x": 480,
+      "y": 1720
+    }
+  ]
+}

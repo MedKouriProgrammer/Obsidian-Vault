@@ -1,0 +1,110 @@
+{
+  "edges": [
+    {
+      "fromNode": "d207581d4b774e2d",
+      "fromSide": "bottom",
+      "id": "6de072bbbaff3771",
+      "styleAttributes": {
+      },
+      "toNode": "3285292854d9eb94",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 840,
+      "id": "4b8b1858a1bd0db8",
+      "label": "Untitled group",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 440,
+      "x": 280,
+      "y": 400
+    },
+    {
+      "height": 700,
+      "id": "bb51b94d8aa3e56f",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "![[2025-03-14 (9).png]]",
+      "type": "text",
+      "width": 1260,
+      "x": -120,
+      "y": -400
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "d207581d4b774e2d",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Start",
+      "type": "text",
+      "width": 300,
+      "x": 360,
+      "y": 440
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "da381241c495445a",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# read a,b",
+      "type": "text",
+      "width": 300,
+      "x": 360,
+      "y": 600
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "131b06da76620b09",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# Area= a* sqrt(d*d - a*a )",
+      "type": "text",
+      "width": 300,
+      "x": 360,
+      "y": 760
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "18fee64b1df5f689",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print: Area",
+      "type": "text",
+      "width": 300,
+      "x": 360,
+      "y": 920
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "3285292854d9eb94",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# End",
+      "type": "text",
+      "width": 300,
+      "x": 360,
+      "y": 1080
+    }
+  ]
+}

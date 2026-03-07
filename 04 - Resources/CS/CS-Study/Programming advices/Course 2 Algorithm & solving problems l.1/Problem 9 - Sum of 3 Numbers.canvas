@@ -1,0 +1,110 @@
+{
+  "edges": [
+    {
+      "fromNode": "735e343f157c9b53",
+      "fromSide": "bottom",
+      "id": "da47e94f49f5adf6",
+      "styleAttributes": {
+      },
+      "toNode": "7744f978456a266e",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 960,
+      "id": "f6052b4361031a9a",
+      "label": "Untitled group",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 780,
+      "x": -560,
+      "y": 520
+    },
+    {
+      "height": 680,
+      "id": "730901b19d94837f",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "![[2025-03-14 (1).png]]",
+      "type": "text",
+      "width": 780,
+      "x": -560,
+      "y": -240
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "735e343f157c9b53",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Start",
+      "type": "text",
+      "width": 300,
+      "x": -320,
+      "y": 560
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "657f829accc68258",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# print: “sum“",
+      "type": "text",
+      "width": 300,
+      "x": -320,
+      "y": 1120
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "7744f978456a266e",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# End",
+      "type": "text",
+      "width": 300,
+      "x": -320,
+      "y": 1320
+    },
+    {
+      "color": "5",
+      "height": 120,
+      "id": "628107af4e7c5646",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# read: number 1 & number 2 & number 3",
+      "type": "text",
+      "width": 410,
+      "x": -400,
+      "y": 720
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "b23e9e6015f94567",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# sum = num1 + num2 + num3",
+      "type": "text",
+      "width": 340,
+      "x": -340,
+      "y": 920
+    }
+  ]
+}

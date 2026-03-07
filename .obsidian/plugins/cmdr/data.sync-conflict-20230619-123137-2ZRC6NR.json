@@ -1,0 +1,79 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": false,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "workspace:move-to-new-window",
+      "icon": "lucide-maximize",
+      "name": "new window",
+      "mode": "any",
+      "color": "#ff6600"
+    },
+    {
+      "id": "outline:open-for-current",
+      "icon": "lucide-list",
+      "name": "Outline",
+      "mode": "any",
+      "color": "#ff7300"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "workspace:toggle-pin",
+      "icon": "lucide-pin",
+      "name": "Pin",
+      "mode": "any",
+      "color": "#ff6600"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [
+      "obsidian-spaced-repetition",
+      "various-complements",
+      "backlink"
+    ],
+    "leftRibbon": [
+      "Create new drawing",
+      "Manage workspace layouts",
+      "Create new book note",
+      "Create a new database table",
+      "GPT-3 Notes",
+      "Add to Ledger",
+      "Open in Headings Mode",
+      "Open Symbols for the active editor",
+      "Review flashcards",
+      "Open quick switcher",
+      "Open graph view",
+      "Create new canvas",
+      "Open command palette",
+      "Templater",
+      "Janitor: scan vault",
+      "Open projects",
+      "Open homepage",
+      "Open format converter",
+      "Open today",
+      "Reveal non-private",
+      "Reveal all",
+      "Advanced Tables Toolbar"
+    ]
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "edges": [
+    {
+      "fromNode": "e97d2b30119738c6",
+      "fromSide": "bottom",
+      "id": "c934fac633042e1c",
+      "styleAttributes": {
+      },
+      "toNode": "261a35f9b7abadfd",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 960,
+      "id": "e340439f269a2b4a",
+      "label": "Untitled group",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 680,
+      "x": 120,
+      "y": 320
+    },
+    {
+      "height": 640,
+      "id": "a380e2c1463e8cdc",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "![[2025-03-15 (7).png]]",
+      "type": "text",
+      "width": 1280,
+      "x": -140,
+      "y": -360
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "e97d2b30119738c6",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Start",
+      "type": "text",
+      "width": 300,
+      "x": 320,
+      "y": 360
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "b25e0670575eb8c8",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Read a,b",
+      "type": "text",
+      "width": 300,
+      "x": 320,
+      "y": 520
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "261a35f9b7abadfd",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# End",
+      "type": "text",
+      "width": 300,
+      "x": 320,
+      "y": 1120
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "84cc9bdbc386fc03",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print: area",
+      "type": "text",
+      "width": 300,
+      "x": 320,
+      "y": 960
+    },
+    {
+      "color": "5",
+      "height": 200,
+      "id": "2ed20215590e07a2",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# PI= 3.14\n# Area=(PI x b x b/4) x ((2 x a-b)/(2 x a+b))",
+      "type": "text",
+      "width": 320,
+      "x": 310,
+      "y": 680
+    }
+  ]
+}

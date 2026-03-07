@@ -1,0 +1,110 @@
+{
+  "edges": [
+    {
+      "fromNode": "7751fde26e947d46",
+      "fromSide": "bottom",
+      "id": "495a62ddded6f673",
+      "styleAttributes": {
+      },
+      "toNode": "4e869f96f4d4a732",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 920,
+      "id": "790e39d62d2b1f33",
+      "label": "Untitled group",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 760,
+      "x": -240,
+      "y": 240
+    },
+    {
+      "height": 600,
+      "id": "8e4302f21ca037a9",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "![[2025-03-15 (5).png]]",
+      "type": "text",
+      "width": 1300,
+      "x": -480,
+      "y": -440
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "7751fde26e947d46",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Start",
+      "type": "text",
+      "width": 300,
+      "x": 0,
+      "y": 280
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "b2175b489f943297",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Read A",
+      "type": "text",
+      "width": 300,
+      "x": 0,
+      "y": 440
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "4e869f96f4d4a732",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# End",
+      "type": "text",
+      "width": 300,
+      "x": 0,
+      "y": 1000
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "970976391aa7762e",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print: Area",
+      "type": "text",
+      "width": 300,
+      "x": 0,
+      "y": 840
+    },
+    {
+      "color": "5",
+      "height": 160,
+      "id": "44e0f0ca3ad55387",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# PI= 3.14\n# Area= (PI *( A* A) )/4",
+      "type": "text",
+      "width": 400,
+      "x": -50,
+      "y": 600
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+"While the literature notes will be stored within the reference system together with the bibliographic details" (In YT videos the told you make them separated, man this people make zettelkasten more harder to use and understand.)

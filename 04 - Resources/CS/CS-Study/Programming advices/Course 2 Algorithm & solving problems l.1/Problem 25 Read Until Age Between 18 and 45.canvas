@@ -1,0 +1,176 @@
+{
+  "edges": [
+    {
+      "fromNode": "c3d1f0201d89b766",
+      "fromSide": "bottom",
+      "id": "1a91037cf2e30a74",
+      "styleAttributes": {
+      },
+      "toNode": "a42746a4f65cd6a3",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "a42746a4f65cd6a3",
+      "fromSide": "right",
+      "id": "497e0398d89c11fc",
+      "label": "Yes",
+      "styleAttributes": {
+      },
+      "toNode": "5faa74d363b07102",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "5faa74d363b07102",
+      "fromSide": "bottom",
+      "id": "7f54f71a45ff2c81",
+      "styleAttributes": {
+      },
+      "toNode": "26182d509fddf30d",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "a42746a4f65cd6a3",
+      "fromSide": "left",
+      "id": "6b071707985ba19c",
+      "label": "No",
+      "styleAttributes": {
+      },
+      "toNode": "4f39a1020bd3b185",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4f39a1020bd3b185",
+      "fromSide": "left",
+      "id": "6eb75074f801288c",
+      "styleAttributes": {
+      },
+      "toNode": "eb2d619a8901912d",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 1200,
+      "id": "f4c663395375a29a",
+      "label": "Untitled group",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1000,
+      "x": -360,
+      "y": -40
+    },
+    {
+      "height": 600,
+      "id": "76b93434cabadbb4",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "![[2025-03-15 (10).png]]",
+      "type": "text",
+      "width": 1240,
+      "x": -480,
+      "y": -680
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "c3d1f0201d89b766",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Start",
+      "type": "text",
+      "width": 300,
+      "x": -20,
+      "y": 20
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "eb2d619a8901912d",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Read: age",
+      "type": "text",
+      "width": 300,
+      "x": -20,
+      "y": 160
+    },
+    {
+      "color": "5",
+      "height": 160,
+      "id": "45d45b02412d6db8",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# Result= (age>=18 && age<=45)",
+      "type": "text",
+      "width": 500,
+      "x": -120,
+      "y": 320
+    },
+    {
+      "color": "5",
+      "height": 240,
+      "id": "a42746a4f65cd6a3",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "text": "# Result= True",
+      "type": "text",
+      "width": 300,
+      "x": -10,
+      "y": 520
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "26182d509fddf30d",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# end",
+      "type": "text",
+      "width": 300,
+      "x": -10,
+      "y": 1000
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "5faa74d363b07102",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print: “Valide age”",
+      "type": "text",
+      "width": 300,
+      "x": 290,
+      "y": 800
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "4f39a1020bd3b185",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print: “invalide age”",
+      "type": "text",
+      "width": 300,
+      "x": -310,
+      "y": 800
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+---
+creation_date: 2025-12-28
+tags:
+  - Resources/Articles
+Resource: https://elzero.org/html-video/
+Author: "[[Alzero Wep School]]"
+---
+> [!summary]-
+> 
+
+# <font color="#646a73">Video</font>
+---
+### Input:
+```html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Book Store</title>
+    <meta name="description" content="This Is Our Book Store" />
+  </head>
+  <body>
+    <div>
+      <h1>Book Store</h1>
+      <p>This Is My Book Store, Welcome</p>
+    </div>
+    <video controls width="600" height="400" autoplay loop muted poster="imgs/home/cover-speed-website.png">
+      <source src="media/ghosts.mp4" type="video/mp4">
+      <source src="media/ghosts.ogg" type="video/ogg">
+      Your Browser Does Not Support Video Tag
+      <track src="my_file_en.vtt" kind="subtitles" srclang="en" label="English">
+      <track src="my_file_it.vtt" kind="subtitles" srclang="it" label="Italian">
+    </video>
+  </body>
+</html>
+```

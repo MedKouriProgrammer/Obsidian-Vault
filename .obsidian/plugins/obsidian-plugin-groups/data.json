@@ -1,0 +1,31 @@
+{
+  "groups": [
+    {
+      "loadAtStartup": true,
+      "disableOnStartup": false,
+      "delay": 3,
+      "id": "pgturnoffinstartingup",
+      "name": "Turn off in starting up",
+      "plugins": [
+        {
+          "id": "fleeting-notes-obsidian",
+          "name": "Fleeting Notes Sync"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": true,
+      "assignedDevices": [
+        "Mobile"
+      ],
+      "autoAdd": false
+    }
+  ],
+  "generateCommands": true,
+  "showNoticeOnGroupLoad": "none",
+  "devLogs": false,
+  "devices": [
+    "Mobile"
+  ],
+  "doLoadSynchronously": true,
+  "showStatusbarIcon": "None"
+}

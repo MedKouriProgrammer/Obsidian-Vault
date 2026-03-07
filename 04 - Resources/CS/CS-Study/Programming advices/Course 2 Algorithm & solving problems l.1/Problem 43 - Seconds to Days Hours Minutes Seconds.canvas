@@ -1,0 +1,136 @@
+{
+  "edges": [
+    {
+      "fromNode": "94ed76082a7ff70f",
+      "fromSide": "bottom",
+      "id": "e141b50c701d63c9",
+      "styleAttributes": {
+      },
+      "toNode": "660674c5abd2eb6b",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 1400,
+      "id": "29431d981c4c4d42",
+      "label": "Untitled group",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1080,
+      "x": 800,
+      "y": 240
+    },
+    {
+      "color": "5",
+      "height": 240,
+      "id": "f579a5da335363dd",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print: Days + “ : “ + Hours + “ : “ + Minutes + “ : “ + Seconds.",
+      "type": "text",
+      "width": 490,
+      "x": 1095,
+      "y": 1200
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "660674c5abd2eb6b",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# End",
+      "type": "text",
+      "width": 300,
+      "x": 1190,
+      "y": 1480
+    },
+    {
+      "height": 580,
+      "id": "9bbbc625d1506ed7",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "``` #include <iostream>  \nusing namespace std;\n\nvoid print_name(int TotalSeconds)\n{\n\tint Days = TotalSeconds / 86400;\n\tTotalSeconds %= 86400;\n\tint Hours = TotalSeconds / 3600;\n\tTotalSeconds %= 3600;\n\tint minutes = TotalSeconds / 60;\n\tint Seconds = TotalSeconds % 60;\n\n\tcout << Days << \":\" << Hours << \":\" << minutes << \":\" << Seconds;\n\n}\nint main() {\n\tint seconds;\n\tcout << \"Please enter the number of seconds\\n\";\n\tcin >> seconds;\n\tcout << \"\\n\";\n\n\t print_name(seconds);\n\n\treturn 0;\n}```",
+      "type": "text",
+      "width": 880,
+      "x": 1960,
+      "y": 260
+    },
+    {
+      "height": 540,
+      "id": "888aa3273f559312",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "![[2025-03-19 (2).png]]",
+      "type": "text",
+      "width": 1140,
+      "x": -320,
+      "y": -440
+    },
+    {
+      "height": 760,
+      "id": "e0a7dcd22b96f447",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "![[2025-03-19 (3).png]]",
+      "type": "text",
+      "width": 1000,
+      "x": 840,
+      "y": -550
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "94ed76082a7ff70f",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Start",
+      "type": "text",
+      "width": 300,
+      "x": 1190,
+      "y": 320
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "19948c369bd08dda",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Read: TotalSeconds",
+      "type": "text",
+      "width": 300,
+      "x": 1190,
+      "y": 480
+    },
+    {
+      "color": "5",
+      "height": 520,
+      "id": "708540ed46e1db28",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# Day= TotalSeconds /86400. \n# TotalSeconds = ToatalSeconds mod 86400\n# Hours= TotalSeconds / 3600.\n# Totalseconds = TotalSeconds mod 3600.\n# Minutes= TotalSeconds / 60.\n# Seconds= TotalSeconds mod 60.",
+      "type": "text",
+      "width": 770,
+      "x": 955,
+      "y": 640
+    }
+  ]
+}

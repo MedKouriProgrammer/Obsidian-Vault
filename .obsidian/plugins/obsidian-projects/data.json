@@ -1,0 +1,435 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {
+        "status": {
+          "options": [
+            "Backlog",
+            "Scripting",
+            "In Progress",
+            "Editing",
+            "Awaiting Thumbnail",
+            "Published"
+          ]
+        },
+        "content_type": {
+          "options": [
+            "Video",
+            "Short",
+            "Article"
+          ]
+        }
+      },
+      "defaultName": "",
+      "templates": [
+        "Projects/YouTube/meta/template.md"
+      ],
+      "excludedNotes": [
+        "Projects/YouTube/meta/Workflow.md",
+        "Projects/YouTube/meta/template.md"
+      ],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects/YouTube",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "Projects/YouTube",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 577
+              },
+              "path": {
+                "hide": true
+              },
+              "publish": {
+                "hide": true
+              },
+              "created": {
+                "hide": true
+              },
+              "updated": {
+                "hide": true
+              },
+              "sponsored_revenue": {
+                "width": 226
+              },
+              "published_date": {
+                "width": 179
+              },
+              "video_title": {
+                "width": 542
+              },
+              "video_tags": {
+                "width": 180
+              }
+            },
+            "orderFields": [
+              "name",
+              "video_title",
+              "content_type",
+              "status",
+              "order",
+              "target_date",
+              "sponsored",
+              "sponsor",
+              "sponsored_revenue",
+              "published",
+              "published_date",
+              "thumbnail",
+              "video_tags"
+            ]
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "published",
+                "operator": "is-not-checked",
+                "enabled": true,
+                "value": "Published"
+              },
+              {
+                "field": "status",
+                "operator": "is-not",
+                "enabled": true,
+                "value": "Published"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#fb4934",
+                "condition": {
+                  "field": "status",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Backlog"
+                }
+              },
+              {
+                "color": "#d65d0e",
+                "condition": {
+                  "field": "status",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Scripting"
+                }
+              },
+              {
+                "color": "#fabd2f",
+                "condition": {
+                  "field": "status",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "In Progress"
+                }
+              },
+              {
+                "color": "#b8bb26",
+                "condition": {
+                  "field": "status",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Editing"
+                }
+              },
+              {
+                "color": "#8ec07c",
+                "condition": {
+                  "field": "status",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Awaiting Thumbnail"
+                }
+              },
+              {
+                "color": "#458588",
+                "condition": {
+                  "field": "status",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Published"
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "order",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "7f16a2b8-0e9f-4896-b61e-fd6b16130c50",
+          "name": "All Items By Status Ordered By Target Date",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "status",
+            "priorityField": "target_date",
+            "includeFields": [
+              "target_date"
+            ],
+            "columns": {
+              "No status": {
+                "weight": 0
+              },
+              "Backlog": {
+                "weight": 1
+              },
+              "Scripting": {
+                "weight": 2
+              },
+              "In Progress": {
+                "weight": 3
+              },
+              "Editing": {
+                "weight": 4
+              },
+              "Awaiting Thumbnail": {
+                "weight": 5
+              },
+              "Published": {
+                "weight": 6
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#fb4934",
+                "condition": {
+                  "field": "status",
+                  "operator": "is-empty",
+                  "enabled": true,
+                  "value": ""
+                }
+              },
+              {
+                "color": "#fe8019",
+                "condition": {
+                  "field": "status",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Backlog"
+                }
+              },
+              {
+                "color": "#fabd2f",
+                "condition": {
+                  "field": "status",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Scripting"
+                }
+              },
+              {
+                "color": "#b8bb26",
+                "condition": {
+                  "field": "status",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "In Progress"
+                }
+              },
+              {
+                "color": "#8ec07c",
+                "condition": {
+                  "field": "status",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Published"
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "e8f78a05-4cf0-4d6d-8adb-6e6e4cc14eba",
+          "name": "Kanban",
+          "type": "board"
+        },
+        {
+          "config": {
+            "dateField": "target_date",
+            "checkField": "published",
+            "interval": "month"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "b70ad4e7-2aea-4d4d-b0af-a0fc5d858520",
+          "name": "Calendar",
+          "type": "calendar"
+        },
+        {
+          "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 351
+              },
+              "path": {
+                "hide": true
+              },
+              "publish": {
+                "hide": true
+              },
+              "created": {
+                "hide": true
+              },
+              "updated": {
+                "hide": true
+              },
+              "sponsored_revenue": {
+                "width": 226
+              },
+              "published_date": {
+                "width": 179
+              },
+              "video_title": {
+                "width": 542
+              }
+            },
+            "orderFields": [
+              "name",
+              "video_title",
+              "content_type",
+              "status",
+              "order",
+              "target_date",
+              "sponsored",
+              "sponsor",
+              "sponsored_revenue",
+              "published",
+              "published_date",
+              "thumbnail",
+              "video_tags"
+            ],
+            "sortField": "target_date",
+            "sortAsc": false
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "status",
+                "operator": "is-not-empty",
+                "enabled": true
+              },
+              {
+                "field": "status",
+                "operator": "is-not",
+                "enabled": true,
+                "value": "Published"
+              },
+              {
+                "field": "published",
+                "operator": "is-not-checked",
+                "enabled": true
+              }
+            ]
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#cc241d",
+                "condition": {
+                  "field": "content_type",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Video"
+                }
+              },
+              {
+                "color": "#d65d0e",
+                "condition": {
+                  "field": "content_type",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Livestream"
+                }
+              },
+              {
+                "color": "#d79921",
+                "condition": {
+                  "field": "content_type",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Short"
+                }
+              },
+              {
+                "color": "#98971a",
+                "condition": {
+                  "field": "content_type",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Post"
+                }
+              },
+              {
+                "color": "#ebdbb2",
+                "condition": {
+                  "field": "content_type",
+                  "operator": "is-empty",
+                  "enabled": true
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "content_type",
+                "order": "asc",
+                "enabled": true
+              },
+              {
+                "field": "target_date",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "8c1fe1d6-0202-488a-9347-88975b2a2c68",
+          "name": "Content Type Ordered By Target Date",
+          "type": "table"
+        }
+      ],
+      "id": "5f7dd538-acd9-4517-9a50-5da7882a53b7",
+      "name": "YouTube"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [
+      {
+        "project": "5f7dd538-acd9-4517-9a50-5da7882a53b7"
+      }
+    ],
+    "linkBehavior": "open-editor"
+  }
+}

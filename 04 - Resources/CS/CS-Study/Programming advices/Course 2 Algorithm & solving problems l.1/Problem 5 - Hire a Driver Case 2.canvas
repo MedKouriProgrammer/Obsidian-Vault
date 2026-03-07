@@ -1,0 +1,253 @@
+{
+  "edges": [
+    {
+      "fromNode": "ac038f8a9f2cc940",
+      "fromSide": "bottom",
+      "id": "54864a60c8a1095c",
+      "styleAttributes": {
+      },
+      "toNode": "66efc74b1bad1787",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "66efc74b1bad1787",
+      "fromSide": "left",
+      "id": "f030bdd536bf388d",
+      "styleAttributes": {
+      },
+      "toNode": "e73145f92f7c834c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "66efc74b1bad1787",
+      "fromSide": "right",
+      "id": "ed1833ac992cf009",
+      "styleAttributes": {
+      },
+      "toNode": "c1c3ea39a2434bcb",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e73145f92f7c834c",
+      "fromSide": "bottom",
+      "id": "4aa16fe019fa20d1",
+      "styleAttributes": {
+      },
+      "toNode": "ebb18a5291ecb193",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c1c3ea39a2434bcb",
+      "fromSide": "bottom",
+      "id": "b6d41d7a4924eaf2",
+      "styleAttributes": {
+      },
+      "toNode": "ebb18a5291ecb193",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "6ba136ed6fbe6297",
+      "fromSide": "left",
+      "id": "3bc4ef53327eb234",
+      "styleAttributes": {
+      },
+      "toNode": "bfdf608c2788b72f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bfdf608c2788b72f",
+      "fromSide": "bottom",
+      "id": "5d269b4ad1ae4d17",
+      "styleAttributes": {
+      },
+      "toNode": "e73145f92f7c834c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e73145f92f7c834c",
+      "fromSide": "bottom",
+      "id": "9aa8ca780b521b09",
+      "styleAttributes": {
+      },
+      "toNode": "ebb18a5291ecb193",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "bfdf608c2788b72f",
+      "fromSide": "right",
+      "id": "1645b1a5f1f8d4eb",
+      "label": "No",
+      "styleAttributes": {
+      },
+      "toNode": "4c9102bc45fa881b",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 1240,
+      "id": "b053aeb9e4b0d028",
+      "label": "Untitled group",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1320,
+      "x": -530,
+      "y": 80
+    },
+    {
+      "color": "5",
+      "height": 315,
+      "id": "bfdf608c2788b72f",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "text": "# Recommendation:  true",
+      "type": "text",
+      "width": 380,
+      "x": -530,
+      "y": 445
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "9fb76ab0fff18d5c",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# yes",
+      "type": "text",
+      "width": 80,
+      "x": 30,
+      "y": 760
+    },
+    {
+      "color": "5",
+      "height": 140,
+      "id": "6ba136ed6fbe6297",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Ask user enter age & driver lisence & (Recommendation)",
+      "type": "text",
+      "width": 330,
+      "x": 165,
+      "y": 240
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "e73145f92f7c834c",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# print “Hired“",
+      "type": "text",
+      "width": 300,
+      "x": -140,
+      "y": 960
+    },
+    {
+      "height": 460,
+      "id": "5b9e5445fa7a6de4",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "![[2025-03-13 (8).png]]",
+      "type": "text",
+      "width": 880,
+      "x": -340,
+      "y": -460
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "ac038f8a9f2cc940",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Start",
+      "type": "text",
+      "width": 300,
+      "x": 180,
+      "y": 80
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "4c9102bc45fa881b",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# Result: age > 21 && driver lisence = true",
+      "type": "text",
+      "width": 300,
+      "x": 180,
+      "y": 445
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "c1c3ea39a2434bcb",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# print “Rejecterd“",
+      "type": "text",
+      "width": 300,
+      "x": 440,
+      "y": 960
+    },
+    {
+      "color": "5",
+      "height": 240,
+      "id": "66efc74b1bad1787",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "text": "# Result true",
+      "type": "text",
+      "width": 300,
+      "x": 180,
+      "y": 640
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "ebb18a5291ecb193",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# End",
+      "type": "text",
+      "width": 300,
+      "x": 160,
+      "y": 1180
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "07c89157f11d3d7b",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# no",
+      "type": "text",
+      "width": 80,
+      "x": 530,
+      "y": 760
+    }
+  ]
+}

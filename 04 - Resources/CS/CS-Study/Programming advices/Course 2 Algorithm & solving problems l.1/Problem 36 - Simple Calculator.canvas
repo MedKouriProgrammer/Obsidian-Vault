@@ -1,0 +1,333 @@
+{
+  "edges": [
+    {
+      "fromNode": "8cd767b4f9c8ab19",
+      "fromSide": "bottom",
+      "id": "57885a411f49487f",
+      "styleAttributes": {
+      },
+      "toNode": "3b83c553dd56469e",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "3b83c553dd56469e",
+      "fromSide": "bottom",
+      "id": "ba4e1a22f392e05e",
+      "styleAttributes": {
+      },
+      "toNode": "e5802d301ead9dc5",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "3b83c553dd56469e",
+      "fromSide": "bottom",
+      "id": "a094deb795521952",
+      "styleAttributes": {
+      },
+      "toNode": "c7e49f1e1cd1967c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "3b83c553dd56469e",
+      "fromSide": "bottom",
+      "id": "426d668df05e0a18",
+      "styleAttributes": {
+      },
+      "toNode": "e0dc2c4725b8f53d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "3b83c553dd56469e",
+      "fromSide": "bottom",
+      "id": "9c0eebf5b9679a89",
+      "styleAttributes": {
+      },
+      "toNode": "c83d3c9f752ffd4d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e5802d301ead9dc5",
+      "fromSide": "bottom",
+      "id": "d23f34a125ec0202",
+      "label": "Yes",
+      "styleAttributes": {
+      },
+      "toNode": "91149af49f0f006e",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c7e49f1e1cd1967c",
+      "fromSide": "bottom",
+      "id": "2ad956ffa7fbd599",
+      "styleAttributes": {
+      },
+      "toNode": "c37c5f8e51103c74",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e0dc2c4725b8f53d",
+      "fromSide": "bottom",
+      "id": "a27fc5befad67b24",
+      "styleAttributes": {
+      },
+      "toNode": "838f7fcb1d099546",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c83d3c9f752ffd4d",
+      "fromSide": "bottom",
+      "id": "9cb0bc47c5f4ffdd",
+      "styleAttributes": {
+      },
+      "toNode": "f0dc5443b44acea8",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "91149af49f0f006e",
+      "fromSide": "bottom",
+      "id": "da1ac7aa103e4250",
+      "styleAttributes": {
+      },
+      "toNode": "7348d3f59c56442f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c37c5f8e51103c74",
+      "fromSide": "bottom",
+      "id": "fe20c0f9b00211b1",
+      "styleAttributes": {
+      },
+      "toNode": "7348d3f59c56442f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "838f7fcb1d099546",
+      "fromSide": "bottom",
+      "id": "79b22fd62f8fd0bf",
+      "styleAttributes": {
+      },
+      "toNode": "7348d3f59c56442f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f0dc5443b44acea8",
+      "fromSide": "bottom",
+      "id": "16d78682b1fe9fae",
+      "styleAttributes": {
+      },
+      "toNode": "7348d3f59c56442f",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "e5802d301ead9dc5",
+      "fromSide": "right",
+      "id": "6b94b2604777dd9e",
+      "label": "No",
+      "styleAttributes": {
+      },
+      "toNode": "c7e49f1e1cd1967c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c7e49f1e1cd1967c",
+      "fromSide": "right",
+      "id": "06895c362541baba",
+      "label": "No",
+      "styleAttributes": {
+      },
+      "toNode": "e0dc2c4725b8f53d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e0dc2c4725b8f53d",
+      "fromSide": "right",
+      "id": "2a494fae6d0686ff",
+      "label": "No",
+      "styleAttributes": {
+      },
+      "toNode": "c83d3c9f752ffd4d",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 1160,
+      "id": "20eb18c9fffb8559",
+      "label": "Untitled group",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1560,
+      "x": -400,
+      "y": 320
+    },
+    {
+      "height": 720,
+      "id": "5a1c851aa6b6bef7",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "![[2025-03-18 (1).png]]",
+      "type": "text",
+      "width": 840,
+      "x": -40,
+      "y": -440
+    },
+    {
+      "color": "5",
+      "height": 240,
+      "id": "e5802d301ead9dc5",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "text": "# OperType= ( + )",
+      "type": "text",
+      "width": 300,
+      "x": -340,
+      "y": 800
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "91149af49f0f006e",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print: Number1 + Number2",
+      "type": "text",
+      "width": 300,
+      "x": -340,
+      "y": 1160
+    },
+    {
+      "color": "5",
+      "height": 240,
+      "id": "c7e49f1e1cd1967c",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "text": "# Opertype= ( - )",
+      "type": "text",
+      "width": 300,
+      "x": 40,
+      "y": 800
+    },
+    {
+      "color": "5",
+      "height": 240,
+      "id": "e0dc2c4725b8f53d",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "text": "# OperType= ( * )",
+      "type": "text",
+      "width": 300,
+      "x": 440,
+      "y": 800
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "8cd767b4f9c8ab19",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Start",
+      "type": "text",
+      "width": 300,
+      "x": 230,
+      "y": 360
+    },
+    {
+      "color": "5",
+      "height": 160,
+      "id": "3b83c553dd56469e",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Read: Number1, Number2, Operation type",
+      "type": "text",
+      "width": 360,
+      "x": 200,
+      "y": 520
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "c37c5f8e51103c74",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print: Number1 - Number2",
+      "type": "text",
+      "width": 300,
+      "x": 40,
+      "y": 1160
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "7348d3f59c56442f",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# End",
+      "type": "text",
+      "width": 300,
+      "x": 230,
+      "y": 1360
+    },
+    {
+      "color": "5",
+      "height": 240,
+      "id": "c83d3c9f752ffd4d",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "text": "# OperType= ( / )",
+      "type": "text",
+      "width": 300,
+      "x": 800,
+      "y": 800
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "f0dc5443b44acea8",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print: Number1 / Number2",
+      "type": "text",
+      "width": 300,
+      "x": 800,
+      "y": 1160
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "838f7fcb1d099546",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print: Number1 * Number2",
+      "type": "text",
+      "width": 300,
+      "x": 440,
+      "y": 1160
+    }
+  ]
+}

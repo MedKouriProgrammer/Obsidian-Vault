@@ -1,0 +1,124 @@
+{
+  "edges": [
+    {
+      "fromNode": "16cb827e2e2cba95",
+      "fromSide": "bottom",
+      "id": "4cdd65e5a9e87970",
+      "styleAttributes": {
+      },
+      "toNode": "3375376d069373b0",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 1200,
+      "id": "2c158b2e502d1761",
+      "label": "Untitled group",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 455,
+      "x": 240,
+      "y": 520
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "16cb827e2e2cba95",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Start",
+      "type": "text",
+      "width": 300,
+      "x": 320,
+      "y": 560
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "11f7283813fe343e",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Read: num1 num2",
+      "type": "text",
+      "width": 300,
+      "x": 320,
+      "y": 720
+    },
+    {
+      "color": "5",
+      "height": 240,
+      "id": "5eae93d2feb2bf55",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "\n# Temp=nam1\n# num1 = num2\n# num2 = Temp",
+      "type": "text",
+      "width": 450,
+      "x": 245,
+      "y": 1040
+    },
+    {
+      "color": "5",
+      "height": 120,
+      "id": "4c40df74cd03fb6e",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print num1 \n# Print num2",
+      "type": "text",
+      "width": 338,
+      "x": 301,
+      "y": 880
+    },
+    {
+      "color": "5",
+      "height": 120,
+      "id": "1406e8fa146ab660",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print num1\n# Print num2",
+      "type": "text",
+      "width": 375,
+      "x": 283,
+      "y": 1360
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "3375376d069373b0",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# End",
+      "type": "text",
+      "width": 300,
+      "x": 321,
+      "y": 1560
+    },
+    {
+      "height": 380,
+      "id": "e7448106ac48926f",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "![[2025-03-21.png]]",
+      "type": "text",
+      "width": 540,
+      "x": 200,
+      "y": 40
+    }
+  ]
+}

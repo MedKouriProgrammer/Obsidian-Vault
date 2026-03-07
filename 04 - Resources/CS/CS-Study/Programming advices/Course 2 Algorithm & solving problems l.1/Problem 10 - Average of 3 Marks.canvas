@@ -1,0 +1,124 @@
+{
+  "edges": [
+    {
+      "fromNode": "254ef3e59d58a821",
+      "fromSide": "bottom",
+      "id": "1b5867659ca6a5a3",
+      "styleAttributes": {
+      },
+      "toNode": "c5bf7e7346979a43",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 1000,
+      "id": "f910f403d8fd0aca",
+      "label": "Untitled group",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 620,
+      "x": -120,
+      "y": 520
+    },
+    {
+      "height": 640,
+      "id": "2313fdb5a43510de",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "![[2025-03-14 (2).png]]",
+      "type": "text",
+      "width": 660,
+      "x": -140,
+      "y": -200
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "1e133c99d84a9254",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# read: Mark 1 & Mark 2 & Mark 3",
+      "type": "text",
+      "width": 340,
+      "x": 20,
+      "y": 760
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "37d8804a230c37ce",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# Average = (Mark1 + Mark 2 + Mark 3)/3",
+      "type": "text",
+      "width": 320,
+      "x": 30,
+      "y": 960
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "254ef3e59d58a821",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Start",
+      "type": "text",
+      "width": 300,
+      "x": 40,
+      "y": 560
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "57051e51f5bf1ef1",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# print: Average",
+      "type": "text",
+      "width": 300,
+      "x": 40,
+      "y": 1160
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "c5bf7e7346979a43",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# End",
+      "type": "text",
+      "width": 300,
+      "x": 40,
+      "y": 1360
+    },
+    {
+      "color": "#989090",
+      "height": 460,
+      "id": "1c43f56337cceee7",
+      "styleAttributes": {
+        "shape": "predefined-process",
+        "textAlign": "center"
+      },
+      "text": "# Note: the priority of the computer is calculate what between ( ? ).\n\n# Note: If i have for example 4 marks and I want see the average I should division ➗ on 4.",
+      "type": "text",
+      "width": 300,
+      "x": 520,
+      "y": 760
+    }
+  ]
+}

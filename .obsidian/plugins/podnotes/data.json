@@ -1,0 +1,60 @@
+{
+  "savedFeeds": {
+    "Naval": {
+      "title": "Naval",
+      "url": "https://naval.libsyn.com/rss",
+      "artworkUrl": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/eb/f4/dc/ebf4dc3a-0292-a846-b8a1-496ea5c8b435/mza_6617487660716274171.png/100x100bb.jpg",
+      "collectionId": 1454097755
+    }
+  },
+  "podNotes": {},
+  "defaultPlaybackRate": 1,
+  "playedEpisodes": {},
+  "favorites": {
+    "icon": "lucide-star",
+    "name": "Favorites",
+    "shouldEpisodeRemoveAfterPlay": false,
+    "shouldRepeat": false,
+    "episodes": []
+  },
+  "queue": {
+    "icon": "list-ordered",
+    "name": "Queue",
+    "shouldEpisodeRemoveAfterPlay": true,
+    "shouldRepeat": false,
+    "episodes": []
+  },
+  "playlists": {},
+  "skipBackwardLength": 15,
+  "skipForwardLength": 15,
+  "currentEpisode": {
+    "title": "The Poverty of Compromise",
+    "streamUrl": "https://traffic.libsyn.com/secure/naval/Naval-Ep123.mp3?dest-id=1103966",
+    "url": "http://nav.al/compromise",
+    "description": "<p>Transcript http://nav.al/compromise</p>",
+    "content": "<p>Transcript http://nav.al/compromise</p>",
+    "podcastName": "Naval",
+    "artworkUrl": "https://ssl-static.libsyn.com/p/assets/6/e/9/c/6e9cf22bfd4fc1885f2e77a3093c12a1/Podcast.png",
+    "episodeDate": "2021-11-29T18:01:59.000Z",
+    "feedUrl": "https://naval.libsyn.com/rss",
+    "itunesTitle": "The Poverty of Compromise"
+  },
+  "timestamp": {
+    "template": "\n- {{linktime}}: "
+  },
+  "note": {
+    "path": "Podcast/{{podcast}} - {{title}}",
+    "template": "---\nPodcast: {{podcast}}\nTitle: {{title}}\nDate: {{date}}\nAlias: \n---"
+  },
+  "download": {
+    "path": ""
+  },
+  "downloadedEpisodes": {},
+  "localFiles": {
+    "icon": "folder",
+    "name": "Local Files",
+    "shouldEpisodeRemoveAfterPlay": false,
+    "shouldRepeat": false,
+    "episodes": []
+  }
+}

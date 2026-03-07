@@ -1,0 +1,30 @@
+---
+creation_date: 2025-12-28
+tags:
+  - Resources/Articles
+Resource: https://elzero.org/html-paragraph-element/
+Author: "[[Alzero Wep School]]"
+---
+> [!summary]-
+> 
+
+# <font color="#646a73">Paragraph Element</font>
+---
+### Input:
+```html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Book Store</title>
+    <meta name="description" content="This Is Our Book Store" />
+  </head>
+  <body>
+    <h1>Book Store</h1>
+    <p>This Is My Book Store, Welcome</p> <p>We Have A Big Sale</p>
+    Line 1
+    Line 2
+    Line 3
+  </body>
+</html>
+```

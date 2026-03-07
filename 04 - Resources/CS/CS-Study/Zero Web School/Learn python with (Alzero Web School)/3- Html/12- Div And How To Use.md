@@ -1,0 +1,87 @@
+---
+creation_date: 2025-12-28
+tags:
+  - Resources/Articles
+Resource: https://elzero.org/html-div-and-how-to-use/
+Author: "[[Alzero Wep School]]"
+---
+> [!summary]-
+> 
+
+# <font color="#646a73">Div And How To Use</font>
+---
+### Input:
+```html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Book Store</title>
+    <meta name="description" content="This Is Our Book Store" />
+  </head>
+  <body>
+    <div>
+      <h1>Book Store</h1>
+      <p>This Is My Book Store, Welcome</p>
+    </div>
+
+    <div class="romantic">
+      <div class="book">
+        <h3>Book Title</h3>
+        <p>Book Description</p>
+        <span>$100</span>
+      </div>
+      <div class="book">
+        <h3>Book Title</h3>
+        <p>Book Description</p>
+        <span>$100</span>
+      </div>
+      <div class="book">
+        <h3>Book Title</h3>
+        <p>Book Description</p>
+        <span>$100</span>
+      </div>
+    </div>
+
+    <hr />
+
+    <div class="police">
+      <div class="book">
+        <h3>Book Title</h3>
+        <p>Book Description</p>
+        <span>$100</span>
+      </div>
+      <div class="book">
+        <h3>Book Title</h3>
+        <p>Book Description</p>
+        <span>$100</span>
+      </div>
+      <div class="book">
+        <h3>Book Title</h3>
+        <p>Book Description</p>
+        <span>$100</span>
+      </div>
+    </div>
+
+    <hr />
+
+    <div class="fantasy">
+      <div class="book">
+        <h3>Book Title</h3>
+        <p>Book Description</p>
+        <span>$100</span>
+      </div>
+      <div class="book">
+        <h3>Book Title</h3>
+        <p>Book Description</p>
+        <span>$100</span>
+      </div>
+      <div class="book">
+        <h3>Book Title</h3>
+        <p>Book Description</p>
+        <span>$100</span>
+      </div>
+    </div>
+  </body>
+</html>
+```

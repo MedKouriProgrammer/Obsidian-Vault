@@ -1,0 +1,59 @@
+<%* 
+	const year = await tp.system.prompt("4 digit year") 
+	await tp.file.rename(`${year}-Y`);
+%>
+<%* 
+	tR = "---" + "\n"
+	tR += "tags:" + "\n"
+	tR += "publish: false" + "\n"
+	tR += "aliases:" + "\n"
+	tR += "aliases:" + "\n"
+	tR += "created:" + "\n"
+	tR += "updated:" + "\n"
+	tR += "---"
+	tR += "\n\n"
+	tR += "# Annual Review:"
+	tR += "\n\n"
+	tR += "[[" + (year - 1) +"-Y]]" + " <== <button class='date_button_today'>This Month</button> ==> " + "[[" + (parseInt(year) + 1) + "-Y]]"
+	tR += "\n\n"
+	tR += "## Aliases"
+	tR += "\n\n"
+	tR += "```dataview" + "\n"
+	tR += "TABLE aliases" + "\n"
+	tR += "FROM \"Journal\"" + "\n"
+	tR += "WHERE aliases != null" + "\n"
+	tR += "WHERE length(aliases) > 1" + "\n"
+	tR += "WHERE file.day.year = " + `${year}` + "\n"
+	tR += "```"
+	tR += "\n\n"
+	tR += "## Highlights"
+	tR += "\n\n"
+	tR += "```dataview" + "\n"
+	tR += "TABLE WITHOUT ID dateformat(file.ctime, \"yyyy-MM\") AS Month, file.day.weekyear AS Week, highlights" + "\n"
+	tR += "FROM \"Journal\"" + "\n"
+	tR += "WHERE highlights != null" + "\n"
+	tR += "WHERE file.day.year = " + `${year}` + "\n"
+	tR += "SORT file.day.weekyear" + "\n"
+	tR += "```"
+	tR += "\n\n"
+
+%>
+
+
+
+
+
+---
+Links: [[Yearly Reviews]]
+___
+# Math assignment
+[[<% tp.date.now("Y", "P-1Y") %>]] | [[<% tp.date.now("Y") %>]] | [[<% tp.date.now("Y", "P1Y") %>]]
+
+
+## Quarters
+```dataview
+table Sentence, Happiness, Productivity, Relationships, Focus
+from [[quaterlyReview]] AND [[2023-02-21.png]]
+sort file.name asc
+```
+ 

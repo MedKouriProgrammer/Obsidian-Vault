@@ -1,0 +1,110 @@
+{
+  "edges": [
+    {
+      "fromNode": "ded09e4538e45000",
+      "fromSide": "bottom",
+      "id": "aad7f3ec6385407f",
+      "styleAttributes": {
+      },
+      "toNode": "cd733943bb592d66",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 840,
+      "id": "036b2f78fe84a294",
+      "label": "Untitled group",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 680,
+      "x": 120,
+      "y": 240
+    },
+    {
+      "height": 540,
+      "id": "bbd445ee8ab792b1",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "![[2025-03-18 (6).png]]",
+      "type": "text",
+      "width": 1180,
+      "x": -120,
+      "y": -340
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "ded09e4538e45000",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Start",
+      "type": "text",
+      "width": 300,
+      "x": 320,
+      "y": 260
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "cd733943bb592d66",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# End",
+      "type": "text",
+      "width": 300,
+      "x": 320,
+      "y": 920
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "c3d82ddec122deef",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print: Reminders",
+      "type": "text",
+      "width": 300,
+      "x": 320,
+      "y": 780
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "f7738cc3a31fdb08",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Read: TotalBill & cashPaid",
+      "type": "text",
+      "width": 300,
+      "x": 320,
+      "y": 400
+    },
+    {
+      "color": "5",
+      "height": 160,
+      "id": "fae169bd26f06929",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# Reminders= TotalBill - CashPaid",
+      "type": "text",
+      "width": 360,
+      "x": 290,
+      "y": 560
+    }
+  ]
+}

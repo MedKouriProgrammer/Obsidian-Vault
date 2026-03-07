@@ -1,0 +1,176 @@
+{
+  "edges": [
+    {
+      "fromNode": "ec4904eecf5425b9",
+      "fromSide": "bottom",
+      "id": "fc6dbbd074a10b01",
+      "styleAttributes": {
+      },
+      "toNode": "d34999f07ff5df61",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "d34999f07ff5df61",
+      "fromSide": "left",
+      "id": "03242e3dc2f35dee",
+      "label": "No",
+      "styleAttributes": {
+      },
+      "toNode": "f9fd38d6595c6e6e",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "f9fd38d6595c6e6e",
+      "fromSide": "top",
+      "id": "791c456748319276",
+      "styleAttributes": {
+      },
+      "toNode": "4feb07f10524397c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d34999f07ff5df61",
+      "fromSide": "bottom",
+      "id": "68bb9a13e34180ee",
+      "label": "yes",
+      "styleAttributes": {
+      },
+      "toNode": "db126386415fc48c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "db126386415fc48c",
+      "fromSide": "bottom",
+      "id": "b5dd033e3e4276d3",
+      "styleAttributes": {
+      },
+      "toNode": "32098e628fa775f7",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 1240,
+      "id": "16bff3b87c0af495",
+      "label": "Untitled group",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1160,
+      "x": -600,
+      "y": 80
+    },
+    {
+      "height": 680,
+      "id": "1889ee36f66edf35",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "![[2025-03-20 (5).png]]",
+      "type": "text",
+      "width": 1280,
+      "x": -680,
+      "y": -680
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "4feb07f10524397c",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Read: ATM PIN",
+      "type": "text",
+      "width": 300,
+      "x": -30,
+      "y": 320
+    },
+    {
+      "color": "5",
+      "height": 200,
+      "id": "d34999f07ff5df61",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "text": "# ATM PIN= 1234",
+      "type": "text",
+      "width": 300,
+      "x": -30,
+      "y": 480
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "f9fd38d6595c6e6e",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print: “Wrong PIN”",
+      "type": "text",
+      "width": 300,
+      "x": -520,
+      "y": 530
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "ec4904eecf5425b9",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Start",
+      "type": "text",
+      "width": 300,
+      "x": -30,
+      "y": 160
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "32098e628fa775f7",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# End",
+      "type": "text",
+      "width": 300,
+      "x": -30,
+      "y": 1120
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "db126386415fc48c",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# Balance= 7500",
+      "type": "text",
+      "width": 300,
+      "x": -30,
+      "y": 800
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "138cf53bdb9b85ab",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print: “Your Balance is: “ + Balance ",
+      "type": "text",
+      "width": 555,
+      "x": -157,
+      "y": 960
+    }
+  ]
+}

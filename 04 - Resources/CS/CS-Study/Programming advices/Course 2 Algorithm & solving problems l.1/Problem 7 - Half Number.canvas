@@ -1,0 +1,119 @@
+{
+  "edges": [
+    {
+      "fromNode": "234d598d89e45113",
+      "fromSide": "bottom",
+      "id": "cfa9a3dedbc43ac5",
+      "styleAttributes": {
+      },
+      "toNode": "c124da7bda0d14c9",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "5bb1e3e5c459c56a",
+      "fromSide": "bottom",
+      "id": "19ba28d91df82974",
+      "styleAttributes": {
+      },
+      "toNode": "c124da7bda0d14c9",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 1120,
+      "id": "487b61acf9b8dfe8",
+      "label": "Untitled group",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 620,
+      "x": -220,
+      "y": 40
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "5bb1e3e5c459c56a",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Start",
+      "type": "text",
+      "width": 300,
+      "x": -60,
+      "y": 80
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "234d598d89e45113",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Ask user enter: number\n",
+      "type": "text",
+      "width": 300,
+      "x": -60,
+      "y": 240
+    },
+    {
+      "color": "5",
+      "height": 260,
+      "id": "8b1b2501da480e20",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# num = number / 2\n# R=”Half of ”+” number ”+” is ” + “ num“",
+      "type": "text",
+      "width": 300,
+      "x": -60,
+      "y": 420
+    },
+    {
+      "height": 760,
+      "id": "ecf4183e67523d91",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "![[2025-03-13 (11).png]]",
+      "type": "text",
+      "width": 720,
+      "x": -270,
+      "y": -800
+    },
+    {
+      "color": "5",
+      "height": 160,
+      "id": "371075dd081583ed",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print R",
+      "type": "text",
+      "width": 380,
+      "x": -100,
+      "y": 760
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "c124da7bda0d14c9",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# End",
+      "type": "text",
+      "width": 300,
+      "x": -60,
+      "y": 1000
+    }
+  ]
+}

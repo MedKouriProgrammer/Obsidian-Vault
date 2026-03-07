@@ -1,0 +1,110 @@
+{
+  "edges": [
+    {
+      "fromNode": "c9f01390dea9ed7a",
+      "fromSide": "bottom",
+      "id": "d4f8392ae51563f4",
+      "styleAttributes": {
+      },
+      "toNode": "60d842c6444a61a1",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 880,
+      "id": "bc7577c812f3399e",
+      "label": "Untitled group",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 800,
+      "x": -440,
+      "y": 280
+    },
+    {
+      "height": 680,
+      "id": "7cf88e6b364104d8",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "![[2025-03-18.png]]",
+      "type": "text",
+      "width": 720,
+      "x": -400,
+      "y": -440
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "c9f01390dea9ed7a",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Start",
+      "type": "text",
+      "width": 300,
+      "x": -190,
+      "y": 320
+    },
+    {
+      "color": "5",
+      "height": 120,
+      "id": "e733b72ca1184f33",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Raed: Penny,Nickel,Dime,Quarter,  Dollar",
+      "type": "text",
+      "width": 422,
+      "x": -247,
+      "y": 480
+    },
+    {
+      "color": "5",
+      "height": 160,
+      "id": "761410c29d9043b5",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# PenniesTotal= Penny* 1 +Nickle* 5 +Dime* 10 +Quarter* 25 +Dollar* 100.\n# DollarsTotal= PenniesTotal / 100",
+      "type": "text",
+      "width": 627,
+      "x": -353,
+      "y": 640
+    },
+    {
+      "color": "5",
+      "height": 140,
+      "id": "32eb332c6433a1fa",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print: PenniesTotal\n# Print: DollarsTotal",
+      "type": "text",
+      "width": 330,
+      "x": -201,
+      "y": 860
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "60d842c6444a61a1",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# End",
+      "type": "text",
+      "width": 300,
+      "x": -190,
+      "y": 1040
+    }
+  ]
+}

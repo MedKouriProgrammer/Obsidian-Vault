@@ -1,0 +1,66 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "height": 320,
+      "id": "44f1dff4dfea4029",
+      "label": "probleme 1:",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 300,
+      "x": -180,
+      "y": -340
+    },
+    {
+      "height": 60,
+      "id": "056928a8e91d5a71",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "start",
+      "type": "text",
+      "width": 260,
+      "x": -160,
+      "y": -320
+    },
+    {
+      "height": 60,
+      "id": "57f069e126b90b1f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "end",
+      "type": "text",
+      "width": 260,
+      "x": -160,
+      "y": -100
+    },
+    {
+      "height": 60,
+      "id": "795c68d98d30418e",
+      "styleAttributes": {
+        "border": null,
+        "textAlign": "center"
+      },
+      "text": "print name\n",
+      "type": "text",
+      "width": 260,
+      "x": -160,
+      "y": -200
+    },
+    {
+      "file": "j;jjkop.md",
+      "height": 400,
+      "id": "fa4e2c3914ab78d4",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -280,
+      "y": -600
+    }
+  ]
+}

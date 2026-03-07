@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "90d921b94a3c35d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7969995ebfae25a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f9a7e7f2e8fa672",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Resources/CS/CS-Study/Yehya Tech/Learn Git & GitHub.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learn Git & GitHub"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0815b36d4c6c8ed3",
+    "type": "split",
+    "children": [
+      {
+        "id": "703df2a4f6ed1c38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ac8680c995a6864",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "97eba00af3bd6b86",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c103024e7ee06743",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "8df2384d880561b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 331.5
+  },
+  "right": {
+    "id": "71c8d860eb3e992c",
+    "type": "split",
+    "children": [
+      {
+        "id": "10312803a03b3171",
+        "type": "tabs",
+        "dimension": 55.09138381201044,
+        "children": [
+          {
+            "id": "ecc1e2e5a4822c62",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 1 to 10.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Problems From 1 to 10"
+            }
+          },
+          {
+            "id": "7e6945d0ad671f82",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "06 - Daily/Daily/2025-09-12.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-09-12"
+            }
+          },
+          {
+            "id": "a8756e120adbba0f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04 - Resources/CS/CS-Study/Yehya Tech/Learn Git & GitHub.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Learn Git & GitHub"
+            }
+          },
+          {
+            "id": "764a5f98aea4e15a",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 1 to 10.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Problems From 1 to 10"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "25982acfb5a1acbb",
+        "type": "tabs",
+        "dimension": 44.90861618798956,
+        "children": [
+          {
+            "id": "b60cdad144c6fee0",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "208b0ebd0207c5f6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "command-palette:Open command palette": true,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "2f9a7e7f2e8fa672",
+  "lastOpenFiles": [
+    "99 - Meta/99 - Attachment/Pasted image 20260307172307.png",
+    "99 - Meta/99 - Attachment/Pasted image 20260307172057.png",
+    "99 - Meta/99 - Attachment/Pasted image 20260307164030.png",
+    "99 - Meta/99 - Attachment/Pasted image 20260307162423.png",
+    "99 - Meta/99 - Attachment/Pasted image 20260307162340.png",
+    "99 - Meta/99 - Attachment/Pasted image 20260307162337.png",
+    "99 - Meta/99 - Attachment/Pasted image 20260307162328.png",
+    "99 - Meta/99 - Attachment/Pasted image 20260307155742.png",
+    "99 - Meta/99 - Attachment/Pasted image 20260307151330.png",
+    "Yehia Tech.md",
+    "04 - Resources/CS/CS-Study/Yehya Tech/Learn Git & GitHub.md",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 20 to 55.md",
+    "04 - Resources/CS/CS-Study/Yehya Tech",
+    "99 - Meta/99 - Attachment/Pasted image 20260307135540.png",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 1 to 10.md",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 11 to 19.md",
+    "06 - Daily/Daily/2026-03-07.md",
+    "99 - Meta/99 - Attachment/Pasted image 20260306160847.png",
+    "06 - Daily/Daily/2026-03-06.md",
+    "06 - Daily/Daily/2026-03-05.md",
+    "06 - Daily/Daily/2026-03-04.md",
+    "Commend.md",
+    "06 - Daily/Daily/2026-03-03.md",
+    "06 - Daily/Daily/2026-03-02.md",
+    "06 - Daily/Daily/2026-03-01.md",
+    "06 - Daily/Daily/2026-02-28.md",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 41 to 50 1.md",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 3 c++ level 1/lesson 13 - using namespace std.md",
+    "Author/abu-hedhoud.md",
+    "+Library.md",
+    "Author",
+    "My code file.ts",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/My code file.cpp",
+    "06 - Daily/Daily/2026-02-27.md",
+    "06 - Daily/Daily/2026-02-26.md",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 6 Introduction to Programming Using C++ Level 2/2- Miscellaneous/Lesson 09 - Ternary Operator (Short Hand IF).md",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 6 Introduction to Programming Using C++ Level 2/2- Miscellaneous/Lesson 11 - Validate Number.md",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 6 Introduction to Programming Using C++ Level 2/2- Miscellaneous/Lesson 12 - Bitwise AND operator.md",
+    "06 - Daily/Daily/2026-02-25.md",
+    "06 - Daily/Daily/2026-02-24.md",
+    "04 - Resources/Notes ( Programming )/Course 8 Algorithms & Problem Solving Level 4 1",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 7 Algorithms & Problem Solving Level 3/Untitled.canvas",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 7 Algorithms & Problem Solving Level 3",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 6 Introduction to Programming Using C++ Level 2/15- DateTime",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 6 Introduction to Programming Using C++ Level 2/14- Files",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 6 Introduction to Programming Using C++ Level 2/13- Dealing With Strings 1",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 2 Algorithm & solving problems l.1/Problem 10 - Average of 3 Marks.canvas",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 2 Algorithm & solving problems l.1/Problem 9 - Sum of 3 Numbers.canvas",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 2 Algorithm & solving problems l.1/Problem 6 - FullName.canvas",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 2 Algorithm & solving problems l.1/Problem 7 - Half Number.canvas",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 2 Algorithm & solving problems l.1/Problem 8 - Pass or Fail.canvas",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 2 Algorithm & solving problems l.1/Problem 5 - Hire a Driver Case 2.canvas",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 2 Algorithm & solving problems l.1/Problem 4 - Hire a driver - Case 1.canvas",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 2 Algorithm & solving problems l.1/Problem 3 - defined flow chart & solve first 3 problems.canvas",
+    "Untitled 2.canvas"
+  ]
+}

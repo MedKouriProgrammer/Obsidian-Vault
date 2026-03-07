@@ -1,0 +1,39 @@
+{
+  "readableLineLength": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "defaultViewMode": "preview",
+  "promptDelete": false,
+  "legacyEditor": false,
+  "livePreview": false,
+  "attachmentFolderPath": "00 System/Attachment",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "newFileFolderPath": "INBOX",
+  "showUnsupportedFiles": true,
+  "spellcheck": true,
+  "userIgnoreFilters": [
+    "00 System/"
+  ],
+  "mobileToolbarCommands": [
+    "editor:attach-file",
+    "editor:delete-paragraph",
+    "editor:cycle-list-checklist",
+    "editor:undo",
+    "editor:redo",
+    "editor:insert-wikilink",
+    "highlightr-plugin:highlighter-plugin-menu",
+    "editor:configure-toolbar",
+    "highlightr-plugin:unhighlight",
+    "podnotes:capture-timestamp",
+    "editor:swap-line-up",
+    "editor:swap-line-down",
+    "editor:go-start",
+    "editor:go-end",
+    "editor:indent-list",
+    "editor:unindent-list"
+  ],
+  "showFrontmatter": false,
+  "rightToLeft": false,
+  "trashOption": "local"
+}

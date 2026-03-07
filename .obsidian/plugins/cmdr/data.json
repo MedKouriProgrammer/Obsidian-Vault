@@ -1,0 +1,55 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "media-extended:get-timestamp"
+        },
+        {
+          "action": 0,
+          "commandId": "templater-obsidian:jump-to-next-cursor-location"
+        }
+      ],
+      "name": "Video Notes",
+      "icon": "film",
+      "startup": false
+    }
+  ],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "Open today",
+      "Open in Headings Mode",
+      "Open Symbols for the active editor",
+      "Create a new database table",
+      "Advanced Tables Toolbar",
+      "Open command palette",
+      "Open graph view",
+      "Open quick switcher",
+      "Create new canvas"
+    ]
+  },
+  "spacing": "8",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

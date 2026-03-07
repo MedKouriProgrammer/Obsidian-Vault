@@ -1,0 +1,101 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 880,
+      "id": "1bd9d3371ee37641",
+      "label": "Untitled group",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 720,
+      "x": -760,
+      "y": 240
+    },
+    {
+      "height": 560,
+      "id": "ec5662bdfdfa5b48",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "![[2025-03-19.png]]",
+      "type": "text",
+      "width": 1200,
+      "x": -1000,
+      "y": -360
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "3e6e8b0182a8e45e",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Start",
+      "type": "text",
+      "width": 300,
+      "x": -550,
+      "y": 280
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "c5ab9ad513cb4fad",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Read: NumberOfHours",
+      "type": "text",
+      "width": 300,
+      "x": -550,
+      "y": 420
+    },
+    {
+      "color": "5",
+      "height": 160,
+      "id": "5320723272be1f8a",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# Days= NumberOfHours / 24\n# Weeks= Days / 7",
+      "type": "text",
+      "width": 415,
+      "x": -607,
+      "y": 560
+    },
+    {
+      "color": "5",
+      "height": 160,
+      "id": "90d2a7df1fffbcf9",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print: Weeks + “Weeks“\n# Print: Days + “Days“",
+      "type": "text",
+      "width": 430,
+      "x": -614,
+      "y": 760
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "bb36bc3254494e38",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# End",
+      "type": "text",
+      "width": 300,
+      "x": -549,
+      "y": 960
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "edges": [
+    {
+      "fromNode": "ab8a467bdafb832f",
+      "fromSide": "right",
+      "id": "3336b9984e489fc8",
+      "label": "No",
+      "styleAttributes": {
+      },
+      "toNode": "3a8171326a828aa2",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3a8171326a828aa2",
+      "fromSide": "right",
+      "id": "3d76807469f9de81",
+      "label": "No",
+      "styleAttributes": {
+      },
+      "toNode": "74bd261fd6d6287c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "74bd261fd6d6287c",
+      "fromSide": "right",
+      "id": "4c65f68b20f7d354",
+      "label": "No",
+      "styleAttributes": {
+      },
+      "toNode": "b75c2d75e00e1276",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b75c2d75e00e1276",
+      "fromSide": "right",
+      "id": "7d9c0e1a2d83b419",
+      "label": "No",
+      "styleAttributes": {
+      },
+      "toNode": "c49ba505d6ca659b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3a8171326a828aa2",
+      "fromSide": "bottom",
+      "id": "6bd85c7fcdca5913",
+      "styleAttributes": {
+      },
+      "toNode": "8499ba73072da740",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "74bd261fd6d6287c",
+      "fromSide": "bottom",
+      "id": "07e5370fd5eaa586",
+      "styleAttributes": {
+      },
+      "toNode": "0d565b5df4d96a98",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b75c2d75e00e1276",
+      "fromSide": "bottom",
+      "id": "8c7a9e3863be0e04",
+      "styleAttributes": {
+      },
+      "toNode": "b551c56248c68668",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c49ba505d6ca659b",
+      "fromSide": "bottom",
+      "id": "ac61a42640fcb1fd",
+      "styleAttributes": {
+      },
+      "toNode": "eb218e270e423be5",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c195db74fdaa4d22",
+      "fromSide": "bottom",
+      "id": "217746fffc0b7ca0",
+      "styleAttributes": {
+      },
+      "toNode": "ab8a467bdafb832f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "ab8a467bdafb832f",
+      "fromSide": "bottom",
+      "id": "34f391764b8c44fc",
+      "label": "Yes",
+      "styleAttributes": {
+      },
+      "toNode": "bf956ecdf791e2b2",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bf956ecdf791e2b2",
+      "fromSide": "bottom",
+      "id": "7cefab99c87d20ae",
+      "styleAttributes": {
+      },
+      "toNode": "4780699c773ed8be",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4780699c773ed8be",
+      "fromSide": "bottom",
+      "id": "7f7ada307407feb8",
+      "styleAttributes": {
+      },
+      "toNode": "58aab24e463c99b1",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "8499ba73072da740",
+      "fromSide": "bottom",
+      "id": "73bcc941814862fc",
+      "styleAttributes": {
+      },
+      "toNode": "fc04f8151e281a64",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "0d565b5df4d96a98",
+      "fromSide": "bottom",
+      "id": "3bbad76cfa75d771",
+      "styleAttributes": {
+      },
+      "toNode": "71d0f999776831ae",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b551c56248c68668",
+      "fromSide": "bottom",
+      "id": "c878fdf98bf8f234",
+      "styleAttributes": {
+      },
+      "toNode": "be29f774e9ec4b73",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "eb218e270e423be5",
+      "fromSide": "bottom",
+      "id": "21217cdeaf625781",
+      "styleAttributes": {
+      },
+      "toNode": "87f204db3190967f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "58aab24e463c99b1",
+      "fromSide": "bottom",
+      "id": "02436d3bef0b7441",
+      "styleAttributes": {
+      },
+      "toNode": "cd86b4ccb856a412",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "fc04f8151e281a64",
+      "fromSide": "bottom",
+      "id": "668cc3ba57ed9480",
+      "styleAttributes": {
+      },
+      "toNode": "cd86b4ccb856a412",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "71d0f999776831ae",
+      "fromSide": "bottom",
+      "id": "1d5cc84ad8e547bb",
+      "styleAttributes": {
+      },
+      "toNode": "cd86b4ccb856a412",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "be29f774e9ec4b73",
+      "fromSide": "bottom",
+      "id": "21c4240565cdbd85",
+      "styleAttributes": {
+      },
+      "toNode": "cd86b4ccb856a412",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "87f204db3190967f",
+      "fromSide": "bottom",
+      "id": "4fb07ed83a0155d6",
+      "styleAttributes": {
+      },
+      "toNode": "cd86b4ccb856a412",
+      "toSide": "right"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 1520,
+      "id": "4f6fc79414b2fa12",
+      "label": "Untitled group",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2640,
+      "x": -280,
+      "y": 0
+    },
+    {
+      "color": "5",
+      "height": 280,
+      "id": "b75c2d75e00e1276",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "text": "# TotalSales>= 50k",
+      "type": "text",
+      "width": 300,
+      "x": 1470,
+      "y": 360
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "343dd842a642f57f",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# Persentage= 5%",
+      "type": "text",
+      "width": 300,
+      "x": 1470,
+      "y": 800
+    },
+    {
+      "color": "5",
+      "height": 240,
+      "id": "c49ba505d6ca659b",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "text": "# Otherwise",
+      "type": "text",
+      "width": 300,
+      "x": 1920,
+      "y": 380
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "0f7283105793d8ea",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# persentage= 0%",
+      "type": "text",
+      "width": 300,
+      "x": 1920,
+      "y": 800
+    },
+    {
+      "color": "5",
+      "height": 110,
+      "id": "eb218e270e423be5",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# Result= TotalSales * Persentage",
+      "type": "text",
+      "width": 360,
+      "x": 1890,
+      "y": 1010
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "87f204db3190967f",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print: Result",
+      "type": "text",
+      "width": 300,
+      "x": 1920,
+      "y": 1200
+    },
+    {
+      "color": "5",
+      "height": 120,
+      "id": "b551c56248c68668",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# Result= TotalSales * Persentage",
+      "type": "text",
+      "width": 360,
+      "x": 1440,
+      "y": 1000
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "be29f774e9ec4b73",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print: Result",
+      "type": "text",
+      "width": 300,
+      "x": 1470,
+      "y": 1200
+    },
+    {
+      "height": 680,
+      "id": "92a6e55d6af4eabb",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "![[2025-03-17 (3).png]]",
+      "type": "text",
+      "width": 1340,
+      "x": -600,
+      "y": -720
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "c195db74fdaa4d22",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Start",
+      "type": "text",
+      "width": 300,
+      "x": -80,
+      "y": 40
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "0ec286e0b2172dd2",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Read: TotalSales",
+      "type": "text",
+      "width": 300,
+      "x": -80,
+      "y": 200
+    },
+    {
+      "color": "5",
+      "height": 280,
+      "id": "ab8a467bdafb832f",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "text": "# TotalSales>= 1000,000 ",
+      "type": "text",
+      "width": 300,
+      "x": -80,
+      "y": 360
+    },
+    {
+      "color": "5",
+      "height": 320,
+      "id": "3a8171326a828aa2",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "text": "# TotalSales >= 500k ",
+      "type": "text",
+      "width": 360,
+      "x": 410,
+      "y": 340
+    },
+    {
+      "color": "5",
+      "height": 280,
+      "id": "74bd261fd6d6287c",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "text": "# TotalSales>= 100k",
+      "type": "text",
+      "width": 300,
+      "x": 950,
+      "y": 360
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "90c3c8f80c2ab917",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# Persentage= 3%",
+      "type": "text",
+      "width": 300,
+      "x": 950,
+      "y": 800
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "bf956ecdf791e2b2",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# Persentage= 1%",
+      "type": "text",
+      "width": 300,
+      "x": -80,
+      "y": 800
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "4fcefe56b7df3fb6",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# Persentage= 2%",
+      "type": "text",
+      "width": 300,
+      "x": 440,
+      "y": 800
+    },
+    {
+      "color": "5",
+      "height": 120,
+      "id": "4780699c773ed8be",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# Result= TotalSales * Persentage",
+      "type": "text",
+      "width": 360,
+      "x": -110,
+      "y": 1000
+    },
+    {
+      "color": "5",
+      "height": 120,
+      "id": "8499ba73072da740",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# Result= TotalSales * Persentage",
+      "type": "text",
+      "width": 360,
+      "x": 410,
+      "y": 1000
+    },
+    {
+      "color": "5",
+      "height": 120,
+      "id": "0d565b5df4d96a98",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# Result= TotalSales * Persentage",
+      "type": "text",
+      "width": 360,
+      "x": 920,
+      "y": 1000
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "58aab24e463c99b1",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print: Result",
+      "type": "text",
+      "width": 300,
+      "x": -80,
+      "y": 1200
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "fc04f8151e281a64",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print: Result",
+      "type": "text",
+      "width": 300,
+      "x": 440,
+      "y": 1200
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "71d0f999776831ae",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print: Result",
+      "type": "text",
+      "width": 300,
+      "x": 950,
+      "y": 1200
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "cd86b4ccb856a412",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# End",
+      "type": "text",
+      "width": 300,
+      "x": 950,
+      "y": 1400
+    }
+  ]
+}

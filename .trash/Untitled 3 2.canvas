@@ -1,0 +1,19 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "height": 700,
+      "id": "4c57bad6a158d6b2",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "![[2025-03-13 (10).png]]",
+      "type": "text",
+      "width": 560,
+      "x": -720,
+      "y": -520
+    }
+  ]
+}

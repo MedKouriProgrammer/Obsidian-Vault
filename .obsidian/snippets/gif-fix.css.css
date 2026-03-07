@@ -1,0 +1,4 @@
+img[src$=".gif"] {
+  image-rendering: auto;
+  object-fit: contain;
+}

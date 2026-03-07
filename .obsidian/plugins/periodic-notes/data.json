@@ -1,0 +1,35 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": true,
+  "daily": {
+    "folder": "06 - Journal/Daily",
+    "template": "99 - Meta/00 - Templates/Reviews.T/Daily.T.md",
+    "enabled": true,
+    "format": "YYYY-MM-DD"
+  },
+  "weekly": {
+    "format": "gggg-[W]ww",
+    "folder": "06 - Journal/Weekly",
+    "template": "99 - Meta/00 - Templates/Reviews.T/Weekly.T.md",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "YYYY-[M]MM",
+    "template": "99 - Meta/00 - Templates/Reviews.T/Monthly.T.md",
+    "folder": "06 - Journal/Monthly",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "99 - Meta/00 - Templates/Reviews.T/Quarterly.T.md",
+    "folder": "06 - Journal/Quarterly",
+    "enabled": true
+  },
+  "yearly": {
+    "format": "YYYY-[Y]",
+    "template": "99 - Meta/00 - Templates/Reviews.T/Yearly.T.md",
+    "folder": "06 - Journal/Yearly",
+    "enabled": true
+  }
+}

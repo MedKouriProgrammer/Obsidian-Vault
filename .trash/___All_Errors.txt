@@ -1,0 +1,1034 @@
+CorrelationId: acb963f4-a920-4b7c-a61c-addb106d2071
+UTC DateTime: 02/23/2025 14:23:57
+
+The following files/folders have not been downloaded
+0. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SuitcaseLine.svg
+1. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SunCloudyFill.svg
+2. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SunCloudyLine.svg
+3. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SunFill.svg
+4. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SunFoggyFill.svg
+5. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SunFoggyLine.svg
+6. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SunLine.svg
+7. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Superscript.svg
+8. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Superscript2.svg
+9. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SurgicalMaskFill.svg
+10. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SurgicalMaskLine.svg
+11. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SurroundSoundFill.svg
+12. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SurroundSoundLine.svg
+13. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SurveyFill.svg
+14. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SurveyLine.svg
+15. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SwapBoxFill.svg
+16. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SwapBoxLine.svg
+17. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SwapFill.svg
+18. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SwapLine.svg
+19. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SwitchFill.svg
+20. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SwitchLine.svg
+21. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SwordFill.svg
+22. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SwordLine.svg
+23. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SyringeFill.svg
+24. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SyringeLine.svg
+25. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Table2.svg
+26. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TableAltFill.svg
+27. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TableAltLine.svg
+28. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TableFill.svg
+29. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TableLine.svg
+30. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TabletFill.svg
+31. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TabletLine.svg
+32. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TakeawayFill.svg
+33. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TakeawayLine.svg
+34. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TaobaoFill.svg
+35. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TaobaoLine.svg
+36. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TapeFill.svg
+37. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TapeLine.svg
+38. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TaskFill.svg
+39. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TaskLine.svg
+40. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TaxiFill.svg
+41. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TaxiLine.svg
+42. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TaxiWifiFill.svg
+43. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TaxiWifiLine.svg
+44. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TBoxFill.svg
+45. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TBoxLine.svg
+46. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TeamFill.svg
+47. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TeamLine.svg
+48. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TelegramFill.svg
+49. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TelegramLine.svg
+50. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TempColdFill.svg
+51. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TempColdLine.svg
+52. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TempHotFill.svg
+53. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TempHotLine.svg
+54. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TerminalBoxFill.svg
+55. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TerminalBoxLine.svg
+56. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TerminalFill.svg
+57. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TerminalLine.svg
+58. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TerminalWindowFill.svg
+59. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TerminalWindowLine.svg
+60. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TestTubeFill.svg
+61. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TestTubeLine.svg
+62. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Text.svg
+63. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TextDirectionL.svg
+64. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TextDirectionR.svg
+65. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TextSpacing.svg
+66. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TextWrap.svg
+67. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ThermometerFill.svg
+68. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ThermometerLine.svg
+69. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ThumbDownFill.svg
+70. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ThumbDownLine.svg
+71. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ThumbUpFill.svg
+72. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ThumbUpLine.svg
+73. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ThunderstormsFill.svg
+74. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ThunderstormsLine.svg
+75. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Ticket2Fill.svg
+76. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Ticket2Line.svg
+77. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TicketFill.svg
+78. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TicketLine.svg
+79. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TimeFill.svg
+80. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TimeLine.svg
+81. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Timer2Fill.svg
+82. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Timer2Line.svg
+83. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TimerFill.svg
+84. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TimerFlashFill.svg
+85. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TimerFlashLine.svg
+86. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TimerLine.svg
+87. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TodoFill.svg
+88. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TodoLine.svg
+89. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ToggleFill.svg
+90. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ToggleLine.svg
+91. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ToolsFill.svg
+92. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ToolsLine.svg
+93. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TornadoFill.svg
+94. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TornadoLine.svg
+95. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TrademarkFill.svg
+96. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TrademarkLine.svg
+97. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TrafficLightFill.svg
+98. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TrafficLightLine.svg
+99. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TrainFill.svg
+100. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TrainLine.svg
+101. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TrainWifiFill.svg
+102. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TrainWifiLine.svg
+103. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Translate.svg
+104. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Translate2.svg
+105. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TravestiFill.svg
+106. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TravestiLine.svg
+107. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TreasureMapFill.svg
+108. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TreasureMapLine.svg
+109. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TrelloFill.svg
+110. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TrelloLine.svg
+111. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TrophyFill.svg
+112. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TrophyLine.svg
+113. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TruckFill.svg
+114. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TruckLine.svg
+115. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TShirt2Fill.svg
+116. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TShirt2Line.svg
+117. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TShirtAirFill.svg
+118. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TShirtAirLine.svg
+119. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TShirtFill.svg
+120. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TShirtLine.svg
+121. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TumblrFill.svg
+122. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TumblrLine.svg
+123. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Tv2Fill.svg
+124. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Tv2Line.svg
+125. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TvFill.svg
+126. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TvLine.svg
+127. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TwitchFill.svg
+128. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TwitchLine.svg
+129. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TwitterFill.svg
+130. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TwitterLine.svg
+131. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TyphoonFill.svg
+132. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TyphoonLine.svg
+133. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UbuntuFill.svg
+134. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UbuntuLine.svg
+135. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UDiskFill.svg
+136. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UDiskLine.svg
+137. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UmbrellaFill.svg
+138. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UmbrellaLine.svg
+139. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Underline.svg
+140. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UninstallFill.svg
+141. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UninstallLine.svg
+142. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UnsplashFill.svg
+143. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UnsplashLine.svg
+144. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Upload2Fill.svg
+145. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Upload2Line.svg
+146. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UploadCloud2Fill.svg
+147. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UploadCloud2Line.svg
+148. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UploadCloudFill.svg
+149. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UploadCloudLine.svg
+150. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UploadFill.svg
+151. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UploadLine.svg
+152. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UsbFill.svg
+153. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UsbLine.svg
+154. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/User2Fill.svg
+155. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/User2Line.svg
+156. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/User3Fill.svg
+157. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/User3Line.svg
+158. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/User4Fill.svg
+159. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/User4Line.svg
+160. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/User5Fill.svg
+161. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/User5Line.svg
+162. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/User6Fill.svg
+163. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/User6Line.svg
+164. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserAddFill.svg
+165. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserAddLine.svg
+166. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserFill.svg
+167. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserFollowFill.svg
+168. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserFollowLine.svg
+169. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserHeartFill.svg
+170. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserHeartLine.svg
+171. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserLine.svg
+172. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserLocationFill.svg
+173. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserLocationLine.svg
+174. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserReceived2Fill.svg
+175. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserReceived2Line.svg
+176. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserReceivedFill.svg
+177. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserReceivedLine.svg
+178. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserSearchFill.svg
+179. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserSearchLine.svg
+180. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserSettingsFill.svg
+181. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserSettingsLine.svg
+182. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserShared2Fill.svg
+183. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserShared2Line.svg
+184. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserSharedFill.svg
+185. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserSharedLine.svg
+186. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserSmileFill.svg
+187. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserSmileLine.svg
+188. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserStarFill.svg
+189. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserStarLine.svg
+190. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserUnfollowFill.svg
+191. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserUnfollowLine.svg
+192. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserVoiceFill.svg
+193. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserVoiceLine.svg
+194. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VideoAddFill.svg
+195. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VideoAddLine.svg
+196. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VideoChatFill.svg
+197. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VideoChatLine.svg
+198. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VideoDownloadFill.svg
+199. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VideoDownloadLine.svg
+200. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VideoFill.svg
+201. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VideoLine.svg
+202. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VideoUploadFill.svg
+203. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VideoUploadLine.svg
+204. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Vidicon2Fill.svg
+205. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Vidicon2Line.svg
+206. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VidiconFill.svg
+207. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VidiconLine.svg
+208. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VimeoFill.svg
+209. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VimeoLine.svg
+210. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VipCrown2Fill.svg
+211. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VipCrown2Line.svg
+212. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VipCrownFill.svg
+213. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VipCrownLine.svg
+214. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VipDiamondFill.svg
+215. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VipDiamondLine.svg
+216. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VipFill.svg
+217. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VipLine.svg
+218. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VirusFill.svg
+219. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VirusLine.svg
+220. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VisaFill.svg
+221. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VisaLine.svg
+222. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VoiceprintFill.svg
+223. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VoiceprintLine.svg
+224. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VoiceRecognitionFill.svg
+225. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VoiceRecognitionLine.svg
+226. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VolumeDownFill.svg
+227. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VolumeDownLine.svg
+228. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VolumeMuteFill.svg
+229. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VolumeMuteLine.svg
+230. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VolumeOffVibrateFill.svg
+231. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VolumeOffVibrateLine.svg
+232. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VolumeUpFill.svg
+233. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VolumeUpLine.svg
+234. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VolumeVibrateFill.svg
+235. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VolumeVibrateLine.svg
+236. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VuejsFill.svg
+237. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VuejsLine.svg
+238. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WalkFill.svg
+239. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WalkLine.svg
+240. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Wallet2Fill.svg
+241. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Wallet2Line.svg
+242. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Wallet3Fill.svg
+243. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Wallet3Line.svg
+244. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WalletFill.svg
+245. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WalletLine.svg
+246. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WaterFlashFill.svg
+247. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WaterFlashLine.svg
+248. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WebcamFill.svg
+249. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WebcamLine.svg
+250. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Wechat2Fill.svg
+251. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Wechat2Line.svg
+252. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WechatFill.svg
+253. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WechatLine.svg
+254. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WechatPayFill.svg
+255. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WechatPayLine.svg
+256. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WeiboFill.svg
+257. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WeiboLine.svg
+258. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WhatsappFill.svg
+259. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WhatsappLine.svg
+260. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WheelchairFill.svg
+261. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WheelchairLine.svg
+262. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WifiFill.svg
+263. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WifiLine.svg
+264. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WifiOffFill.svg
+265. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WifiOffLine.svg
+266. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Window2Fill.svg
+267. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Window2Line.svg
+268. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WindowFill.svg
+269. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WindowLine.svg
+270. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WindowsFill.svg
+271. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WindowsLine.svg
+272. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WindyFill.svg
+273. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WindyLine.svg
+274. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WirelessChargingFill.svg
+275. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WirelessChargingLine.svg
+276. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WomenFill.svg
+277. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WomenLine.svg
+278. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WubiInput.svg
+279. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/XboxFill.svg
+280. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/XboxLine.svg
+281. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/XingFill.svg
+282. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/XingLine.svg
+283. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/YoutubeFill.svg
+284. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/YoutubeLine.svg
+285. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ZcoolFill.svg
+286. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ZcoolLine.svg
+287. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ZhihuFill.svg
+288. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ZhihuLine.svg
+289. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ZoomInFill.svg
+290. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ZoomInLine.svg
+291. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ZoomOutFill.svg
+292. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ZoomOutLine.svg
+293. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ZzzFill.svg
+294. PKM/.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ZzzLine.svg
+295. PKM/.obsidian/plugins/obsidian-icon-folder/data.sync-conflict-20230220-012335-X2QBGHD.json
+296. PKM/.obsidian/plugins/obsidian-icon-folder/data.sync-conflict-20230221-111839-W6LQNNU.json
+297. PKM/.obsidian/plugins/obsidian-icon-folder/data.sync-conflict-20230221-162357-X2QBGHD.json
+298. PKM/.obsidian/plugins/obsidian-icon-folder/data.sync-conflict-20230304-130447-W6LQNNU.json
+299. PKM/.obsidian/plugins/obsidian-icon-folder/data.sync-conflict-20230308-013228-W6LQNNU.json
+300. PKM/.obsidian/plugins/obsidian-icon-folder/data.sync-conflict-20230308-123315-W6LQNNU.json
+301. PKM/.obsidian/plugins/obsidian-icon-folder/data.sync-conflict-20230315-183739-X2QBGHD.json
+302. PKM/.obsidian/plugins/obsidian-icon-folder/data.sync-conflict-20230525-123823-X2QBGHD.json
+303. PKM/.obsidian/plugins/obsidian-icon-folder/main.js
+304. PKM/.obsidian/plugins/obsidian-icon-folder/manifest.json
+305. PKM/.obsidian/plugins/obsidian-icon-folder/styles.css
+306. PKM/.obsidian/plugins/obsidian-kanban/data.json
+307. PKM/.obsidian/plugins/obsidian-kanban/data.sync-conflict-20230619-123633-2ZRC6NR.json
+308. PKM/.obsidian/plugins/obsidian-kanban/main.js
+309. PKM/.obsidian/plugins/obsidian-kanban/main.sync-conflict-20230619-123530-2ZRC6NR.js
+310. PKM/.obsidian/plugins/obsidian-kanban/manifest.json
+311. PKM/.obsidian/plugins/obsidian-kanban/manifest.sync-conflict-20230619-123726-2ZRC6NR.json
+312. PKM/.obsidian/plugins/obsidian-kanban/styles.css
+313. PKM/.obsidian/plugins/obsidian-languagetool-plugin/data.json
+314. PKM/.obsidian/plugins/obsidian-languagetool-plugin/main.js
+315. PKM/.obsidian/plugins/obsidian-languagetool-plugin/manifest.json
+316. PKM/.obsidian/plugins/obsidian-languagetool-plugin/styles.css
+317. PKM/.obsidian/plugins/obsidian-minimal-settings/data.json
+318. PKM/.obsidian/plugins/obsidian-minimal-settings/main.js
+319. PKM/.obsidian/plugins/obsidian-minimal-settings/manifest.json
+320. PKM/.obsidian/plugins/obsidian-minimal-settings/styles.css
+321. PKM/.obsidian/plugins/obsidian-omnivore/data.json
+322. PKM/.obsidian/plugins/obsidian-omnivore/main.js
+323. PKM/.obsidian/plugins/obsidian-omnivore/manifest.json
+324. PKM/.obsidian/plugins/obsidian-omnivore/styles.css
+325. PKM/.obsidian/plugins/obsidian-plugin-groups/data.json
+326. PKM/.obsidian/plugins/obsidian-plugin-groups/main.js
+327. PKM/.obsidian/plugins/obsidian-plugin-groups/manifest.json
+328. PKM/.obsidian/plugins/obsidian-plugin-groups/styles.css
+329. PKM/.obsidian/plugins/obsidian-plugin-update-tracker/data.json
+330. PKM/.obsidian/plugins/obsidian-plugin-update-tracker/data.sync-conflict-20230619-123611-2ZRC6NR.json
+331. PKM/.obsidian/plugins/obsidian-plugin-update-tracker/main.js
+332. PKM/.obsidian/plugins/obsidian-plugin-update-tracker/manifest.json
+333. PKM/.obsidian/plugins/obsidian-plugin-update-tracker/styles.css
+334. PKM/.obsidian/plugins/obsidian-projects/data.json
+335. PKM/.obsidian/plugins/obsidian-projects/data.sync-conflict-20230619-123125-2ZRC6NR.json
+336. PKM/.obsidian/plugins/obsidian-projects/main.js
+337. PKM/.obsidian/plugins/obsidian-projects/main.sync-conflict-20230619-123603-2ZRC6NR.js
+338. PKM/.obsidian/plugins/obsidian-projects/manifest.json
+339. PKM/.obsidian/plugins/obsidian-projects/manifest.sync-conflict-20230619-123203-2ZRC6NR.json
+340. PKM/.obsidian/plugins/obsidian-projects/styles.css
+341. PKM/.obsidian/plugins/obsidian-read-it-later/data.json
+342. PKM/.obsidian/plugins/obsidian-read-it-later/main.js
+343. PKM/.obsidian/plugins/obsidian-read-it-later/manifest.json
+344. PKM/.obsidian/plugins/obsidian-reminder-plugin/data.json
+345. PKM/.obsidian/plugins/obsidian-reminder-plugin/data.sync-conflict-20230619-123043-2ZRC6NR.json
+346. PKM/.obsidian/plugins/obsidian-reminder-plugin/data.sync-conflict-20240215-224552-AHKILET.json
+347. PKM/.obsidian/plugins/obsidian-reminder-plugin/main.js
+348. PKM/.obsidian/plugins/obsidian-reminder-plugin/manifest.json
+349. PKM/.obsidian/plugins/obsidian-reminder-plugin/manifest.sync-conflict-20230619-123425-2ZRC6NR.json
+350. PKM/.obsidian/plugins/obsidian-reminder-plugin/styles.css
+351. PKM/.obsidian/plugins/obsidian-smart-typography/data.json
+352. PKM/.obsidian/plugins/obsidian-smart-typography/main.js
+353. PKM/.obsidian/plugins/obsidian-smart-typography/manifest.json
+354. PKM/.obsidian/plugins/obsidian-spaced-repetition/data.json
+355. PKM/.obsidian/plugins/obsidian-spaced-repetition/main.js
+356. PKM/.obsidian/plugins/obsidian-spaced-repetition/manifest.json
+357. PKM/.obsidian/plugins/obsidian-spaced-repetition/styles.css
+358. PKM/.obsidian/plugins/obsidian-style-settings/data.json
+359. PKM/.obsidian/plugins/obsidian-style-settings/main.js
+360. PKM/.obsidian/plugins/obsidian-style-settings/manifest.json
+361. PKM/.obsidian/plugins/obsidian-style-settings/styles.css
+362. PKM/.obsidian/plugins/obsidian-tasks-plugin/data.json
+363. PKM/.obsidian/plugins/obsidian-tasks-plugin/data.sync-conflict-20230619-123509-2ZRC6NR.json
+364. PKM/.obsidian/plugins/obsidian-tasks-plugin/main.js
+365. PKM/.obsidian/plugins/obsidian-tasks-plugin/main.sync-conflict-20230619-123354-2ZRC6NR.js
+366. PKM/.obsidian/plugins/obsidian-tasks-plugin/manifest.json
+367. PKM/.obsidian/plugins/obsidian-tasks-plugin/manifest.sync-conflict-20230619-123322-2ZRC6NR.json
+368. PKM/.obsidian/plugins/obsidian-tasks-plugin/styles.css
+369. PKM/.obsidian/plugins/obsidian-tasks-plugin/styles.sync-conflict-20230619-123623-2ZRC6NR.css
+370. PKM/.obsidian/plugins/obsidian-text-format/data.json
+371. PKM/.obsidian/plugins/obsidian-text-format/data-backup-v3.0.5-to-v3.1.0.json
+372. PKM/.obsidian/plugins/obsidian-text-format/main.js
+373. PKM/.obsidian/plugins/obsidian-text-format/manifest.json
+374. PKM/.obsidian/plugins/obsidian-text-format/styles.css
+375. PKM/.obsidian/plugins/obsidian-textgenerator-plugin/data.json
+376. PKM/.obsidian/plugins/obsidian-textgenerator-plugin/main.js
+377. PKM/.obsidian/plugins/obsidian-textgenerator-plugin/manifest.json
+378. PKM/.obsidian/plugins/obsidian-textgenerator-plugin/styles.css
+379. PKM/.obsidian/plugins/obsidian-to-anki-plugin/main.js
+380. PKM/.obsidian/plugins/obsidian-to-anki-plugin/manifest.json
+381. PKM/.obsidian/plugins/obsidian-to-anki-plugin/styles.css
+382. PKM/.obsidian/plugins/obsidian-tracker/data.json
+383. PKM/.obsidian/plugins/obsidian-tracker/data.sync-conflict-20230315-183734-X2QBGHD.json
+384. PKM/.obsidian/plugins/obsidian-tracker/main.js
+385. PKM/.obsidian/plugins/obsidian-tracker/manifest.json
+386. PKM/.obsidian/plugins/obsidian-tracker/styles.css
+387. PKM/.obsidian/plugins/obsidian-version-history-diff/main.js
+388. PKM/.obsidian/plugins/obsidian-version-history-diff/manifest.json
+389. PKM/.obsidian/plugins/obsidian-version-history-diff/styles.css
+390. PKM/.obsidian/plugins/obsidian-zotero-desktop-connector/data.json
+391. PKM/.obsidian/plugins/obsidian-zotero-desktop-connector/main.js
+392. PKM/.obsidian/plugins/obsidian-zotero-desktop-connector/manifest.json
+393. PKM/.obsidian/plugins/obsidian-zotero-desktop-connector/pdfannots2json
+394. PKM/.obsidian/plugins/obsidian-zotero-desktop-connector/styles.css
+395. PKM/.obsidian/plugins/periodic-notes/data.json
+396. PKM/.obsidian/plugins/periodic-notes/data.sync-conflict-20230315-183735-X2QBGHD.json
+397. PKM/.obsidian/plugins/periodic-notes/data.sync-conflict-20230619-123526-2ZRC6NR.json
+398. PKM/.obsidian/plugins/periodic-notes/main.js
+399. PKM/.obsidian/plugins/periodic-notes/main.sync-conflict-20230619-123306-2ZRC6NR.js
+400. PKM/.obsidian/plugins/periodic-notes/manifest.json
+401. PKM/.obsidian/plugins/periodic-notes/styles.css
+402. PKM/.obsidian/plugins/periodic-notes/styles.sync-conflict-20230619-123526-2ZRC6NR.css
+403. PKM/.obsidian/plugins/podnotes/data.json
+404. PKM/.obsidian/plugins/podnotes/main.js
+405. PKM/.obsidian/plugins/podnotes/manifest.json
+406. PKM/.obsidian/plugins/podnotes/styles.css
+407. PKM/.obsidian/plugins/quickadd/data.json
+408. PKM/.obsidian/plugins/quickadd/backup/21-02-23_11-46-58_preMigrationBackup.json
+409. PKM/.obsidian/plugins/quickadd/backup/21-02-23_12-14-18_preMigrationBackup.json
+410. PKM/.obsidian/plugins/quickadd/main.js
+411. PKM/.obsidian/plugins/quickadd/manifest.json
+412. PKM/.obsidian/plugins/quickadd/styles.css
+413. PKM/.obsidian/plugins/readwise-official/data.json
+414. PKM/.obsidian/plugins/readwise-official/main.js
+415. PKM/.obsidian/plugins/readwise-official/manifest.json
+416. PKM/.obsidian/plugins/readwise-official/styles.css
+417. PKM/.obsidian/plugins/recent-files-obsidian/data.json
+418. PKM/.obsidian/plugins/recent-files-obsidian/data.sync-conflict-20230412-144059-X2QBGHD.json
+419. PKM/.obsidian/plugins/recent-files-obsidian/data.sync-conflict-20230525-123822-X2QBGHD.json
+420. PKM/.obsidian/plugins/recent-files-obsidian/data.sync-conflict-20230526-190110-W6LQNNU.json
+421. PKM/.obsidian/plugins/recent-files-obsidian/data.sync-conflict-20230619-123244-2ZRC6NR.json
+422. PKM/.obsidian/plugins/recent-files-obsidian/data.sync-conflict-20230622-004813-X2QBGHD.json
+423. PKM/.obsidian/plugins/recent-files-obsidian/data.sync-conflict-20231215-112651-X2QBGHD.json
+424. PKM/.obsidian/plugins/recent-files-obsidian/data.sync-conflict-20231224-144044-AHKILET.json
+425. PKM/.obsidian/plugins/recent-files-obsidian/data.sync-conflict-20240123-171952-X2QBGHD.json
+426. PKM/.obsidian/plugins/recent-files-obsidian/data.sync-conflict-20240213-163839-AHKILET.json
+427. PKM/.obsidian/plugins/recent-files-obsidian/data.sync-conflict-20240408-190451-X2QBGHD.json
+428. PKM/.obsidian/plugins/recent-files-obsidian/main.js
+429. PKM/.obsidian/plugins/recent-files-obsidian/main.sync-conflict-20230619-123435-X2QBGHD.js
+430. PKM/.obsidian/plugins/recent-files-obsidian/manifest.json
+431. PKM/.obsidian/plugins/recent-files-obsidian/manifest.sync-conflict-20230619-122604-X2QBGHD.json
+432. PKM/.obsidian/plugins/recent-files-obsidian/styles.css
+433. PKM/.obsidian/plugins/recent-files-obsidian/styles.sync-conflict-20230619-122825-X2QBGHD.css
+434. PKM/.obsidian/plugins/remember-cursor-position/cursor-positions.json
+435. PKM/.obsidian/plugins/remember-cursor-position/main.js
+436. PKM/.obsidian/plugins/remember-cursor-position/manifest.json
+437. PKM/.obsidian/plugins/settings-search/main.js
+438. PKM/.obsidian/plugins/settings-search/manifest.json
+439. PKM/.obsidian/plugins/settings-search/styles.css
+440. PKM/.obsidian/plugins/supercharged-links-obsidian/data.json
+441. PKM/.obsidian/plugins/supercharged-links-obsidian/main.js
+442. PKM/.obsidian/plugins/supercharged-links-obsidian/manifest.json
+443. PKM/.obsidian/plugins/supercharged-links-obsidian/styles.css
+444. PKM/.obsidian/plugins/syncthing-integration/main.js
+445. PKM/.obsidian/plugins/syncthing-integration/manifest.json
+446. PKM/.obsidian/plugins/syncthing-integration/styles.css
+447. PKM/.obsidian/plugins/table-editor-obsidian/data.json
+448. PKM/.obsidian/plugins/table-editor-obsidian/data.sync-conflict-20230619-123541-2ZRC6NR.json
+449. PKM/.obsidian/plugins/table-editor-obsidian/main.js
+450. PKM/.obsidian/plugins/table-editor-obsidian/main.sync-conflict-20230619-123248-2ZRC6NR.js
+451. PKM/.obsidian/plugins/table-editor-obsidian/manifest.json
+452. PKM/.obsidian/plugins/table-editor-obsidian/styles.css
+453. PKM/.obsidian/plugins/tag-wrangler/main.js
+454. PKM/.obsidian/plugins/tag-wrangler/main.sync-conflict-20230619-123103-2ZRC6NR.js
+455. PKM/.obsidian/plugins/tag-wrangler/manifest.json
+456. PKM/.obsidian/plugins/tag-wrangler/manifest.sync-conflict-20230619-123158-2ZRC6NR.json
+457. PKM/.obsidian/plugins/tag-wrangler/styles.css
+458. PKM/.obsidian/plugins/templater-obsidian/data.json
+459. PKM/.obsidian/plugins/templater-obsidian/main.js
+460. PKM/.obsidian/plugins/templater-obsidian/manifest.json
+461. PKM/.obsidian/plugins/templater-obsidian/styles.css
+462. PKM/.obsidian/plugins/text-extractor/data.json
+463. PKM/.obsidian/plugins/text-extractor/main.js
+464. PKM/.obsidian/plugins/text-extractor/manifest.json
+465. PKM/.obsidian/plugins/todoist-sync-plugin/data.json
+466. PKM/.obsidian/plugins/todoist-sync-plugin/main.js
+467. PKM/.obsidian/plugins/todoist-sync-plugin/manifest.json
+468. PKM/.obsidian/plugins/todoist-sync-plugin/styles.css
+469. PKM/.obsidian/plugins/url-into-selection/main.js
+470. PKM/.obsidian/plugins/url-into-selection/manifest.json
+471. PKM/.obsidian/plugins/various-complements/????????????.rar
+472. PKM/.obsidian/plugins/various-complements/????????????.txt
+473. PKM/.obsidian/plugins/various-complements/data.json
+474. PKM/.obsidian/plugins/various-complements/data.sync-conflict-20230619-123247-X2QBGHD.json
+475. PKM/.obsidian/plugins/various-complements/histories.json
+476. PKM/.obsidian/plugins/various-complements/main.js
+477. PKM/.obsidian/plugins/various-complements/main.sync-conflict-20230619-123304-2ZRC6NR.js
+478. PKM/.obsidian/plugins/various-complements/manifest.json
+479. PKM/.obsidian/plugins/various-complements/manifest.sync-conflict-20230619-123121-2ZRC6NR.json
+480. PKM/.obsidian/plugins/various-complements/old-main.js
+481. PKM/.obsidian/plugins/various-complements/old-main.sync-conflict-20230619-123119-2ZRC6NR.js
+482. PKM/.obsidian/plugins/various-complements/styles.css
+483. PKM/.obsidian/plugins/various-complements/??????.rar
+484. PKM/.obsidian/plugins/various-complements/??????.txt
+485. PKM/.obsidian/plugins/workspaces-plus/app.json.bak
+486. PKM/.obsidian/plugins/workspaces-plus/appearance.json.bak
+487. PKM/.obsidian/plugins/workspaces-plus/data.json
+488. PKM/.obsidian/plugins/workspaces-plus/main.js
+489. PKM/.obsidian/plugins/workspaces-plus/main.sync-conflict-20230619-123302-X2QBGHD.js
+490. PKM/.obsidian/plugins/workspaces-plus/manifest.json
+491. PKM/.obsidian/plugins/workspaces-plus/manifest.sync-conflict-20230619-123307-X2QBGHD.json
+492. PKM/.obsidian/plugins/workspaces-plus/styles.css
+493. PKM/.obsidian/plugins/workspaces-plus/styles.sync-conflict-20230619-123037-X2QBGHD.css
+494. PKM/.obsidian/plugins/workspaces-plus/workspaces.json.bak
+495. PKM/.obsidian/snippets/Colored Sidebar Items.css
+496. PKM/.obsidian/snippets/custom-admonitions.c9c6cb.css
+497. PKM/.obsidian/snippets/CyanVoxel's General Tweaks.css
+498. PKM/.obsidian/snippets/Daily Note Themes.css
+499. PKM/.obsidian/snippets/Japanese Font Support.css
+500. PKM/.obsidian/snippets/Minecraft.css
+501. PKM/.obsidian/snippets/Notebook Backgrounds.css
+502. PKM/.obsidian/snippets/Runescape.css
+503. PKM/.obsidian/snippets/supercharged-links-gen.css
+504. PKM/.obsidian/themes/Blackbird/manifest.json
+505. PKM/.obsidian/themes/Blackbird/theme.css
+506. PKM/.obsidian/themes/Blue Topaz/manifest.json
+507. PKM/.obsidian/themes/Blue Topaz/theme.css
+508. PKM/.obsidian/themes/Minimal/manifest.json
+509. PKM/.obsidian/themes/Minimal/theme.css
+510. PKM/.obsidian/themes/Things/manifest.json
+511. PKM/.obsidian/themes/Things/theme.css
+512. PKM/.obsidian/themes/Vanilla AMOLED/manifest.json
+513. PKM/.obsidian/themes/Vanilla AMOLED/theme.css
+514. PKM/.obsidian/appearance.json
+515. PKM/.obsidian/bookmarks.json
+516. PKM/.obsidian/community-plugins.json
+517. PKM/.obsidian/core-plugins.json
+518. PKM/.obsidian/core-plugins-migration.json
+519. PKM/.obsidian/daily-notes.json
+520. PKM/.obsidian/graph.json
+521. PKM/.obsidian/hotkeys.json
+522. PKM/.obsidian/page-preview.json
+523. PKM/.obsidian/templates.json
+524. PKM/.obsidian/text-generator.json
+525. PKM/.obsidian/types.json
+526. PKM/.obsidian/workspace.json
+527. PKM/.obsidian/workspace-mobile.json
+528. PKM/.obsidian/workspaces.json
+529. PKM/.obsidian/zk-prefixer.json
+530. PKM/.space/waypoints.json
+531. PKM/.trash/(TEMPLATE) Daily.md
+532. PKM/.trash/2024-07-04/Getting Started with Omnivore.md
+533. PKM/.trash/2024-07-04/How to Understand Body Language and Facial Expressions.md
+534. PKM/.trash/2024-07-04/Organize your Omnivore library with labels.md
+535. PKM/.trash/2024-07-04/The Secret Power of ?Read It Later? Apps.md
+536. PKM/.trash/2024-07-04/What is Psychology- - Department of Psychology.md
+537. PKM/.trash/coding-interview-university-main/.gitignore
+538. PKM/.trash/coding-interview-university-main/.github/FUNDING.yml
+539. PKM/.trash/coding-interview-university-main/.github/workflows/links_checker.yml
+540. PKM/.trash/coding-interview-university-main/extras/cheat sheets/big-o-cheatsheet.pdf
+541. PKM/.trash/coding-interview-university-main/extras/cheat sheets/bits-cheat-sheet.pdf
+542. PKM/.trash/coding-interview-university-main/extras/cheat sheets/C Reference Card (ANSI) 2.2.pdf
+543. PKM/.trash/coding-interview-university-main/extras/cheat sheets/Coding Interview Python Language Essentials.pdf
+544. PKM/.trash/coding-interview-university-main/extras/cheat sheets/Cpp_reference.pdf
+545. PKM/.trash/coding-interview-university-main/extras/cheat sheets/git-cheat-sheet-education.pdf
+546. PKM/.trash/coding-interview-university-main/extras/cheat sheets/Java Fundamentals Cheatsheet.pdf
+547. PKM/.trash/coding-interview-university-main/extras/cheat sheets/python-cheat-sheet-v1.pdf
+548. PKM/.trash/coding-interview-university-main/extras/cheat sheets/STL Quick Reference 1.29.pdf
+549. PKM/.trash/coding-interview-university-main/extras/cheat sheets/system-design.pdf
+550. PKM/.trash/coding-interview-university-main/translations/how-to.md
+551. PKM/.trash/coding-interview-university-main/translations/README-af.md
+552. PKM/.trash/coding-interview-university-main/translations/README-ar.md
+553. PKM/.trash/coding-interview-university-main/translations/README-bg.md
+554. PKM/.trash/coding-interview-university-main/translations/README-bn.md
+555. PKM/.trash/coding-interview-university-main/translations/README-cn.md
+556. PKM/.trash/coding-interview-university-main/translations/README-de.md
+557. PKM/.trash/coding-interview-university-main/translations/README-el.md
+558. PKM/.trash/coding-interview-university-main/translations/README-es.md
+559. PKM/.trash/coding-interview-university-main/translations/README-fa.md
+560. PKM/.trash/coding-interview-university-main/translations/README-fr.md
+561. PKM/.trash/coding-interview-university-main/translations/README-he.md
+562. PKM/.trash/coding-interview-university-main/translations/README-hi.md
+563. PKM/.trash/coding-interview-university-main/translations/README-id.md
+564. PKM/.trash/coding-interview-university-main/translations/README-it.md
+565. PKM/.trash/coding-interview-university-main/translations/README-ja.md
+566. PKM/.trash/coding-interview-university-main/translations/README-kh.md
+567. PKM/.trash/coding-interview-university-main/translations/README-ko.md
+568. PKM/.trash/coding-interview-university-main/translations/README-pl.md
+569. PKM/.trash/coding-interview-university-main/translations/README-ptbr.md
+570. PKM/.trash/coding-interview-university-main/translations/README-ru.md
+571. PKM/.trash/coding-interview-university-main/translations/README-th.md
+572. PKM/.trash/coding-interview-university-main/translations/README-tr.md
+573. PKM/.trash/coding-interview-university-main/translations/README-tw.md
+574. PKM/.trash/coding-interview-university-main/translations/README-uk.md
+575. PKM/.trash/coding-interview-university-main/translations/README-ur.md
+576. PKM/.trash/coding-interview-university-main/translations/README-uz.md
+577. PKM/.trash/coding-interview-university-main/translations/README-vi.md
+578. PKM/.trash/coding-interview-university-main/LICENSE.txt
+579. PKM/.trash/coding-interview-university-main/programming-language-resources.md
+580. PKM/.trash/coding-interview-university-main/README.md
+581. PKM/.trash/CS ???????????/computer-science-master/.gitignore
+582. PKM/.trash/CS ???????????/computer-science-master/.github/ISSUE_TEMPLATE/request-for-comment-template.md
+583. PKM/.trash/CS ???????????/computer-science-master/.github/PULL_REQUEST_TEMPLATE/project_pr.md
+584. PKM/.trash/CS ???????????/computer-science-master/coursepages/intro-programming/README.md
+585. PKM/.trash/CS ???????????/computer-science-master/coursepages/ostep/Project-1B-initial-xv6.md
+586. PKM/.trash/CS ???????????/computer-science-master/coursepages/ostep/Project-2A-processes-shell.md
+587. PKM/.trash/CS ???????????/computer-science-master/coursepages/ostep/Reading-order.md
+588. PKM/.trash/CS ???????????/computer-science-master/coursepages/ostep/README.md
+589. PKM/.trash/CS ???????????/computer-science-master/coursepages/ostep/Scheduling-xv6-lottery.md
+590. PKM/.trash/CS ???????????/computer-science-master/coursepages/ostep/vm-xv6-intro.md
+591. PKM/.trash/CS ???????????/computer-science-master/extras/courses.md
+592. PKM/.trash/CS ???????????/computer-science-master/extras/other_curricula.md
+593. PKM/.trash/CS ???????????/computer-science-master/extras/puzzles-practice-plods.md
+594. PKM/.trash/CS ???????????/computer-science-master/extras/readings.md
+595. PKM/.trash/CS ???????????/computer-science-master/CHANGELOG.md
+596. PKM/.trash/CS ???????????/computer-science-master/CNAME
+597. PKM/.trash/CS ???????????/computer-science-master/CONTRIBUTING.md
+598. PKM/.trash/CS ???????????/computer-science-master/CURRICULAR_GUIDELINES.md
+599. PKM/.trash/CS ???????????/computer-science-master/FAQ.md
+600. PKM/.trash/CS ???????????/computer-science-master/HELP.md
+601. PKM/.trash/CS ???????????/computer-science-master/LICENSE
+602. PKM/.trash/CS ???????????/computer-science-master/PROJECTS.md
+603. PKM/.trash/CS ???????????/computer-science-master/README.md
+604. PKM/.trash/Mastery_Zettelkasten_Obsidian/Apprenticeship.md
+605. PKM/.trash/Mastery_Zettelkasten_Obsidian/Creative_Active_Phase.md
+606. PKM/.trash/Mastery_Zettelkasten_Obsidian/Lifes_Task.md
+607. PKM/.trash/Mastery_Zettelkasten_Obsidian/Mastery.md
+608. PKM/.trash/Mastery_Zettelkasten_Obsidian/Project_Node_Mastery_Overview.md
+609. PKM/.trash/Mastery_Zettelkasten_Obsidian/Structure_Index_Mastery.md
+610. PKM/.trash/smart-notes-main/.gitignore
+611. PKM/.trash/smart-notes-main/projects/How to Take Smart Notes in Obsidian.md
+612. PKM/.trash/smart-notes-main/reference/How to Take Smart Notes.md
+613. PKM/.trash/smart-notes-main/slip-box/202110121231.md
+614. PKM/.trash/smart-notes-main/slip-box/202110121234.md
+615. PKM/.trash/smart-notes-main/slip-box/202110121234-a.md
+616. PKM/.trash/smart-notes-main/slip-box/202110121234-b.md
+617. PKM/.trash/smart-notes-main/slip-box/202110121247.md
+618. PKM/.trash/smart-notes-main/slip-box/202110121446.md
+619. PKM/.trash/smart-notes-main/slip-box/202110121446-a.md
+620. PKM/.trash/smart-notes-main/slip-box/202110121600.md
+621. PKM/.trash/smart-notes-main/slip-box/202110121600-a.md
+622. PKM/.trash/smart-notes-main/slip-box/202110121600-b.md
+623. PKM/.trash/smart-notes-main/slip-box/202110121600-b1.md
+624. PKM/.trash/smart-notes-main/slip-box/202110121600-c.md
+625. PKM/.trash/smart-notes-main/slip-box/202110121606.md
+626. PKM/.trash/smart-notes-main/slip-box/202110121606-a.md
+627. PKM/.trash/smart-notes-main/slip-box/202110121606-a1.md
+628. PKM/.trash/smart-notes-main/slip-box/202110121606-b.md
+629. PKM/.trash/smart-notes-main/slip-box/202110121606-b1.md
+630. PKM/.trash/smart-notes-main/slip-box/202110121606-b2.md
+631. PKM/.trash/smart-notes-main/slip-box/202110121606-c.md
+632. PKM/.trash/smart-notes-main/slip-box/202110121606-d.md
+633. PKM/.trash/smart-notes-main/slip-box/202110121606-d1.md
+634. PKM/.trash/smart-notes-main/slip-box/202110121606-f.md
+635. PKM/.trash/smart-notes-main/slip-box/202110121606-g.md
+636. PKM/.trash/smart-notes-main/slip-box/202110130629.md
+637. PKM/.trash/smart-notes-main/slip-box/202110131053.md
+638. PKM/.trash/smart-notes-main/slip-box/202110131057.md
+639. PKM/.trash/smart-notes-main/slip-box/202110131057-a.md
+640. PKM/.trash/smart-notes-main/slip-box/202110131113.md
+641. PKM/.trash/smart-notes-main/slip-box/202110131118.md
+642. PKM/.trash/smart-notes-main/slip-box/202110131223.md
+643. PKM/.trash/smart-notes-main/slip-box/202110131223-a.md
+644. PKM/.trash/smart-notes-main/slip-box/202110131229.md
+645. PKM/.trash/smart-notes-main/slip-box/202110131355.md
+646. PKM/.trash/smart-notes-main/slip-box/202110131401.md
+647. PKM/.trash/smart-notes-main/slip-box/202110131409.md
+648. PKM/.trash/smart-notes-main/slip-box/202110131415.md
+649. PKM/.trash/smart-notes-main/slip-box/202110131416.md
+650. PKM/.trash/smart-notes-main/slip-box/202110131433.md
+651. PKM/.trash/smart-notes-main/slip-box/202110131440.md
+652. PKM/.trash/smart-notes-main/slip-box/202110131448.md
+653. PKM/.trash/smart-notes-main/slip-box/202110131524.md
+654. PKM/.trash/smart-notes-main/slip-box/202110131526.md
+655. PKM/.trash/smart-notes-main/slip-box/202110131535.md
+656. PKM/.trash/smart-notes-main/slip-box/202110131537.md
+657. PKM/.trash/smart-notes-main/slip-box/202110131552.md
+658. PKM/.trash/smart-notes-main/slip-box/202110131556.md
+659. PKM/.trash/smart-notes-main/slip-box/202110131601.md
+660. PKM/.trash/smart-notes-main/slip-box/202110150918.md
+661. PKM/.trash/smart-notes-main/slip-box/202110150918-a.md
+662. PKM/.trash/smart-notes-main/slip-box/202110150918-b.md
+663. PKM/.trash/smart-notes-main/slip-box/202110150918-c.md
+664. PKM/.trash/smart-notes-main/slip-box/202110150933.md
+665. PKM/.trash/smart-notes-main/slip-box/202110150935.md
+666. PKM/.trash/smart-notes-main/slip-box/202110150937.md
+667. PKM/.trash/smart-notes-main/slip-box/202110150938.md
+668. PKM/.trash/smart-notes-main/slip-box/202110150940.md
+669. PKM/.trash/smart-notes-main/slip-box/202110150940-a.md
+670. PKM/.trash/smart-notes-main/slip-box/202110150940-b.md
+671. PKM/.trash/smart-notes-main/slip-box/202110150947.md
+672. PKM/.trash/smart-notes-main/slip-box/202110150948.md
+673. PKM/.trash/smart-notes-main/slip-box/202110160701.md
+674. PKM/.trash/smart-notes-main/slip-box/202110160702.md
+675. PKM/.trash/smart-notes-main/slip-box/202110160704.md
+676. PKM/.trash/smart-notes-main/slip-box/202110160704-a.md
+677. PKM/.trash/smart-notes-main/slip-box/202110160704-b.md
+678. PKM/.trash/smart-notes-main/slip-box/202110160704-c.md
+679. PKM/.trash/smart-notes-main/slip-box/202110160704-d.md
+680. PKM/.trash/smart-notes-main/slip-box/202110160806.md
+681. PKM/.trash/smart-notes-main/slip-box/202110160806-a.md
+682. PKM/.trash/smart-notes-main/slip-box/202110160806-b.md
+683. PKM/.trash/smart-notes-main/slip-box/202110160806-c.md
+684. PKM/.trash/smart-notes-main/slip-box/202110160825.md
+685. PKM/.trash/smart-notes-main/index.md
+686. PKM/.trash/smart-notes-main/smart notes.md
+687. PKM/.trash/A Guide to Personal Knowledge Management (PKM) Systems.md
+688. PKM/.trash/Anki.md
+689. PKM/.trash/Building a Second Brain.md
+690. PKM/.trash/c++ comments 2.md
+691. PKM/.trash/c++ comments.md
+692. PKM/.trash/Hhgsjd.md
+693. PKM/.trash/If you married one wife she will fight with you, but if you married two wives it will fight against itch others.md
+694. PKM/.trash/If you married one wife she will fight with you, but if you married two wives they will fight for you.md
+695. PKM/.trash/Make It Stick.md
+696. PKM/.trash/Nee.md
+697. PKM/.trash/New.md
+698. PKM/.trash/No title 2.md
+699. PKM/.trash/No title.md
+700. PKM/.trash/README.md
+701. PKM/.trash/The 48 Laws Of Power.md
+702. PKM/.trash/The Red Pill.md
+703. PKM/.trash/Untitled 2.md
+704. PKM/.trash/Untitled 3.md
+705. PKM/.trash/Untitled 4.md
+706. PKM/.trash/Untitled 5.md
+707. PKM/.trash/Untitled 6.md
+708. PKM/.trash/Untitled.md
+709. PKM/.trash/Use Zettelkasten in Obsidian.md
+710. PKM/.trash/Woman fight against you.md
+711. PKM/.trash/Zettlekasten in Obsidian.md
+712. PKM/00 - MOC/Books/+All Books.md
+713. PKM/00 - MOC/Books/Authors/Curtis Leone.md
+714. PKM/00 - MOC/Books/Authors/Tiago Forte.md
+715. PKM/00 - MOC/Books/+Authors.md
+716. PKM/00 - MOC/Books/+Categories.md
+717. PKM/00 - MOC/CS/+ C++ MOC.md
+718. PKM/00 - MOC/CS/+ CS MOC.md
+719. PKM/00 - MOC/CS/+ Python MOC.md
+720. PKM/00 - MOC/PKM/+ Anki MOC.md
+721. PKM/00 - MOC/PKM/+ Obsidian MOC.md
+722. PKM/00 - MOC/PKM/+ PKM MOC.md
+723. PKM/00 - MOC/PKM/+ Zettlekasten MOC.md
+724. PKM/00 - MOC/TRP/Psychology/+ Psychology MOC.md
+725. PKM/00 - MOC/TRP/Psychology/Behavioral Psychology.md
+726. PKM/00 - MOC/TRP/Psychology/Cognitive Psychology.md
+727. PKM/00 - MOC/TRP/Psychology/Theories of Psychology.md
+728. PKM/01 - Projects/01 Tasks/+Tasks.md
+729. PKM/01 - Projects/02 Projects/; Automate data analysis for email lead data.md
+730. PKM/01 - Projects/02 Projects/; AutoTrack Project.md
+731. PKM/01 - Projects/02 Projects/; Course 1.md
+732. PKM/01 - Projects/02 Projects/; Course 2.md
+733. PKM/01 - Projects/02 Projects/; Course 3.md
+734. PKM/01 - Projects/02 Projects/; Find startups to invest in.md
+735. PKM/01 - Projects/02 Projects/; Q1 2022 Lead Gen with Cold Emails.md
+736. PKM/01 - Projects/02 Projects/; Read and summarize top 5 copywriting books.md
+737. PKM/01 - Projects/02 Projects/; Running Plan Q1 2022.md
+738. PKM/01 - Projects/02 Projects/+Projects Board.md
+739. PKM/01 - Projects/03 Goals/+Goals Board.md
+740. PKM/01 - Projects/03 Goals/2022-02-11 - Finish College.md
+741. PKM/01 - Projects/03 Goals/2022-02-11 - Invest in startup.md
+742. PKM/01 - Projects/03 Goals/2022-02-11 - Learn Copywriting.md
+743. PKM/01 - Projects/03 Goals/2022-02-11 - Learn Python.md
+744. PKM/01 - Projects/03 Goals/2022-02-11 - Reach $10.000 MRR.md
+745. PKM/01 - Projects/03 Goals/2022-02-11 - Run 1000 km in 2022.md
+746. PKM/01 - Projects/03 Goals/2022-07-25 - AutoTracking test.md
+747. PKM/02 - Areas/Monk Mode Protocol.md
+748. PKM/02 - Areas/40-GYM/CT/1. Upper.md
+749. PKM/02 - Areas/40-GYM/CT/2. Lower.md
+750. PKM/02 - Areas/40-GYM/CT/3. Push.md
+751. PKM/02 - Areas/40-GYM/CT/4. Pull.md
+752. PKM/02 - Areas/40-GYM/CT/5. Legs.md
+753. PKM/02 - Areas/40-GYM/CT/NERVOUS SYSTEM TRAINING 101.md
+754. PKM/02 - Areas/40-GYM/Meal/Breakfast.md
+755. PKM/02 - Areas/40-GYM/Meal/Meal.md
+756. PKM/02 - Areas/Habits/Meditation Tracker.md
+757. PKM/02 - Areas/Habits/Mood Tracker.md
+758. PKM/02 - Areas/Habits/Pomodoros & Mood.md
+759. PKM/02 - Areas/Habits/Weight Tracker.md
+760. PKM/02 - Areas/Habits/Word Tracker.md
+761. PKM/02 - Areas/Habits/Work Tracker.md
+762. PKM/02 - Areas/My day routine.md
+763. PKM/03 - Fleeting/2024-11-29.md
+764. PKM/03 - Fleeting/Call Center.md
+765. PKM/03 - Fleeting/How to save my teeth for long life..md
+766. PKM/03 - Fleeting/Learn Markdown language..md
+767. PKM/04 - Resources/+To Do/Be a reflection to her nature.md
+768. PKM/04 - Resources/+To Do/Effective learning Twenty rules of formulating knowledge - SuperMemo.md
+769. PKM/04 - Resources/+To Do/How to Build a System for Lifelong Learning.md
+770. PKM/04 - Resources/+To Do/How to Read Body Language and Facial Expressions.md
+771. PKM/04 - Resources/+To Do/How to Take Book Notes in Obsidian - Obsidian Rocks.md
+772. PKM/04 - Resources/+To Do/Quickly Organize Notes in Obsidian - Obsidian Rocks.md
+773. PKM/04 - Resources/+To Do/These are the top 10 job skills of tomorrow ? and how long it takes to learn them.md
+774. PKM/04 - Resources/+To Do/Using Zettelkasten and Obsidian to Learn More Effectively.md
+775. PKM/04 - Resources/Articles/The Cornell Note Taking System.md
+776. PKM/04 - Resources/Books/How to Take Smart Notes.md
+777. PKM/04 - Resources/Courses/CS/Programming advices/Course 1/Important Before You Start With C++ Course.md
+778. PKM/04 - Resources/Courses/CS/Python El zero/Mastering-Python.md
+779. PKM/04 - Resources/Courses/SS/Breadcrumbswrapup-to-learning-how-to-learn.sync-conflict-20231224-145613-AHKILET.md
+780. PKM/04 - Resources/Courses/SS/learn-how-to-learn.md
+781. PKM/04 - Resources/EN/English Flash Cards.md
+782. PKM/04 - Resources/EN/new english.md
+783. PKM/04 - Resources/EN/?????????? ?????? Zamercan English ??????????.md
+784. PKM/04 - Resources/TRP/Best red pill books.md
+785. PKM/04 - Resources/TRP/????? ?????? ????? ??? ???? ?? ???????.md
+786. PKM/04 - Resources/TRP/??? ?????? ??????? ?????? ?? ?????? ? ?? ?????? ????.md
+787. PKM/04 - Resources/TRP/??? ???? ?????.md
+788. PKM/04 - Resources/Videos/Full Stack Data Science Roadmap 2023.md
+789. PKM/04 - Resources/Videos/How to self study technical things.md
+790. PKM/04 - Resources/Videos/My Training Program in 2023 ??????? ????????.md
+791. PKM/04 - Resources/Videos/The PERFECT Hybrid Calisthenics Program (Feat Bald Omni Man).md
+792. PKM/04 - Resources/Videos/using anki & Obsidian to learn programming programming.md
+793. PKM/04 - Resources/Videos/Zettelkasten with Obsidian workflow.md
+794. PKM/04 - Resources/Videos/??? ????? ??????? ? ????? ?? ???.md
+795. PKM/05 - Permanent/CS/What is a data science.md
+796. PKM/05 - Permanent/CS/C++/syntax.md
+797. PKM/05 - Permanent/CS/What is a IT.md
+798. PKM/05 - Permanent/TRP/Changing reality.md
+799. PKM/05 - Permanent/TRP/Emotional Intelligence.md
+800. PKM/05 - Permanent/TRP/Facing reality.md
+801. PKM/05 - Permanent/TRP/Independence.md
+802. PKM/05 - Permanent/TRP/Reconciling with oneself.md
+803. PKM/05 - Permanent/TRP/Reda Pill - Oncasi.md
+804. PKM/05 - Permanent/TRP/Self Awareness.md
+805. PKM/05 - Permanent/TRP/Self Confidence.md
+806. PKM/05 - Permanent/TRP/Self Control.md
+807. PKM/05 - Permanent/TRP/Self discipline.md
+808. PKM/05 - Permanent/TRP/Silent Commander.md
+809. PKM/05 - Permanent/TRP/Sincerity.md
+810. PKM/05 - Permanent/TRP/SMV.md
+811. PKM/05 - Permanent/TRP/Stoicism.md
+812. PKM/05 - Permanent/TRP/volition.md
+813. PKM/05 - Permanent/TRP/What is a TRP.md
+814. PKM/05 - Permanent/TRP/What Is Monk Mode.md
+815. PKM/05 - Permanent/TRP/Who is a SIG?A person.md
+816. PKM/06 - Daily/Daily/+Daily.md
+817. PKM/06 - Daily/Daily/2024-02-06.md
+818. PKM/06 - Daily/Daily/2024-06-03.md
+819. PKM/06 - Daily/Daily/2024-06-04.md
+820. PKM/06 - Daily/Daily/2024-06-05.md
+821. PKM/06 - Daily/Daily/2024-06-10.md
+822. PKM/06 - Daily/Daily/2024-06-11.md
+823. PKM/06 - Daily/Daily/2024-06-12.md
+824. PKM/06 - Daily/Daily/2024-06-13.md
+825. PKM/06 - Daily/Daily/2024-06-17.md
+826. PKM/06 - Daily/Daily/2024-06-18.md
+827. PKM/06 - Daily/Daily/2024-07-19.md
+828. PKM/06 - Daily/Daily/2024-08-03.md
+829. PKM/06 - Daily/Daily/2024-08-14.md
+830. PKM/06 - Daily/Daily/2024-08-19.md
+831. PKM/06 - Daily/Daily/2024-08-20.md
+832. PKM/06 - Daily/Daily/2024-11-25.md
+833. PKM/06 - Daily/Daily/2024-11-30.md
+834. PKM/06 - Daily/Daily/2024-12-02.md
+835. PKM/06 - Daily/Daily/2024-12-18.md
+836. PKM/06 - Daily/Daily/2024-12-25.md
+837. PKM/06 - Daily/Daily/2024-12-26.md
+838. PKM/06 - Daily/Daily/2024-12-27.md
+839. PKM/06 - Daily/Daily/2024-12-31.md
+840. PKM/06 - Daily/Daily/2025-01-01.md
+841. PKM/06 - Daily/Daily/2025-01-02.md
+842. PKM/06 - Daily/Daily/2025-01-03.md
+843. PKM/06 - Daily/Daily/2025-01-22.md
+844. PKM/06 - Daily/Daily/2025-02-01.md
+845. PKM/06 - Daily/Daily/2025-02-05.md
+846. PKM/06 - Daily/Daily/2025-02-14.md
+847. PKM/06 - Daily/Daily/2025-02-15.md
+848. PKM/06 - Daily/Daily/2025-02-16.md
+849. PKM/06 - Daily/Daily/2025-02-17.md
+850. PKM/06 - Daily/Daily/2025-02-18.md
+851. PKM/06 - Daily/Daily/2025-02-19.md
+852. PKM/06 - Daily/Daily/2025-02-20.md
+853. PKM/06 - Daily/Daily/2025-02-22.md
+854. PKM/06 - Daily/Daily/2025-02-23.md
+855. PKM/06 - Daily/diary/01.01.2021.md
+856. PKM/06 - Daily/diary/data/data1.md
+857. PKM/06 - Daily/diary/data/data2.md
+858. PKM/06 - Daily/diary/data/data3.md
+859. PKM/06 - Daily/diary/data/MTG-Card-1.md
+860. PKM/06 - Daily/diary/data/MTG-Card-2.md
+861. PKM/06 - Daily/diary/data/MTG-Card-3.md
+862. PKM/06 - Daily/diary/data/MTG-Card-4.md
+863. PKM/06 - Daily/diary/data/MTG-Deck-1.md
+864. PKM/06 - Daily/diary/data/Set-FileDates.ps1
+865. PKM/06 - Daily/diary/data/Tables.md
+866. PKM/06 - Daily/diary/Track/Blood Pressure Tracker.md
+867. PKM/06 - Daily/diary/Track/.obsidian/app.json
+868. PKM/06 - Daily/diary/Track/.obsidian/plugins/obsidian-tracker/.hotreload
+869. PKM/06 - Daily/diary/Track/.obsidian/plugins/obsidian-tracker/.keep
+870. PKM/06 - Daily/diary/Track/.obsidian/plugins/obsidian-tracker/main.js
+871. PKM/06 - Daily/diary/Track/.obsidian/plugins/obsidian-tracker/manifest.json
+872. PKM/06 - Daily/diary/Track/.obsidian/plugins/obsidian-tracker/styles.css
+873. PKM/06 - Daily/diary/Track/.obsidian/appearance.json
+874. PKM/06 - Daily/diary/Track/.obsidian/community-plugins.json
+875. PKM/06 - Daily/diary/Track/.obsidian/core-plugins.json
+876. PKM/06 - Daily/diary/Track/.obsidian/core-plugins-migration.json
+877. PKM/06 - Daily/diary/Track/.obsidian/hotkeys.json
+878. PKM/06 - Daily/diary/Track/.obsidian/workspace.json
+879. PKM/06 - Daily/diary/Track/ErrorMessages.md
+880. PKM/06 - Daily/diary/Track/FinanceTracker.md
+881. PKM/06 - Daily/diary/Track/HabitTracker.md
+882. PKM/06 - Daily/diary/Track/mood (TestTextValueMap).md
+883. PKM/06 - Daily/diary/Track/StarTracker.md
+884. PKM/06 - Daily/diary/Track/TestAxisIntervalAndFormat.md
+885. PKM/06 - Daily/diary/Track/TestBarChart.md
+886. PKM/06 - Daily/diary/Track/TestBullet.md
+887. PKM/06 - Daily/diary/Track/TestCalendar.md
+888. PKM/06 - Daily/diary/Track/TestCommands.md
+889. PKM/06 - Daily/diary/Track/TestDateFormats.md
+890. PKM/06 - Daily/diary/Track/TestDvField.md
+891. PKM/06 - Daily/diary/Track/TestExpression.md
+892. PKM/06 - Daily/diary/Track/TestFileMeta.md
+893. PKM/06 - Daily/diary/Track/TestFrontmatter.md
+894. PKM/06 - Daily/diary/Track/TestLegends.md
+895. PKM/06 - Daily/diary/Track/TestMultipleTargesMultipleValues.md
+896. PKM/06 - Daily/diary/Track/TestPieChart.md
+897. PKM/06 - Daily/diary/Track/TestRegex.md
+898. PKM/06 - Daily/diary/Track/TestRelativeStartEndDate.md
+899. PKM/06 - Daily/diary/Track/TestScalingAndPositioing.md
+900. PKM/06 - Daily/diary/Track/TestSpecifiedFiles.md
+901. PKM/06 - Daily/diary/Track/TestSummary.md
+902. PKM/06 - Daily/diary/Track/TestTabCharacters.md
+903. PKM/06 - Daily/diary/Track/TestTable.md
+904. PKM/06 - Daily/diary/Track/TestTask.md
+905. PKM/06 - Daily/diary/Track/TestTimeValues.md
+906. PKM/06 - Daily/diary/Track/TestWordCounting.md
+907. PKM/06 - Daily/diary/Track/TestXDataset.md
+908. PKM/06 - Daily/diary/Track/WeightTracker.md
+909. PKM/06 - Daily/diary/Track/WikiTracker.md
+910. PKM/06 - Daily/diary/01-01-2021.md
+911. PKM/06 - Daily/diary/02.01.2021.md
+912. PKM/06 - Daily/diary/02-01-2021.md
+913. PKM/06 - Daily/diary/03.01.2021.md
+914. PKM/06 - Daily/diary/03-01-2021.md
+915. PKM/06 - Daily/diary/04.01.2021.md
+916. PKM/06 - Daily/diary/04-01-2021.md
+917. PKM/06 - Daily/diary/05.01.2021.md
+918. PKM/06 - Daily/diary/05-01-2021.md
+919. PKM/06 - Daily/diary/1-20210101.md
+920. PKM/06 - Daily/diary/2021-01-01.md
+921. PKM/06 - Daily/diary/20210101-D.md
+922. PKM/06 - Daily/diary/2021-01-01-Friday.md
+923. PKM/06 - Daily/diary/2021-01-02.md
+924. PKM/06 - Daily/diary/20210102-D.md
+925. PKM/06 - Daily/diary/2021-01-02-Saturday.md
+926. PKM/06 - Daily/diary/2021-01-03.md
+927. PKM/06 - Daily/diary/20210103-D.md
+928. PKM/06 - Daily/diary/2021-01-03-Sunday.md
+929. PKM/06 - Daily/diary/2021-01-04.md
+930. PKM/06 - Daily/diary/20210104-D.md
+931. PKM/06 - Daily/diary/2021-01-04-Monday.md
+932. PKM/06 - Daily/diary/2021-01-05.md
+933. PKM/06 - Daily/diary/20210105-D.md
+934. PKM/06 - Daily/diary/2021-01-05-Tuesday.md
+935. PKM/06 - Daily/diary/2021-01-06.md
+936. PKM/06 - Daily/diary/2021-01-07.md
+937. PKM/06 - Daily/diary/2021-01-08.md
+938. PKM/06 - Daily/diary/2021-01-09.md
+939. PKM/06 - Daily/diary/2021-01-10.md
+940. PKM/06 - Daily/diary/2021-01-11.md
+941. PKM/06 - Daily/diary/2021-01-12.md
+942. PKM/06 - Daily/diary/2021-01-13.md
+943. PKM/06 - Daily/diary/2021-01-14.md
+944. PKM/06 - Daily/diary/2021-01-15.md
+945. PKM/06 - Daily/diary/2021-01-16.md
+946. PKM/06 - Daily/diary/2021-01-17.md
+947. PKM/06 - Daily/diary/2021-01-18.md
+948. PKM/06 - Daily/diary/2021-01-19.md
+949. PKM/06 - Daily/diary/2021-01-20.md
+950. PKM/06 - Daily/diary/2021-01-21.md
+951. PKM/06 - Daily/diary/2021-01-22.md
+952. PKM/06 - Daily/diary/2021-01-23.md
+953. PKM/06 - Daily/diary/2021-01-24.md
+954. PKM/06 - Daily/diary/2021-01-25.md
+955. PKM/06 - Daily/diary/2021-01-26.md
+956. PKM/06 - Daily/diary/2021-01-27.md
+957. PKM/06 - Daily/diary/2021-01-28.md
+958. PKM/06 - Daily/diary/2021-01-29.md
+959. PKM/06 - Daily/diary/2021-01-30.md
+960. PKM/06 - Daily/diary/2021-01-31.md
+961. PKM/06 - Daily/diary/2-20210102.md
+962. PKM/06 - Daily/diary/3-20210103.md
+963. PKM/06 - Daily/diary/4-20210104.md
+964. PKM/06 - Daily/diary/5-20210105.md
+965. PKM/06 - Daily/diary/D-20210101.md
+966. PKM/06 - Daily/diary/D-20210102.md
+967. PKM/06 - Daily/diary/D-20210103.md
+968. PKM/06 - Daily/diary/D-20210104.md
+969. PKM/06 - Daily/diary/D-20210105.md
+970. PKM/06 - Daily/diary/Jeffrey-20210101-Diary.md
+971. PKM/06 - Daily/diary/Jeffrey-20210101-Journal.md
+972. PKM/06 - Daily/diary/Jeffrey-20210102-Diary.md
+973. PKM/06 - Daily/diary/Jeffrey-20210102-Journal.md
+974. PKM/06 - Daily/diary/Jeffrey-20210103-Diary.md
+975. PKM/06 - Daily/diary/Jeffrey-20210103-Journal.md
+976. PKM/06 - Daily/diary/Jeffrey-20210104-Diary.md
+977. PKM/06 - Daily/diary/Jeffrey-20210104-Journal.md
+978. PKM/06 - Daily/diary/Jeffrey-20210105-Diary.md
+979. PKM/06 - Daily/diary/Jeffrey-20210105-Journal.md
+980. PKM/06 - Daily/diary/Lucas-20210101-Diary.md
+981. PKM/06 - Daily/diary/Lucas-20210101-Journal.md
+982. PKM/06 - Daily/diary/Lucas-20210102-Diary.md
+983. PKM/06 - Daily/diary/Lucas-20210102-Journal.md
+984. PKM/06 - Daily/diary/Lucas-20210103-Diary.md
+985. PKM/06 - Daily/diary/Lucas-20210103-Journal.md
+986. PKM/06 - Daily/diary/Lucas-20210104-Diary.md
+987. PKM/06 - Daily/diary/Lucas-20210104-Journal.md
+988. PKM/06 - Daily/diary/Lucas-20210105-Diary.md
+989. PKM/06 - Daily/diary/Lucas-20210105-Journal.md
+990. PKM/06 - Daily/Monthly/2023-M03.md
+991. PKM/06 - Daily/Monthly/2023-M04.md
+992. PKM/06 - Daily/Monthly/2023-M06.md
+993. PKM/06 - Daily/Monthly/2023-M07.md
+994. PKM/06 - Daily/Monthly/Monthly.md
+995. PKM/06 - Daily/Quarterly/2023-Q1.md
+996. PKM/06 - Daily/Quarterly/Quarterly.md
+997. PKM/06 - Daily/Weekly/2024-W24.md
+998. PKM/06 - Daily/Weekly/2024-W34.md
+999. PKM/06 - Daily/Weekly/2025-W06.md
+1000. PKM/06 - Daily/Weekly/Weekly.md
+1001. PKM/06 - Daily/Yearly/2023.md
+1002. PKM/06 - Daily/Yearly/Yearly.md
+1003. PKM/07 - Archives/Untitled.md
+1004. PKM/99 - Meta/00 - Templates/MOC.T.md
+1005. PKM/99 - Meta/00 - Templates/books/Author.T.md
+1006. PKM/99 - Meta/00 - Templates/books/book.T.md
+1007. PKM/99 - Meta/00 - Templates/books/Movie.T.md
+1008. PKM/99 - Meta/00 - Templates/Porjects & Goals Dashboard.T/autotracking_goal_item_template.md
+1009. PKM/99 - Meta/00 - Templates/Porjects & Goals Dashboard.T/goal_item_template.md
+1010. PKM/99 - Meta/00 - Templates/Porjects & Goals Dashboard.T/project_item_template.md
+1011. PKM/99 - Meta/00 - Templates/Reviews.T/Daily.T.md
+1012. PKM/99 - Meta/00 - Templates/Reviews.T/Monthly.T.md
+1013. PKM/99 - Meta/00 - Templates/Reviews.T/Quarterly.T.md
+1014. PKM/99 - Meta/00 - Templates/Reviews.T/Weekly.T.md
+1015. PKM/99 - Meta/00 - Templates/Reviews.T/Yearly.T.md
+1016. PKM/99 - Meta/00 - Templates/Satrs.T/1 Star.T.md
+1017. PKM/99 - Meta/00 - Templates/Satrs.T/2 Stars.T.md
+1018. PKM/99 - Meta/00 - Templates/Satrs.T/3 Stars.T.md
+1019. PKM/99 - Meta/00 - Templates/Satrs.T/4 Stars.T.md
+1020. PKM/99 - Meta/00 - Templates/Satrs.T/5 Stars.T.md
+1021. PKM/99 - Meta/00 - Templates/Zettelkasten/Fleeting.T.md
+1022. PKM/99 - Meta/00 - Templates/Zettelkasten/Permanents.T.md
+1023. PKM/99 - Meta/00 - Templates/Zettelkasten/Resources.T.md
+1024. PKM/99 - Meta/99 - Attachment/1734544493666.jpg
+1025. PKM/99 - Meta/Preloaded Classes/202401211512 Notebook CSS Classes.md
+1026. PKM/99 - Meta/Preloaded Classes/202403091325 General Tweaks CSS Classes.md
+1027. PKM/Github
+1028. PKM/Index.md
+1029. PKM/Linux command and terminal

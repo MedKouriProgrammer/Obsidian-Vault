@@ -1,0 +1,32 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "height": 720,
+      "id": "19661a656dfb0ae4",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "![[2025-03-16 (4).png]]",
+      "type": "text",
+      "width": 1000,
+      "x": -360,
+      "y": -720
+    },
+    {
+      "height": 760,
+      "id": "9f1cfe17180e7d2f",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "![[2025-03-16 (7).png]]",
+      "type": "text",
+      "width": 1000,
+      "x": -360,
+      "y": 80
+    }
+  ]
+}

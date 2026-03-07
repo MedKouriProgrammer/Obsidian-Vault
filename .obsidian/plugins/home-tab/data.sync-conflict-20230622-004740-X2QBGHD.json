@@ -1,0 +1,53 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "IMAD",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showStarredFiles": false,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "88-Template/Home.md",
+      "timestamp": 1687390378715
+    },
+    {
+      "filepath": "20-Diary/2023-06-22.md",
+      "timestamp": 1687390346757
+    },
+    {
+      "filepath": "20-Diary/2023-06-21.md",
+      "timestamp": 1687388555082
+    },
+    {
+      "filepath": "40-Booknote/02 AREAS/Mental/Educational/TRP/My day routine.md",
+      "timestamp": 1687387515036
+    },
+    {
+      "filepath": "65-Excalidraw/Untitled-2023-06-21-2147.excalidraw",
+      "timestamp": 1687380788121
+    }
+  ],
+  "starredFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false
+}

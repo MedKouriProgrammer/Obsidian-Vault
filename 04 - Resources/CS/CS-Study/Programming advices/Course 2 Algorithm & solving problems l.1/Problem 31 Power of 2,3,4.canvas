@@ -1,0 +1,110 @@
+{
+  "edges": [
+    {
+      "fromNode": "c2f1468062b4ab20",
+      "fromSide": "bottom",
+      "id": "854d9802c57ddc50",
+      "styleAttributes": {
+      },
+      "toNode": "e7f14067f225cdaf",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 1040,
+      "id": "5b41d2daca541f13",
+      "label": "Untitled group",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 880,
+      "x": -400,
+      "y": 320
+    },
+    {
+      "height": 600,
+      "id": "1a6d377832c87341",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "![[2025-03-16 (8).png]]",
+      "type": "text",
+      "width": 680,
+      "x": -360,
+      "y": -360
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "c2f1468062b4ab20",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Start",
+      "type": "text",
+      "width": 300,
+      "x": -100,
+      "y": 360
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "e2b3e8fbea3d49f6",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Read: Number",
+      "type": "text",
+      "width": 300,
+      "x": -100,
+      "y": 500
+    },
+    {
+      "color": "5",
+      "height": 100,
+      "id": "e7f14067f225cdaf",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# End",
+      "type": "text",
+      "width": 300,
+      "x": -100,
+      "y": 1200
+    },
+    {
+      "color": "5",
+      "height": 200,
+      "id": "2c36b4855691aa5b",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "text": "# Print: Num1\n# Print: Num2\n# Print: Num3",
+      "type": "text",
+      "width": 420,
+      "x": -160,
+      "y": 920
+    },
+    {
+      "color": "5",
+      "height": 240,
+      "id": "d55f87dd6688edd2",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "# Num1= Number * Number\n# Num2= Number * Number * Number\n# Num3= Number * Number * Number * Number",
+      "type": "text",
+      "width": 665,
+      "x": -282,
+      "y": 640
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "Inbox/",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "png",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Cite",
+      "format": "template",
+      "template": "{{citekey}}"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Import Paper",
+      "outputPathTemplate": "Inbox/{{citekey}}.md",
+      "imageOutputPathTemplate": "Media/zotero/{{citekey}}/",
+      "imageBaseNameTemplate": "{{citekey}}",
+      "templatePath": "Templates/Inputs/Paper.md"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "pdfExportImageOCR": true,
+  "pdfExportImageTesseractPath": "/usr/local/bin/tesseract",
+  "shouldConcat": true,
+  "shouldShowCiteSuggest": true,
+  "exeOverridePath": "/Users/bryanjenks/Desktop/Petrichor/.obsidian/plugins/obsidian-zotero-desktop-connector/pdfannots2json"
+}

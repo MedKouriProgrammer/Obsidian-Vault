@@ -1,0 +1,84 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "search",
+    "imagePath": "",
+    "imageLink": "http://www.baidu.com"
+  },
+  "logoScale": 1,
+  "iconColorType": "default",
+  "wordmark": "Blue Topaz Example",
+  "customFont": "interfaceFont",
+  "fontSize": "3em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showStarredFiles": true,
+  "showRecentFiles": true,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": false,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "88-Template/home.md",
+      "timestamp": 1685091342942
+    },
+    {
+      "filepath": "77-Example/◾ Dataview相关实例/editable dv form.md",
+      "timestamp": 1685090748717
+    },
+    {
+      "filepath": "60-Canvas/Home_middle.canvas",
+      "timestamp": 1685022254976
+    },
+    {
+      "filepath": "00-Tips/00-Tips.md",
+      "timestamp": 1685019118454
+    },
+    {
+      "filepath": "00-Tips/Sample Library Migration Instructions/如何全功能移植Blue Topaz 示例库到自己的库中.md",
+      "timestamp": 1685018877565
+    }
+  ],
+  "starredFileStore": [
+    {
+      "filepath": "77-Example/Examples of headings for each level.md"
+    },
+    {
+      "filepath": "77-Example/Example of Column Effect.md"
+    },
+    {
+      "filepath": "77-Example/Various lists and rainbow outline lines.md"
+    },
+    {
+      "filepath": "77-Example/77-Example.md",
+      "iconId": "star"
+    },
+    {
+      "filepath": "77-Example/◾ Dataview相关实例/Retrieve an example of a file via the drop-down box.md"
+    },
+    {
+      "filepath": "77-Example/◾ Dataview相关实例/Project tracking (word count and tasks completed).md"
+    },
+    {
+      "filepath": "10-Help/Dataview系列教程/🔑 Dataview Tutorial.md"
+    },
+    {
+      "filepath": "00-Tips/🥑Blue Topaz Themes Tips.md",
+      "iconId": "book-open"
+    },
+    {
+      "filepath": "77-Example/Ob prompt box (callout) style display.md"
+    }
+  ],
+  "searchDelay": 200,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "font": "霞鹜文楷"
+}

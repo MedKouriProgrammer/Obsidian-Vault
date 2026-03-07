@@ -1,0 +1,32 @@
+---
+creation_date: 2025-12-28
+tags:
+  - Resources/Articles
+Resource: https://elzero.org/html-links-anchor-tag/
+Author: "[[Alzero Wep School]]"
+---
+> [!summary]-
+> 
+
+# <font color="#646a73">Links – Anchor Tag</font>
+---
+### Input:
+```html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Book Store</title>
+    <meta name="description" content="This Is Our Book Store" />
+  </head>
+  <body>
+    <h1>Book Store</h1>                                                       
+    <p>This Is My <b>Book Store</b>, Welcome</p>
+    <a href="https://google.com" target="_blank" title="Go To Google">Google</a>
+    <a href="https://facebook.com" title="Go To Facebook">Facebook</a>
+    <a href="test.html" title="Go To Test Page">Test</a>
+    <a href="#osama" title="Go To Osama">Osama Paragraph</a>
+    <a href="mailto:o@nn.sa">Contact Me</a>
+  </body>
+</html>
+```
