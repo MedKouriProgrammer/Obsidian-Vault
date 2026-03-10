@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Untitled 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 2"
+              "title": "Outline of Untitled 1"
             }
           },
           {
@@ -247,12 +247,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7669aa152ea972e7",
+  "active": "6d6c62be84c8dada",
   "lastOpenFiles": [
-    "06 - Daily/Daily/2026-03-10.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
     "Untitled.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "06 - Daily/Daily/2026-03-10.md",
     "02 - Areas/40-GYM/Gym-Programs/Push-Pull-Legs  Programs/1. (Push-Pull-Legs) Body.md",
     "02 - Areas/40-GYM/Gym-Programs/Upper-Lower Programs/1. (UpperLower) Body.md",
     "02 - Areas/40-GYM/Gym-Programs/Upper-Lower Programs/2. UpperBody.md",

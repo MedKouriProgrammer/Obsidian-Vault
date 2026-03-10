@@ -10,7 +10,7 @@
     "hide_everything": "# Hide everything except description and any tags\npreset hide_date_fields\npreset hide_non_date_fields\npreset hide_query_elements"
   },
   "globalQuery": "",
-  "globalFilter": "#tasks",
+  "globalFilter": "#ts",
   "removeGlobalFilter": true,
   "taskFormat": "tasksPluginEmoji",
   "setCreatedDate": true,
