@@ -49,8 +49,7 @@
               "title": "Untitled 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -247,10 +246,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d6c62be84c8dada",
+  "active": "2f9a7e7f2e8fa672",
   "lastOpenFiles": [
-    "Untitled.md",
     "Untitled 1.md",
+    "Untitled.md",
     "Untitled 2.md",
     "06 - Daily/Daily/2026-03-10.md",
     "02 - Areas/40-GYM/Gym-Programs/Push-Pull-Legs  Programs/1. (Push-Pull-Legs) Body.md",
