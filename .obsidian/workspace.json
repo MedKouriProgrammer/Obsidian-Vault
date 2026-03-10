@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Yehya Tech/Learn Git & GitHub.md",
+                "file": "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 20 to 55.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learn Git & GitHub"
+              "title": "Problems From 20 to 55"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Yehya Tech/Learn Git & GitHub.md",
+                "file": "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 20 to 55.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Learn Git & GitHub"
+              "title": "Outline of Problems From 20 to 55"
             }
           },
           {
@@ -178,8 +178,8 @@
             "state": {
               "type": "journal-calendar",
               "state": {},
-              "icon": "calendar-days",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "journal-calendar"
             }
           },
           {
@@ -214,11 +214,20 @@
       "templates:Insert template": false,
       "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "2f9a7e7f2e8fa672",
   "lastOpenFiles": [
+    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 20 to 55.md",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 31 to 40.md",
+    "06 - Daily/Daily/2026-03-09.md",
+    "04 - Resources/CS/CS-Study/Zero Web School/Learn python with (Alzero Web School)/1- Commend Line/04 - Directories And Files Part 2.md",
+    "04 - Resources/CS/CS-Study/Zero Web School/Learn python with (Alzero Web School)/1- Commend Line/06 - Grep With Examples.md",
+    "04 - Resources/CS/CS-Study/Zero Web School/Learn python with (Alzero Web School)/1- Commend Line/07 - Command Line Secrets Part 1.md",
+    "04 - Resources/CS/CS-Study/Zero Web School/Learn python with (Alzero Web School)/1- Commend Line/05 - Cat And Echo.md",
+    "04 - Resources/CS/CS-Study/Yehya Tech/Learn Git & GitHub.md",
     "99 - Meta/99 - Attachment/Pasted image 20260307172307.png",
     "99 - Meta/99 - Attachment/Pasted image 20260307172057.png",
     "99 - Meta/99 - Attachment/Pasted image 20260307164030.png",
@@ -229,14 +238,11 @@
     "99 - Meta/99 - Attachment/Pasted image 20260307155742.png",
     "99 - Meta/99 - Attachment/Pasted image 20260307151330.png",
     "Yehia Tech.md",
-    "04 - Resources/CS/CS-Study/Yehya Tech/Learn Git & GitHub.md",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 20 to 55.md",
     "04 - Resources/CS/CS-Study/Yehya Tech",
     "99 - Meta/99 - Attachment/Pasted image 20260307135540.png",
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 1 to 10.md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 11 to 19.md",
     "06 - Daily/Daily/2026-03-07.md",
-    "99 - Meta/99 - Attachment/Pasted image 20260306160847.png",
     "06 - Daily/Daily/2026-03-06.md",
     "06 - Daily/Daily/2026-03-05.md",
     "06 - Daily/Daily/2026-03-04.md",
@@ -254,11 +260,6 @@
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/My code file.cpp",
     "06 - Daily/Daily/2026-02-27.md",
     "06 - Daily/Daily/2026-02-26.md",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 6 Introduction to Programming Using C++ Level 2/2- Miscellaneous/Lesson 09 - Ternary Operator (Short Hand IF).md",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 6 Introduction to Programming Using C++ Level 2/2- Miscellaneous/Lesson 11 - Validate Number.md",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 6 Introduction to Programming Using C++ Level 2/2- Miscellaneous/Lesson 12 - Bitwise AND operator.md",
-    "06 - Daily/Daily/2026-02-25.md",
-    "06 - Daily/Daily/2026-02-24.md",
     "04 - Resources/Notes ( Programming )/Course 8 Algorithms & Problem Solving Level 4 1",
     "04 - Resources/CS/CS-Study/Programming advices/Course 7 Algorithms & Problem Solving Level 3/Untitled.canvas",
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4",
