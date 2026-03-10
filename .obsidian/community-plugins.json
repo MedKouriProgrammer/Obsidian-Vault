@@ -22,10 +22,10 @@
   "obsidian-admonition",
   "home-tab",
   "advanced-canvas",
-  "heatmap-tracker",
   "contribution-graph",
   "obsidian-tracker",
   "code-styler",
   "obsidian-style-settings",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-tasks-plugin"
 ]
