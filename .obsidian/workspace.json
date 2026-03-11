@@ -20,34 +20,6 @@
               "icon": "lucide-file",
               "title": "Problems From 31 to 40"
             }
-          },
-          {
-            "id": "6d6c62be84c8dada",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "7669aa152ea972e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 2"
-            }
           }
         ]
       }
@@ -248,12 +220,13 @@
   },
   "active": "2f9a7e7f2e8fa672",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 31 to 40.md",
+    "Untitled 2.md",
     "99 - Meta/99 - Attachment/Pasted image 20260311160422.png",
     "99 - Meta/99 - Attachment/Pasted image 20260311160419.png",
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 20 to 55.md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 11 to 19.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
     "06 - Daily/Daily/2026-03-11.md",
     "06 - Daily/Daily/2026-03-10.md",
     "Untitled.md",
@@ -267,7 +240,6 @@
     "Tasks Plugin - Review and check your Statuses 2026-03-10 14-18-36.md",
     "Yehia Tech.md",
     "06 - Daily/Daily/٢٠٢٦-٠٣-١٠.md",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 31 to 40.md",
     "06 - Daily/Daily/2026-03-09.md",
     "04 - Resources/CS/CS-Study/Zero Web School/Learn python with (Alzero Web School)/1- Commend Line/04 - Directories And Files Part 2.md",
     "04 - Resources/CS/CS-Study/Zero Web School/Learn python with (Alzero Web School)/1- Commend Line/06 - Grep With Examples.md",
@@ -282,7 +254,6 @@
     "99 - Meta/99 - Attachment/Pasted image 20260307162337.png",
     "99 - Meta/99 - Attachment/Pasted image 20260307162328.png",
     "99 - Meta/99 - Attachment/Pasted image 20260307155742.png",
-    "99 - Meta/99 - Attachment/Pasted image 20260307151330.png",
     "04 - Resources/CS/CS-Study/Yehya Tech",
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 1 to 10.md",
     "Author",
