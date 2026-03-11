@@ -11,7 +11,7 @@ Author: "[[abu-hedhoud]]"
 # <font color="#646a73">Problems From 31 to 40</font>
 ---
 ### <font color="#ffff00">(31#):</font>
-
+![[Pasted image 20260311160422.png]]
 ### <font color="#ffff00">Input:</font>
 ```
 
