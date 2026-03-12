@@ -221,6 +221,8 @@ Compare Result = -1
 ---
 ### <font color="#ffff00">(#58):</font>
 ![[Pasted image 20260312052410.png]]
+![[Pasted image 20260312054331.png]]
+![[Pasted image 20260312054710.png]]
 ### <font color="#ffff00">Input:</font>
 ```cpp
 
