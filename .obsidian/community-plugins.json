@@ -26,8 +26,8 @@
   "obsidian-tracker",
   "code-styler",
   "obsidian-style-settings",
-  "obsidian-git",
   "obsidian-tasks-plugin",
   "ninja-cursor",
-  "heatmap-tracker"
+  "heatmap-tracker",
+  "obsidian-git"
 ]
