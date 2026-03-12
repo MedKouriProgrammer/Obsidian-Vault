@@ -372,16 +372,190 @@ Yes, Periods Overlap
 ### <font color="#ffff00">(#59):</font>
 ![[Pasted image 20260312145228.png]]
 ### <font color="#ffff00">Input:</font>
-```
+```cpp
+#include <iostream>
+using namespace std;
 
+enum enCompareDates {Before = -1, Equal = 0, After = 1};
+struct sDate {
+
+    short Day;
+    short Month;
+    int Year;
+};
+struct stPeriod {   
+
+    sDate StartDate;
+    sDate EndDate;
+};
+
+bool IsDate1_LessThanDate2(sDate Date1, sDate Date2) {
+
+    return (Date1.Year < Date2.Year) ? true : ((Date1.Year ==
+    Date2.Year) ? (Date1.Month < Date2.Month ? true : (Date1.Month ==
+    Date2.Month ? Date1.Day < Date2.Day : false)) : false);
+
+}
+bool IsDate1_EqualeDate2(sDate Date1, sDate Date2) {
+    
+    return (Date1.Year == Date2.Year) ? ((Date1.Month == Date2.Month) ? ((Date1.Day == Date2.Day) ? true : false) : false) : false;
+}
+bool IsDate1_AfterDate2(sDate Date1, sDate Date2) {
+    
+    return (!IsDate1_LessThanDate2(Date1, Date2) && !IsDate1_EqualeDate2(Date1, Date2));
+
+}
+bool IsLeapYear(int Year) {
+    
+    return (Year % 400 == 0) || (Year % 4 == 0 && Year % 100 != 0);
+}
+int NumberOfDaysInMonth(int Year, short Month) {
+
+
+    if(Month < 1 || Month > 12)
+    {
+        return 0;
+    } 
+
+    int Arr31Month[12] = {31,28,31,30,31,30,31,31,30,31,30,31};
+    
+    return (Month == 2)? (IsLeapYear(Year)? 29: 28) :Arr31Month[Month - 1];
+    
+}
+
+bool IsLastDayInMonth(sDate Date1) {
+
+    return (Date1.Day == NumberOfDaysInMonth(Date1.Year, Date1.Month));
+}
+
+bool IsLastMonthInYear(sDate Date) {
+
+    return (Date.Month == 12);
+}
+
+sDate IncreaseByOneDay(sDate Date) {
+    
+    if(IsLastDayInMonth(Date))
+    {
+    
+        if(IsLastMonthInYear(Date))
+        {
+            Date.Day = 1;
+            Date.Month = 1;
+            Date.Year++;
+        }
+        else
+        {
+            Date.Day = 1;
+            Date.Month++;
+        }
+
+    }
+    else
+    {
+        Date.Day++;
+    }
+    
+
+    return Date;
+}
+int GetDifferenceInDays(sDate Dat1, sDate Dat2, bool Included_Day = false) {
+
+    int Days = 0;
+    while(IsDate1_LessThanDate2(Dat1, Dat2))
+    {
+        Days++;
+        Dat1 = IncreaseByOneDay(Dat1);
+    }
+
+    return (Included_Day)? ++Days: Days;
+}
+
+short CalculatePeriodInDate(stPeriod Period1, bool IncludingEndDate = false) {
+
+    return GetDifferenceInDays(Period1.StartDate, Period1.EndDate, IncludingEndDate);
+}
+
+short ReadDay() {
+
+    short Day = 0;
+
+    cout << "\nEnter a Day: ";
+    cin >> Day;
+
+    return Day;
+}
+int ReadMonth() {
+
+    short Month = 0;
+
+    cout << "Enter a Month: ";
+    cin >> Month;
+
+    return Month;
+}
+int ReadYear() {
+
+    int Year;
+    cout << "Please enter a Year? ";
+    cin >> Year;
+
+    return Year;
+}
+
+sDate ReadFullDate() {
+
+    sDate Date;
+
+    Date.Day = ReadDay();
+    Date.Month = ReadMonth();
+    Date.Year = ReadYear();
+
+    return Date;
+};
+stPeriod ReadPeriod() {
+
+    stPeriod Period;
+    cout << "\nEnter Start Date:\n";
+    Period.StartDate = ReadFullDate();
+    cout << "\nEnter End Date:\n";
+    Period.EndDate = ReadFullDate();
+    return Period;
+}
+
+int main() {
+
+    cout << "\nEnter Period 1:";
+    stPeriod Period1 = ReadPeriod();
+        
+    cout << "\nPeriod Date is: " << CalculatePeriodInDate(Period1);
+    cout << "\nPeriod Date After Including End Date is: " << CalculatePeriodInDate(Period1, true);
+
+
+    return 0;
+}
 ```
 <font color="#646a73">Output:</font>
 ```
+Enter Period 1:
+Enter Start Date:
 
+Enter a Day: 1
+Enter a Month: 1
+Please enter a Year? 2022
+
+Enter End Date:
+
+Enter a Day: 5
+Enter a Month: 1
+Please enter a Year? 2022
+
+Period Date is: 4
+Period Date After Including End Date is: 5
 ```
 ---
 ### <font color="#ffff00">(#60):</font>
-
+![[Pasted image 20260312152137.png]]
 ### <font color="#ffff00">Input:</font>
 ```
 
