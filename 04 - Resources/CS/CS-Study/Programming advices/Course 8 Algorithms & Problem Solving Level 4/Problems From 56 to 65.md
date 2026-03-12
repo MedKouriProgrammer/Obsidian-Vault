@@ -370,7 +370,7 @@ Yes, Periods Overlap
 ```
 ---
 ### <font color="#ffff00">(#59):</font>
-
+![[Pasted image 20260312145228.png]]
 ### <font color="#ffff00">Input:</font>
 ```
 
