@@ -8,9 +8,9 @@ Author: "[[abu-hedhoud]]"
 > [!summary]-
 > 
 
-# <font color="#646a73">Problems From 31 to 40</font>
+# <font color="#646a73"> Problems From 56 to 65</font>
 ---
-### <font color="#ffff00">(31#):</font>
+### <font color="#ffff00">(56#):</font>
 ![[Pasted image 20260311160422.png]]
 ### <font color="#ffff00">Input:</font>
 ```
@@ -21,7 +21,7 @@ Author: "[[abu-hedhoud]]"
 
 ```
 ---
-### <font color="#ffff00">(#32):</font>
+### <font color="#ffff00">(#57):</font>
 
 ### <font color="#ffff00">Input:</font>
 ```
@@ -32,7 +32,7 @@ Author: "[[abu-hedhoud]]"
 
 ```
 ---
-### <font color="#ffff00">(#33):</font>
+### <font color="#ffff00">(#58):</font>
 
 ### <font color="#ffff00">Input:</font>
 ```
@@ -43,7 +43,7 @@ Author: "[[abu-hedhoud]]"
 
 ```
 ---
-### <font color="#ffff00">(#34):</font>
+### <font color="#ffff00">(#59):</font>
 
 ### <font color="#ffff00">Input:</font>
 ```
@@ -54,7 +54,7 @@ Author: "[[abu-hedhoud]]"
 
 ```
 ---
-### <font color="#ffff00">(#35):</font>
+### <font color="#ffff00">(#60):</font>
 
 ### <font color="#ffff00">Input:</font>
 ```
@@ -65,7 +65,7 @@ Author: "[[abu-hedhoud]]"
 
 ```
 ---
-### <font color="#ffff00">(#36):</font>
+### <font color="#ffff00">(#61):</font>
 
 ### <font color="#ffff00">Input:</font>
 ```
@@ -76,7 +76,7 @@ Author: "[[abu-hedhoud]]"
 
 ```
 ---
-### <font color="#ffff00">(#37):</font>
+### <font color="#ffff00">(#62):</font>
 
 ### <font color="#ffff00">Input:</font>
 ```
@@ -87,7 +87,7 @@ Author: "[[abu-hedhoud]]"
 
 ```
 ---
-### <font color="#ffff00">(#38):</font>
+### <font color="#ffff00">(#63 ⇾ #64):</font>
 
 ### <font color="#ffff00">Input:</font>
 ```
@@ -98,18 +98,7 @@ Author: "[[abu-hedhoud]]"
 
 ```
 ---
-### <font color="#ffff00">(#39):</font>
-
-### <font color="#ffff00">Input:</font>
-```
-
-```
-<font color="#646a73">Output:</font>
-```
-
-```
----
-### <font color="#ffff00">(#40):</font>
+### <font color="#ffff00">(#65):</font>
 
 ### <font color="#ffff00">Input:</font>
 ```
