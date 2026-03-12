@@ -711,7 +711,7 @@ Yes, Date is within period
 ### <font color="#ffff00">(#62):</font>
 
 ### <font color="#ffff00">Input:</font>
-```
+```cpp
 
 ```
 <font color="#646a73">Output:</font>
@@ -722,7 +722,7 @@ Yes, Date is within period
 ### <font color="#ffff00">(#63 ⇾ #64):</font>
 
 ### <font color="#ffff00">Input:</font>
-```
+```cpp
 
 ```
 <font color="#646a73">Output:</font>
@@ -733,7 +733,7 @@ Yes, Date is within period
 ### <font color="#ffff00">(#65):</font>
 
 ### <font color="#ffff00">Input:</font>
-```
+```cpp
 
 ```
 <font color="#646a73">Output:</font>
