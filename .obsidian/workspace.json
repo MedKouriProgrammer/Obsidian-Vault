@@ -49,8 +49,7 @@
               "title": "Hard Questions and Solutions of course 5"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/Notes ( Programming )/Hard Questions and Solutions of course 5.md",
+                "file": "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 56 to 65.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hard Questions and Solutions of course 5"
+              "title": "Outline of Problems From 56 to 65"
             }
           },
           {
@@ -247,10 +246,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46a0a05d04ddea71",
+  "active": "2f9a7e7f2e8fa672",
   "lastOpenFiles": [
-    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 56 to 65.md",
+    "99 - Meta/99 - Attachment/Pasted image 20260312052410.png",
     "04 - Resources/Notes ( Programming )/Hard Questions and Solutions of course 5.md",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 56 to 65.md",
     "04 - Resources/CS/CS-Study/Zero Web School/Learn python with (Alzero Web School)/2- Python/006 - Some Data Types Overview.md",
     "99 - Meta/99 - Attachment/Pasted image 20260312050548.png",
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 11 to 19.md",
@@ -277,7 +277,6 @@
     "06 - Daily/Daily/2026-03-09.md",
     "04 - Resources/CS/CS-Study/Zero Web School/Learn python with (Alzero Web School)/1- Commend Line/04 - Directories And Files Part 2.md",
     "04 - Resources/CS/CS-Study/Zero Web School/Learn python with (Alzero Web School)/1- Commend Line/06 - Grep With Examples.md",
-    "04 - Resources/CS/CS-Study/Zero Web School/Learn python with (Alzero Web School)/1- Commend Line/07 - Command Line Secrets Part 1.md",
     "99 - Meta/99 - Attachment/Pasted image 20260307172307.png",
     "99 - Meta/99 - Attachment/Pasted image 20260307172057.png",
     "99 - Meta/99 - Attachment/Pasted image 20260307164030.png",
