@@ -1349,5 +1349,17 @@ int main()
     return 0;
 }
 ```
+Output:
+```
+Vacation Starts: 
+Enter a Day: 1
+Enter a Month: 1
+Please enter a Year? 2022
+
+Enter Vacation Date: 23
+
+
+Return Date: Wed, 2/2/2022
+```
 ---
 
