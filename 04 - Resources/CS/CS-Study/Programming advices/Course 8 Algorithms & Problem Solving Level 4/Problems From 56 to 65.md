@@ -698,9 +698,9 @@ Yes, Date is within period
 ```
 ---
 ### <font color="#ffff00">(#61):</font>
-
+![[Pasted image 20260312160057.png]]
 ### <font color="#ffff00">Input:</font>
-```
+```cpp
 
 ```
 <font color="#646a73">Output:</font>
