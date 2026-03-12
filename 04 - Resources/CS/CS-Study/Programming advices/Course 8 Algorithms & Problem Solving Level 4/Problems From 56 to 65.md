@@ -225,11 +225,148 @@ Compare Result = -1
 ![[Pasted image 20260312054710.png]]
 ### <font color="#ffff00">Input:</font>
 ```cpp
+#include <iostream>
+using namespace std;
 
+enum enCompareDates {Before = -1, Equal = 0, After = 1};
+struct sDate {
+
+    short Day;
+    short Month;
+    int Year;
+};
+struct stPeriod {   
+
+    sDate StartDate;
+    sDate EndDate;
+};
+
+bool IsDate1_LessThanDate2(sDate Date1, sDate Date2) {
+
+    return (Date1.Year < Date2.Year) ? true : ((Date1.Year ==
+    Date2.Year) ? (Date1.Month < Date2.Month ? true : (Date1.Month ==
+    Date2.Month ? Date1.Day < Date2.Day : false)) : false);
+
+}
+bool IsDate1_EqualeDate2(sDate Date1, sDate Date2) {
+    
+    return (Date1.Year == Date2.Year) ? ((Date1.Month == Date2.Month) ? ((Date1.Day == Date2.Day) ? true : false) : false) : false;
+}
+bool IsDate1_AfterDate2(sDate Date1, sDate Date2) {
+    
+    return (!IsDate1_LessThanDate2(Date1, Date2) && !IsDate1_EqualeDate2(Date1, Date2));
+
+}
+
+enCompareDates CompareDates(sDate Date1, sDate Date2) {
+
+    if(IsDate1_LessThanDate2(Date1, Date2))
+        return enCompareDates::Before;
+
+    if(IsDate1_EqualeDate2(Date1, Date2))
+        return enCompareDates::Equal;
+
+    return enCompareDates::After;
+}
+
+bool IsOverLapPeriod(stPeriod Period1, stPeriod Period2) {
+
+    if(CompareDates(Period2.EndDate, Period1.StartDate) == enCompareDates::Before || CompareDates(Period2.StartDate, Period1.EndDate) == enCompareDates::After)
+        return false;
+    
+    return true;
+}
+
+short ReadDay() {
+
+    short Day = 0;
+
+    cout << "\nEnter a Day: ";
+    cin >> Day;
+
+    return Day;
+}
+int ReadMonth() {
+
+    short Month = 0;
+
+    cout << "Enter a Month: ";
+    cin >> Month;
+
+    return Month;
+}
+int ReadYear() {
+
+    int Year;
+    cout << "Please enter a Year? ";
+    cin >> Year;
+
+    return Year;
+}
+
+sDate ReadFullDate() {
+
+    sDate Date;
+
+    Date.Day = ReadDay();
+    Date.Month = ReadMonth();
+    Date.Year = ReadYear();
+
+    return Date;
+};
+stPeriod ReadPeriod() {
+
+    stPeriod Period;
+    cout << "\nEnter Start Date:\n";
+    Period.StartDate = ReadFullDate();
+    cout << "\nEnter End Date:\n";
+    Period.EndDate = ReadFullDate();
+    return Period;
+}
+
+int main() {
+
+    cout << "\nEnter Period 1:";
+    stPeriod Period1 = ReadPeriod();
+    cout << "\nEnter Period 2:";
+    stPeriod Period2 = ReadPeriod();
+    
+    if (IsOverLapPeriod(Period1, Period2))
+        cout << "\nYes, Periods Overlap\n";
+    else
+        cout << "\nNo, Periods do not Overlap\n";
+    return 0;
+}
 ```
 <font color="#646a73">Output:</font>
 ```
+Enter Period 1:
+Enter Start Date:
 
+Enter a Day: 1
+Enter a Month: 2
+Please enter a Year? 2022
+
+Enter End Date:
+
+Enter a Day: 10
+Enter a Month: 2
+Please enter a Year? 2022
+
+Enter Period 2:
+Enter Start Date:
+
+Enter a Day: 5
+Enter a Month: 2
+Please enter a Year? 2022
+
+Enter End Date:
+
+Enter a Day: 15
+Enter a Month: 2
+Please enter a Year? 2022
+
+Yes, Periods Overlap
 ```
 ---
 ### <font color="#ffff00">(#59):</font>
