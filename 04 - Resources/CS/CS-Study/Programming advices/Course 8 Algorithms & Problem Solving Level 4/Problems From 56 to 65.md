@@ -110,7 +110,7 @@ Yes, Date1 is after Date2.
 ```
 ---
 ### <font color="#ffff00">(#57):</font>
-
+![[Pasted image 20260312050548.png]]
 ### <font color="#ffff00">Input:</font>
 ```
 
