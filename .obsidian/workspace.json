@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/Daily/2026-03-12.md",
+                "file": "06 - Daily/Daily/2026-03-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-12"
+              "title": "2026-03-13"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 11 to 19.md",
+                "file": "06 - Daily/Daily/2026-03-13.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Problems From 11 to 19"
+              "title": "2026-03-13"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "Hard Questions and Solutions of course 5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Daily/Daily/2026-03-12.md",
+                "file": "06 - Daily/Daily/2026-03-13.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-12"
+              "title": "Outline of 2026-03-13"
             }
           },
           {
@@ -246,16 +247,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f9a7e7f2e8fa672",
+  "active": "0d2a5f14bbf14298",
   "lastOpenFiles": [
+    "04 - Resources/CS/CS-Study/Zero Web School/Learn python with (Alzero Web School)/1- Commend Line/06 - Grep With Examples.md",
+    "04 - Resources/CS/CS-Study/Zero Web School/Learn python with (Alzero Web School)/1- Commend Line/05 - Cat And Echo.md",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 11 to 19.md",
+    "06 - Daily/Daily/2026-03-13.md",
+    "06 - Daily/Daily/2026-03-12.md",
     "99 - Meta/99 - Attachment/Pasted image 20260312160057.png",
     "99 - Meta/99 - Attachment/Pasted image 20260312152137.png",
     "99 - Meta/99 - Attachment/Pasted image 20260312152131.png",
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 20 to 55.md",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 11 to 19.md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 56 to 65.md",
     "99 - Meta/99 - Attachment/Pasted image 20260312145228.png",
-    "06 - Daily/Daily/2026-03-12.md",
     "99 - Meta/99 - Attachment/Pasted image 20260312054710.png",
     "99 - Meta/99 - Attachment/Pasted image 20260312054331.png",
     "99 - Meta/99 - Attachment/Pasted image 20260312052410.png",
@@ -281,9 +285,6 @@
     "Yehia Tech.md",
     "06 - Daily/Daily/٢٠٢٦-٠٣-١٠.md",
     "06 - Daily/Daily/2026-03-09.md",
-    "04 - Resources/CS/CS-Study/Zero Web School/Learn python with (Alzero Web School)/1- Commend Line/04 - Directories And Files Part 2.md",
-    "04 - Resources/CS/CS-Study/Zero Web School/Learn python with (Alzero Web School)/1- Commend Line/06 - Grep With Examples.md",
-    "99 - Meta/99 - Attachment/Pasted image 20260307172307.png",
     "04 - Resources/CS/CS-Study/Yehya Tech",
     "Author",
     "My code file.ts",
