@@ -955,7 +955,7 @@ OverLap Days Count Is: 5
 ```
 ---
 ### <font color="#ffff00">(#62):</font>
-
+![[Pasted image 20260314141342.png]]
 ### <font color="#ffff00">Input:</font>
 ```cpp
 
