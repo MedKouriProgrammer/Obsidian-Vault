@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/Daily/2026-03-13.md",
+                "file": "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 56 to 65.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-13"
+              "title": "Problems From 56 to 65"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Hard Questions and Solutions of course 5"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 11 to 19.md",
+                "file": "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 56 to 65.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Problems From 11 to 19"
+              "title": "Outline of Problems From 56 to 65"
             }
           },
           {
@@ -247,16 +246,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d2a5f14bbf14298",
+  "active": "2f9a7e7f2e8fa672",
   "lastOpenFiles": [
+    "06 - Daily/Daily/2026-03-13.md",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 11 to 19.md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 20 to 55.md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 56 to 65.md",
     "99 - Meta/99 - Attachment/Pasted image 20260314141342.png",
     "06 - Daily/Daily/2026-03-14.md",
-    "06 - Daily/Daily/2026-03-13.md",
     "04 - Resources/CS/CS-Study/Zero Web School/Learn python with (Alzero Web School)/1- Commend Line/06 - Grep With Examples.md",
     "04 - Resources/CS/CS-Study/Zero Web School/Learn python with (Alzero Web School)/1- Commend Line/05 - Cat And Echo.md",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 11 to 19.md",
     "06 - Daily/Daily/2026-03-12.md",
     "99 - Meta/99 - Attachment/Pasted image 20260312160057.png",
     "99 - Meta/99 - Attachment/Pasted image 20260312152137.png",

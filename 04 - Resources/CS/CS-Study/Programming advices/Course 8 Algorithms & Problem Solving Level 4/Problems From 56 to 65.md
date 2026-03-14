@@ -958,11 +958,135 @@ OverLap Days Count Is: 5
 ![[Pasted image 20260314141342.png]]
 ### <font color="#ffff00">Input:</font>
 ```cpp
+#include <iostream>
+using namespace std;
 
+
+struct sDate {
+
+    short Day;
+    short Month;
+    int Year;
+};
+
+bool IsLeapYear(int Year) {
+    
+    return (Year % 400 == 0) || (Year % 4 == 0 && Year % 100 != 0);
+}
+bool IsDate1_LessThanDate2(sDate Date1, sDate Date2) {
+
+    return (Date1.Year < Date2.Year) ? true : ((Date1.Year ==
+    Date2.Year) ? (Date1.Month < Date2.Month ? true : (Date1.Month ==
+    Date2.Month ? Date1.Day < Date2.Day : false)) : false);
+
+}
+int NumberOfDaysInMonth(int Year, short Month) {
+
+
+    if(Month < 1 || Month > 12)
+    {
+        return 0;
+    } 
+
+    int Arr31Month[12] = {31,28,31,30,31,30,31,31,30,31,30,31};
+    
+    return (Month == 2)? (IsLeapYear(Year)? 29: 28) :Arr31Month[Month - 1];
+    
+}
+
+bool IsLastDayInMonth(sDate Date1) {
+
+    return (Date1.Day == NumberOfDaysInMonth(Date1.Year, Date1.Month));
+}
+
+bool IsLastMonthInYear(sDate Date) {
+
+    return (Date.Month == 12);
+}
+
+bool IsValideDate(sDate Date1) {
+    
+    if(Date1.Day < 1 || Date1.Day > 31)
+        return false;
+
+    if(Date1.Month < 1 || Date1.Month > 12)
+        return false;
+
+    if(Date1.Month == 2)
+    {
+        if(Date1.Day != 29)
+            return false;
+    }
+    else
+    {
+        if(Date1.Day > 28)
+            return false;
+    }
+
+    if(Date1.Day > IsLastDayInMonth(Date1))
+        return false;
+
+        
+    return true;
+}
+
+short ReadDay() {
+
+    short Day = 0;
+
+    cout << "\nEnter a Day: ";
+    cin >> Day;
+
+    return Day;
+}
+int ReadMonth() {
+
+    short Month = 0;
+
+    cout << "Enter a Month: ";
+    cin >> Month;
+
+    return Month;
+}
+int ReadYear() {
+
+    int Year;
+    cout << "Please enter a Year? ";
+    cin >> Year;
+
+    return Year;
+}
+
+sDate ReadFullDate() {
+
+    sDate Date;
+
+    Date.Day = ReadDay();
+    Date.Month = ReadMonth();
+    Date.Year = ReadYear();
+
+    return Date;
+};
+
+int main() {
+
+    sDate Date1 = ReadFullDate();
+
+    if(IsValideDate(Date1))
+        cout << "\nYes. It's A Valide Number.";
+    else
+        cout << "\nNo. It's Not A Valide Number.";
+    
+    return 0;
+}
 ```
 <font color="#646a73">Output:</font>
 ```
+Enter a Day: 35
+Enter a Month: 1
+Please enter a Year? 2022
 
+No. It's Not A Valide Number.
 ```
 ---
 ### <font color="#ffff00">(#63 ⇾ #64):</font>
