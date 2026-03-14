@@ -1093,11 +1093,98 @@ No. It's Not A Valide Number.
 ![[Pasted image 20260314152406.png]]
 ### <font color="#ffff00">Input:</font>
 ```cpp
+#include <iostream>
+#include <string>
+#include <vector>
 
+using namespace std;
+
+struct sDate {
+
+    int Day;
+    int Month;
+    int Year;
+};
+vector<string> SplitStrings(string Name, string Delim) {
+
+    short Pos = 0;
+    string Word;
+
+    vector<string> ModName;
+    
+
+    while ((Pos = Name.find(Delim)) != std::string::npos)
+    {
+        Word = Name.substr(0, Pos);
+
+        if(Word != "")
+        {
+            ModName.push_back(Word);
+        }
+
+        Name.erase(0, Pos + Delim.length()); 
+    }
+
+    if (Name != "")
+    {
+        ModName.push_back(Name);
+    }
+    
+    return ModName;
+}
+
+string CounvertDateToString(sDate Date) {
+ 
+    return to_string(Date.Day) + "/" + to_string(Date.Month) + "/" + to_string(Date.Year);
+}
+
+sDate CounvertStringToDate(string StrDate) {
+
+    sDate Date1;
+    vector<string> vDate;
+    
+    vDate = SplitStrings(StrDate, "/"); 
+
+    Date1.Day = stoi(vDate[0]);
+    Date1.Month = stoi(vDate[1]);
+    Date1.Year = stoi(vDate[2]);
+ 
+    return Date1;
+}
+
+string ReadDateString(string Message) {
+
+    string StrDate;
+
+    cout << Message;
+    cin >> StrDate;
+
+    return StrDate;
+}
+
+int main() {
+
+    string StrDate = ReadDateString("Enter Date dd/mm/yyyy? ");
+    sDate Date1 = CounvertStringToDate(StrDate);
+    
+    cout << "\nDate: " << Date1.Day;
+    cout << "\nMonth: " << Date1.Month;
+    cout << "\nYear: " << Date1.Year;
+
+    cout << "\n\nYou Entered: " << CounvertDateToString(Date1);
+
+    return 0;
+}
 ```
 <font color="#646a73">Output:</font>
 ```
+Enter Date dd/mm/yyyy? 31/3/2022
 
+Date: 31
+Month: 3
+Year: 2022
+
+You Entered: 31/3/2022
 ```
 ---
 ### <font color="#ffff00">(#65):</font>

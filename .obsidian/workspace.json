@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 11 to 19.md",
+                "file": "04 - Resources/CS/CS-Study/Programming advices/Course 7 Algorithms & Problem Solving Level 3/Project 1 - Bank1 (Requirements).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Problems From 11 to 19"
+              "title": "Project 1 - Bank1 (Requirements)"
             }
           },
           {
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "enum",
+                "query": "SplitString",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -246,14 +246,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f9a7e7f2e8fa672",
+  "active": "2ac8680c995a6864",
   "lastOpenFiles": [
+    "04 - Resources/CS/CS-Study/Programming advices/Course 7 Algorithms & Problem Solving Level 3/Project 1 - Bank1 (Requirements).md",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 7 Algorithms & Problem Solving Level 3/Problems From 31 to 40.md",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 56 to 65.md",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 11 to 19.md",
     "99 - Meta/99 - Attachment/Pasted image 20260314152406.png",
     "99 - Meta/99 - Attachment/Pasted image 20260314152325.png",
     "06 - Daily/Daily/2026-03-13.md",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 11 to 19.md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 20 to 55.md",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 56 to 65.md",
     "99 - Meta/99 - Attachment/Pasted image 20260314141342.png",
     "06 - Daily/Daily/2026-03-14.md",
     "04 - Resources/CS/CS-Study/Zero Web School/Learn python with (Alzero Web School)/1- Commend Line/06 - Grep With Examples.md",
@@ -268,7 +270,6 @@
     "99 - Meta/99 - Attachment/Pasted image 20260312052410.png",
     "04 - Resources/Notes ( Programming )/Hard Questions and Solutions of course 5.md",
     "04 - Resources/CS/CS-Study/Zero Web School/Learn python with (Alzero Web School)/2- Python/006 - Some Data Types Overview.md",
-    "99 - Meta/99 - Attachment/Pasted image 20260312050548.png",
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Projects 1 Bank Extension 2 (Requirements).md",
     "Untitled 1.md",
     "Untitled 2.md",
@@ -283,7 +284,6 @@
     "02 - Areas/Habits/Weight Tracker.md",
     "07 - Archives/Tracker/Untitled.md",
     "Tasks Plugin - Review and check your Statuses 2026-03-10 14-18-36.md",
-    "Yehia Tech.md",
     "04 - Resources/CS/CS-Study/Yehya Tech",
     "Author",
     "My code file.ts",
