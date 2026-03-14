@@ -1188,7 +1188,7 @@ You Entered: 31/3/2022
 ```
 ---
 ### <font color="#ffff00">(#65):</font>
-
+![[Pasted image 20260314174651.png]]
 ### <font color="#ffff00">Input:</font>
 ```cpp
 
