@@ -1090,7 +1090,7 @@ No. It's Not A Valide Number.
 ```
 ---
 ### <font color="#ffff00">(#63 ⇾ #64):</font>
-
+![[Pasted image 20260314152406.png]]
 ### <font color="#ffff00">Input:</font>
 ```cpp
 
