@@ -1191,10 +1191,129 @@ You Entered: 31/3/2022
 ![[Pasted image 20260314174651.png]]
 ### <font color="#ffff00">Input:</font>
 ```cpp
+#include <iostream>
+#include <string>
+#include <vector>
 
+using namespace std;
+
+struct sDate {
+
+    int Day;
+    int Month;
+    int Year;
+};
+string ReplaceWordInString(string S1, string StringToReplace, string sRepalceTo) {
+
+    short pos = S1.find(StringToReplace);
+    
+    while (pos != std::string::npos)
+    {
+        S1 = S1.replace(pos, StringToReplace.length(), sRepalceTo);
+
+        pos = S1.find(StringToReplace);//find next
+    }
+    
+    return S1;
+}
+vector<string> SplitStrings(string Name, string Delim) {
+
+    short Pos = 0;
+    string Word;
+
+    vector<string> ModName;
+    
+
+    while ((Pos = Name.find(Delim)) != std::string::npos)
+    {
+        Word = Name.substr(0, Pos);
+
+        if(Word != "")
+        {
+            ModName.push_back(Word);
+        }
+
+        Name.erase(0, Pos + Delim.length()); 
+    }
+
+    if (Name != "")
+    {
+        ModName.push_back(Name);
+    }
+    
+    return ModName;
+}
+
+string CounvertDateToString(sDate Date) {
+ 
+    return to_string(Date.Day) + "/" + to_string(Date.Month) + "/" + to_string(Date.Year);
+}
+
+sDate CounvertStringToDate(string StrDate) {
+
+    sDate Date1;
+    vector<string> vDate;
+    
+    vDate = SplitStrings(StrDate, "/"); 
+
+    Date1.Day = stoi(vDate[0]);
+    Date1.Month = stoi(vDate[1]);
+    Date1.Year = stoi(vDate[2]);
+ 
+    return Date1;
+}
+
+string ReadDateString(string Message) {
+
+    string StrDate;
+
+    cout << Message;
+    cin >> StrDate;
+
+    return StrDate;
+}
+
+string FormatDates(sDate Date, string DateFormat = "dd/mm/yyyy") {
+    
+    string FormattedDateString = "";
+                                    
+    FormattedDateString = ReplaceWordInString(DateFormat, "dd", to_string(Date.Day));
+    FormattedDateString = ReplaceWordInString(FormattedDateString, "mm", to_string(Date.Month));
+    FormattedDateString = ReplaceWordInString(FormattedDateString, "yyyy", to_string(Date.Year));
+
+    return FormattedDateString;
+}
+
+int main() {
+
+    string StrDate = ReadDateString("Enter Date dd/mm/yyyy? ");
+    sDate Date = CounvertStringToDate(StrDate);
+
+    cout << "\n" << FormatDates(Date) << endl;
+    cout << "\n" << FormatDates(Date, "dd/mm/yyyy") << endl;;
+    cout << "\n" << FormatDates(Date, "mm/dd/yyyy") << endl;;
+    cout << "\n" << FormatDates(Date, "mm-dd-yyyy") << endl;;
+    cout << "\n" << FormatDates(Date, "dd-mm-yyyy") << endl;;
+    cout << "\n" << FormatDates(Date, "Day:dd, Month:mm, Year:yyyy") << endl;
+
+
+    return 0;
+}
 ```
 <font color="#646a73">Output:</font>
 ```
+Enter Date dd/mm/yyyy? 31/12/2022
 
+31/12/2022
+
+31/12/2022
+
+12/31/2022
+
+12-31-2022
+
+31-12-2022
+
+Day:31, Month:12, Year:2022
 ```
 ---
