@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 56 to 65.md",
+                "file": "06 - Daily/Daily/2026-03-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Problems From 56 to 65"
+              "title": "2026-03-16"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 56 to 65.md",
+                "file": "06 - Daily/Daily/2026-03-16.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Problems From 56 to 65"
+              "title": "Outline of 2026-03-16"
             }
           },
           {
@@ -246,11 +246,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ac8680c995a6864",
+  "active": "2f9a7e7f2e8fa672",
   "lastOpenFiles": [
+    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 56 to 65.md",
+    "06 - Daily/Daily/2026-03-16.md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 7 Algorithms & Problem Solving Level 3/Problems From 41 to 50.md",
     "04 - Resources/Notes ( Programming )/Hard Questions and Solutions of course 5.md",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 56 to 65.md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 7 Algorithms & Problem Solving Level 3/Problems From 21 to 30.md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 7 Algorithms & Problem Solving Level 3/Problems From 31 to 40.md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 7 Algorithms & Problem Solving Level 3/Project 1 - Bank1 (Requirements).md",
@@ -283,7 +284,6 @@
     "02 - Areas/40-GYM/Gym-Programs/Upper-Lower Programs/1. (UpperLower) Body.md",
     "02 - Areas/40-GYM/Gym-Programs/Upper-Lower Programs/2. UpperBody.md",
     "02 - Areas/Habits/Mood Tracker.md",
-    "02 - Areas/Habits/Meditation Tracker.md",
     "04 - Resources/CS/CS-Study/Yehya Tech",
     "Author",
     "My code file.ts",
