@@ -1,0 +1,43 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "height": 675,
+      "id": "41e97bf1e3bf0827",
+      "isStartNode": true,
+      "label": "Start Slide",
+      "sideRatio": 1.7777777777777777,
+      "type": "group",
+      "width": 1200,
+      "x": -440,
+      "y": 720
+    },
+    {
+      "height": 520,
+      "id": "72da2b6c73eac3ba",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "![[Pasted image 20260316135200.png]]",
+      "type": "text",
+      "width": 520,
+      "x": -360,
+      "y": 800
+    },
+    {
+      "height": 210,
+      "id": "ddcff7ee7ec83850",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "![[Pasted image 20260316135215.png|511]]",
+      "type": "text",
+      "width": 560,
+      "x": 160,
+      "y": 955
+    }
+  ]
+}

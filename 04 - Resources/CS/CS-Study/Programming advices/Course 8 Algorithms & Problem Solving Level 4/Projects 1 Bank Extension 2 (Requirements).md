@@ -20,6 +20,10 @@ Author: "[[abu-hedhoud]]"
 ![[Pasted image 20260316141519.png]]
 ![[Pasted image 20260316141253.png]]
 ![[Pasted image 20260316141615.png]]
+![[Pasted image 20260316144713.png]]
+![[Pasted image 20260316145019.png]]
+![[Pasted image 20260316145357.png]]
+![[Pasted image 20260316145513.png]]
 
 ### <font color="#ffff00">Input:</font>
 ```
