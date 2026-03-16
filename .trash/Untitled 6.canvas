@@ -3,6 +3,16 @@
   ],
   "nodes": [
     {
+      "height": 743,
+      "id": "5bd778faf901eb96",
+      "label": "New Slide",
+      "sideRatio": 1.7777777777777777,
+      "type": "group",
+      "width": 1321,
+      "x": -500,
+      "y": 1640
+    },
+    {
       "height": 675,
       "id": "41e97bf1e3bf0827",
       "isStartNode": true,
@@ -14,7 +24,7 @@
       "y": 720
     },
     {
-      "height": 520,
+      "height": 675,
       "id": "72da2b6c73eac3ba",
       "styleAttributes": {
         "shape": null,
@@ -22,9 +32,9 @@
       },
       "text": "![[Pasted image 20260316135200.png]]",
       "type": "text",
-      "width": 520,
-      "x": -360,
-      "y": 800
+      "width": 600,
+      "x": -440,
+      "y": 720
     },
     {
       "height": 210,
@@ -33,11 +43,24 @@
         "shape": null,
         "textAlign": "center"
       },
-      "text": "![[Pasted image 20260316135215.png|511]]",
+      "text": "![[Pasted image 20260316151214.png]]",
       "type": "text",
       "width": 560,
       "x": 160,
       "y": 955
+    },
+    {
+      "height": 560,
+      "id": "50dce54f1e03c445",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "![[Pasted image 20260316135610.png|1272]]",
+      "type": "text",
+      "width": 1321,
+      "x": -500,
+      "y": 1720
     }
   ]
 }
