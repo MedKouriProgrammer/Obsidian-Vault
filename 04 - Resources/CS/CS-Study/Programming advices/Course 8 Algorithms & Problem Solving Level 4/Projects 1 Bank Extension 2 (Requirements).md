@@ -11,6 +11,12 @@ Author: "[[abu-hedhoud]]"
 # <font color="#646a73">Problems From 41 to 50</font>
 ---
 ### <font color="#ffff00">(41#):</font>
+![[Pasted image 20260316135200.png]]
+![[Pasted image 20260316135215.png]]
+
+---
+![[Pasted image 20260316135610.png]]
+
 
 ### <font color="#ffff00">Input:</font>
 ```
