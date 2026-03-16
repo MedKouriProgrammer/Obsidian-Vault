@@ -17,7 +17,9 @@ Author: "[[abu-hedhoud]]"
 ---
 ![[Pasted image 20260316135610.png]]
 ![[Pasted image 20260316140456.png]]
-
+![[Pasted image 20260316141519.png]]
+![[Pasted image 20260316141253.png]]
+![[Pasted image 20260316141615.png]]
 
 ### <font color="#ffff00">Input:</font>
 ```
