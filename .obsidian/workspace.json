@@ -25,13 +25,18 @@
             "id": "86dbb3f2b9b8471a",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Projects 1 Bank Extension 2 (Requirements).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Projects 1 Bank Extension 2 (Requirements)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,10 +233,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d2a5f14bbf14298",
+  "active": "86dbb3f2b9b8471a",
   "lastOpenFiles": [
-    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 56 to 65.md",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 7 Algorithms & Problem Solving Level 3/Project 1 - Bank1 (Requirements).md",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 6 Introduction to Programming Using C++ Level 2/2- Miscellaneous/Lesson 11 - Validate Number.md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Projects 1 Bank Extension 2 (Requirements).md",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 6 Introduction to Programming Using C++ Level 2/2- Miscellaneous/Lesson 09 - Ternary Operator (Short Hand IF).md",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 6 Introduction to Programming Using C++ Level 2/2- Miscellaneous/Lesson 10 - Ranged Loop.md",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 6 Introduction to Programming Using C++ Level 2/2- Miscellaneous/Lesson 08 - Library (Create Your Own Library).md",
+    "06 - Daily/Daily/2026-03-17.md",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 56 to 65.md",
     "99 - Meta/99 - Attachment/Pasted image 20260316155128.png",
     "99 - Meta/99 - Attachment/Pasted image 20260316155038.png",
     "99 - Meta/99 - Attachment/Pasted image 20260316155004.png",
@@ -252,7 +263,6 @@
     "04 - Resources/Notes ( Programming )/Hard Questions and Solutions of course 5.md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 7 Algorithms & Problem Solving Level 3/Problems From 21 to 30.md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 7 Algorithms & Problem Solving Level 3/Problems From 31 to 40.md",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 7 Algorithms & Problem Solving Level 3/Project 1 - Bank1 (Requirements).md",
     "06 - Daily/Daily/2026-03-15.md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 11 to 19.md",
     "06 - Daily/Daily/2026-03-13.md",
@@ -262,10 +272,6 @@
     "06 - Daily/Daily/2026-03-12.md",
     "04 - Resources/CS/CS-Study/Zero Web School/Learn python with (Alzero Web School)/2- Python/006 - Some Data Types Overview.md",
     "Untitled 2.md",
-    "06 - Daily/Daily/2026-03-11.md",
-    "06 - Daily/Daily/2026-03-10.md",
-    "02 - Areas/40-GYM/Gym-Programs/Push-Pull-Legs  Programs/1. (Push-Pull-Legs) Body.md",
-    "02 - Areas/40-GYM/Gym-Programs/Upper-Lower Programs/1. (UpperLower) Body.md",
     "04 - Resources/CS/CS-Study/Yehya Tech",
     "Author",
     "My code file.ts",
