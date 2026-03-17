@@ -29,9 +29,9 @@
               "state": {
                 "file": "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Untitled.canvas",
                 "viewState": {
-                  "x": 2326.2967694361837,
-                  "y": 202.27625870907886,
-                  "zoom": -1
+                  "x": 881.9467082211917,
+                  "y": 182.4502600096068,
+                  "zoom": -1.5
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5,
-    "collapsed": true
+    "width": 331.5
   },
   "right": {
     "id": "71c8d860eb3e992c",
