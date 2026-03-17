@@ -117,18 +117,18 @@
       "toSide": "right"
     },
     {
-      "fromNode": "27e6f111cc2e62c7",
+      "fromNode": "edaa3801c5cb7705",
       "fromSide": "top",
-      "id": "829f6c180895d9b0",
+      "id": "2fb24f75d6f1afe6",
       "styleAttributes": {
       },
       "toNode": "27ec5f1126df308f",
       "toSide": "bottom"
     },
     {
-      "fromNode": "27ec5f1126df308f",
+      "fromNode": "27e6f111cc2e62c7",
       "fromSide": "top",
-      "id": "091f9dac2356a87c",
+      "id": "79d5449e03f70ff7",
       "styleAttributes": {
       },
       "toNode": "edaa3801c5cb7705",
@@ -305,7 +305,7 @@
       "type": "text",
       "width": 300,
       "x": -160,
-      "y": 0
+      "y": -530
     }
   ]
 }
