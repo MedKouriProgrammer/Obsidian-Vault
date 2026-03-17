@@ -23,15 +23,6 @@
       "toSide": "right"
     },
     {
-      "fromNode": "27e6f111cc2e62c7",
-      "fromSide": "top",
-      "id": "1c72dcd17f2c9e7d",
-      "styleAttributes": {
-      },
-      "toNode": "edaa3801c5cb7705",
-      "toSide": "bottom"
-    },
-    {
       "fromNode": "07657bdb7db30dd8",
       "fromSide": "bottom",
       "id": "a9b2c3924c298296",
@@ -124,6 +115,24 @@
       },
       "toNode": "c5ba939029eec559",
       "toSide": "right"
+    },
+    {
+      "fromNode": "27e6f111cc2e62c7",
+      "fromSide": "top",
+      "id": "829f6c180895d9b0",
+      "styleAttributes": {
+      },
+      "toNode": "27ec5f1126df308f",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "27ec5f1126df308f",
+      "fromSide": "top",
+      "id": "091f9dac2356a87c",
+      "styleAttributes": {
+      },
+      "toNode": "edaa3801c5cb7705",
+      "toSide": "bottom"
     }
   ],
   "nodes": [
@@ -134,7 +143,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "# FindUserByName",
+      "text": "#  Func = FindUserByName",
       "type": "text",
       "width": 300,
       "x": -160,
@@ -284,6 +293,19 @@
       "width": 400,
       "x": -210,
       "y": 280
+    },
+    {
+      "height": 100,
+      "id": "27ec5f1126df308f",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Func =  ConvertLineToRecord",
+      "type": "text",
+      "width": 300,
+      "x": -160,
+      "y": 0
     }
   ]
 }
