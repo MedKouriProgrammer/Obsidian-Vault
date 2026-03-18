@@ -78,16 +78,6 @@
       "toSide": "top"
     },
     {
-      "fromNode": "e25ce9fa7b4a2e31",
-      "fromSide": "bottom",
-      "id": "257eaa3f4cd04f00",
-      "label": "1",
-      "styleAttributes": {
-      },
-      "toNode": "aa131afffa2e8e86",
-      "toSide": "top"
-    },
-    {
       "fromNode": "aa131afffa2e8e86",
       "fromSide": "bottom",
       "id": "61ff36d8c4af33ff",
@@ -133,6 +123,44 @@
       },
       "toNode": "edaa3801c5cb7705",
       "toSide": "bottom"
+    },
+    {
+      "fromNode": "e25ce9fa7b4a2e31",
+      "fromSide": "bottom",
+      "id": "5aa888a63ccfeed4",
+      "label": "1",
+      "styleAttributes": {
+      },
+      "toNode": "2eeb520ec45e45a3",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "2eeb520ec45e45a3",
+      "fromSide": "bottom",
+      "id": "fbd32863e49dc3f5",
+      "styleAttributes": {
+      },
+      "toNode": "aa131afffa2e8e86",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e25ce9fa7b4a2e31",
+      "fromSide": "bottom",
+      "id": "29060dd0c9a0ff76",
+      "label": "2",
+      "styleAttributes": {
+      },
+      "toNode": "f71a8af508d3bf19",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f71a8af508d3bf19",
+      "fromSide": "bottom",
+      "id": "f7896ad2ce488c6d",
+      "styleAttributes": {
+      },
+      "toNode": "4d7fe5fe7df6d91f",
+      "toSide": "top"
     }
   ],
   "nodes": [
@@ -208,76 +236,11 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "# PerfromMainMenueOption: Add case of ManageUser\n",
+      "text": "# void Func =  PerfromMainMenueOption\n",
       "type": "text",
       "width": 380,
       "x": 1880,
       "y": -310
-    },
-    {
-      "height": 100,
-      "id": "458e0f8960a5cfa8",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "text": "# If Data Full",
-      "type": "text",
-      "width": 300,
-      "x": 1260,
-      "y": 800
-    },
-    {
-      "height": 160,
-      "id": "839d1e843390d8d5",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "text": "# Fanc = LoadDataUsersFromFile",
-      "type": "text",
-      "width": 360,
-      "x": 1230,
-      "y": 480
-    },
-    {
-      "height": 120,
-      "id": "aa131afffa2e8e86",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "text": "# Func = ListUser",
-      "type": "text",
-      "width": 380,
-      "x": 1410,
-      "y": 60
-    },
-    {
-      "height": 100,
-      "id": "3048242cbaf51144",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "text": "# Func = PrintClientRecordLine",
-      "type": "text",
-      "width": 320,
-      "x": 1520,
-      "y": 1020
-    },
-    {
-      "height": 100,
-      "id": "c5ba939029eec559",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "text": "# Print: Data Is Empty",
-      "type": "text",
-      "width": 300,
-      "x": 1000,
-      "y": 1020
     },
     {
       "color": "4",
@@ -306,6 +269,110 @@
       "width": 300,
       "x": -160,
       "y": -530
+    },
+    {
+      "height": 160,
+      "id": "839d1e843390d8d5",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Fanc = LoadDataUsersFromFile",
+      "type": "text",
+      "width": 360,
+      "x": 1040,
+      "y": 900
+    },
+    {
+      "height": 100,
+      "id": "458e0f8960a5cfa8",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# If Data Full",
+      "type": "text",
+      "width": 300,
+      "x": 1070,
+      "y": 1220
+    },
+    {
+      "height": 120,
+      "id": "aa131afffa2e8e86",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Func = ListUser",
+      "type": "text",
+      "width": 380,
+      "x": 1220,
+      "y": 480
+    },
+    {
+      "height": 100,
+      "id": "3048242cbaf51144",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Func = PrintClientRecordLine",
+      "type": "text",
+      "width": 320,
+      "x": 1330,
+      "y": 1440
+    },
+    {
+      "height": 100,
+      "id": "c5ba939029eec559",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Print: Data Is Empty",
+      "type": "text",
+      "width": 300,
+      "x": 810,
+      "y": 1440
+    },
+    {
+      "height": 140,
+      "id": "2eeb520ec45e45a3",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Add case of ListUser",
+      "type": "text",
+      "width": 340,
+      "x": 1410,
+      "y": 220
+    },
+    {
+      "height": 120,
+      "id": "f71a8af508d3bf19",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Add case of AddUser",
+      "type": "text",
+      "width": 400,
+      "x": 1870,
+      "y": 230
+    },
+    {
+      "height": 110,
+      "id": "4d7fe5fe7df6d91f",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# void Func = ShowAddNewUserScreen\n",
+      "type": "text",
+      "width": 340,
+      "x": 1900,
+      "y": 480
     }
   ]
 }
