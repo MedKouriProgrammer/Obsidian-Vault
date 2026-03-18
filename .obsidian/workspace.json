@@ -13,29 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/Daily/2026-03-18.md",
+                "file": "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Projects 1 Bank Extension 2 (Requirements).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-18"
+              "title": "Projects 1 Bank Extension 2 (Requirements)"
             }
           },
           {
             "id": "8ac55018ce28666e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Untitled.canvas",
-                "viewState": {
-                  "x": 1624.6970207211928,
-                  "y": -245.9891149903934,
-                  "zoom": -1
-                }
+                "file": "06 - Daily/Daily/2026-03-18.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "2026-03-18"
             }
           },
           {
@@ -52,7 +49,8 @@
               "title": "Problems From 56 to 65"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Projects 1 Bank Extension 2 (Requirements).md",
+                "file": "06 - Daily/Daily/2026-03-18.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Projects 1 Bank Extension 2 (Requirements)"
+              "title": "Outline of 2026-03-18"
             }
           },
           {
@@ -250,11 +248,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d2a5f14bbf14298",
+  "active": "8ac55018ce28666e",
   "lastOpenFiles": [
+    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Projects 1 Bank Extension 2 (Requirements).md",
     "06 - Daily/Daily/2026-03-18.md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Untitled.canvas",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Projects 1 Bank Extension 2 (Requirements).md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 56 to 65.md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 7 Algorithms & Problem Solving Level 3/Project 1 - Bank1 (Requirements).md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 6 Introduction to Programming Using C++ Level 2/2- Miscellaneous/Lesson 11 - Validate Number.md",
