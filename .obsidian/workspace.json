@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Projects 1 Bank Extension 2 (Requirements).md",
+                "file": "06 - Daily/Daily/2026-03-19.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projects 1 Bank Extension 2 (Requirements)"
+              "title": "2026-03-19"
             }
           },
           {
@@ -29,9 +29,9 @@
               "state": {
                 "file": "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Untitled.canvas",
                 "viewState": {
-                  "x": 2289.732701561465,
-                  "y": 958.7101779158107,
-                  "zoom": -1.127264941184068
+                  "x": 1736.496969364875,
+                  "y": 531.9321751575358,
+                  "zoom": -1.6272649411840678
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -52,8 +52,7 @@
               "title": "Problems From 56 to 65"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Untitled.canvas",
+                "file": "06 - Daily/Daily/2026-03-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of 2026-03-19"
             }
           },
           {
@@ -251,12 +250,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ac55018ce28666e",
+  "active": "0d2a5f14bbf14298",
   "lastOpenFiles": [
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Projects 1 Bank Extension 2 (Requirements).md",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Untitled.canvas",
-    "06 - Daily/Daily/2026-03-18.md",
+    "06 - Daily/Daily/2026-03-19.md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 56 to 65.md",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Untitled.canvas",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 6 Introduction to Programming Using C++ Level 2/2- Miscellaneous/Lesson 12 - Bitwise AND operator.md",
+    "06 - Daily/Daily/2026-03-18.md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 7 Algorithms & Problem Solving Level 3/Project 1 - Bank1 (Requirements).md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 6 Introduction to Programming Using C++ Level 2/2- Miscellaneous/Lesson 11 - Validate Number.md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 6 Introduction to Programming Using C++ Level 2/2- Miscellaneous/Lesson 09 - Ternary Operator (Short Hand IF).md",
@@ -288,7 +289,6 @@
     "06 - Daily/Daily/2026-03-14.md",
     "04 - Resources/CS/CS-Study/Zero Web School/Learn python with (Alzero Web School)/1- Commend Line/06 - Grep With Examples.md",
     "04 - Resources/CS/CS-Study/Zero Web School/Learn python with (Alzero Web School)/1- Commend Line/05 - Cat And Echo.md",
-    "06 - Daily/Daily/2026-03-12.md",
     "04 - Resources/CS/CS-Study/Yehya Tech",
     "Author",
     "My code file.ts",
