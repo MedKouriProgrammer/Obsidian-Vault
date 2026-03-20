@@ -67,11 +67,32 @@ using namespace std;
 const string ClientsFileName = "Clients.txt";
 const string UsersFileName = "Users.txt";
 
+enum enPermission {
+
+    eFullAccess = -1, pListClients = 1, pAddNewClient = 2, pDeleteClient = 4, 
+    pUpdateClient = 8, pFindClient = 16, pShowTransactionsMenue = 32,
+    pManageUser = 64
+};
+enum enManageMenuOptions {
+    eListUsers = 1, eAddNewUser = 2,
+    eDeleteUser = 3, UpdateUser = 4,
+    FindUser = 5, MainMenu = 6
+};
+enum enTransactionsMenueOptions { 
+    eDeposit = 1, eWithdraw = 2, 
+    eShowTotalBalance = 3, eShowMainMenue = 4 
+};
+enum enMainMenueOptions { 
+    eListClients = 1, eAddNewClient = 2, eDeleteClient = 3, 
+    eUpdateClient = 4, eFindClient = 5, eShowTransactionsMenue = 6,
+    ManageUser = 7, eExit = 8 
+};
 
 void ShowMainMenue();
 void ShowTransactionsMenue();
 void ShowManageUsersMenuScreen();
 void ShowLoginScreen();
+bool CheckAccessPermission(enPermission Permission);
 
 struct sClient {
 
@@ -274,8 +295,22 @@ void PrintClientRecordBalanceLine(sClient Client) {
     cout << "| " << setw(12) << left << Client.AccountBalance;
 
 }
+void PrintAccessDenied() {
 
+    cout << "\n-----------------------------------";
+    cout << "\nAccess Denied,";
+    cout << "\nYou Don't Have Permission,";
+    cout << "\nPlease Contact your Admin";
+    cout << "\n-----------------------------------";
+    
+} 
 void ShowAllClientsScreen() {
+
+    if(!CheckAccessPermission(enPermission::pListClients))
+    {
+        PrintAccessDenied();
+        return;
+    }
 
     vector <sClient> vClients = LoadCleintsDataFromFile(ClientsFileName);
 
@@ -597,6 +632,12 @@ string ReadClientAccountNumber() {
 
 void ShowDeleteClientScreen() {
 
+    if(!CheckAccessPermission(enPermission::pDeleteClient))
+    {
+        PrintAccessDenied();
+        return;
+    }
+
     cout << "\n-----------------------------------\n";
     cout << "\tDelete Client Screen";
     cout << "\n-----------------------------------\n";
@@ -608,6 +649,12 @@ void ShowDeleteClientScreen() {
 }
 
 void ShowUpdateClientScreen() {
+
+    if(!CheckAccessPermission(enPermission::pUpdateClient))
+    {
+        PrintAccessDenied();
+        return;
+    }
 
     cout << "\n-----------------------------------\n";
     cout << "\tUpdate Client Info Screen";
@@ -621,6 +668,12 @@ void ShowUpdateClientScreen() {
 
 void ShowAddNewClientsScreen() {
 
+    if(!CheckAccessPermission(enPermission::pAddNewClient))
+    {
+        PrintAccessDenied();
+        return;
+    }
+
     cout << "\n-----------------------------------\n";
     cout << "\tAdd New Clients Screen";
     cout << "\n-----------------------------------\n";
@@ -630,6 +683,12 @@ void ShowAddNewClientsScreen() {
 }
 
 void ShowFindClientScreen() {
+
+    if(!CheckAccessPermission(enPermission::pFindClient))
+    {
+        PrintAccessDenied();
+        return;
+    }
 
     cout << "\n-----------------------------------\n";
     cout << "\tFind Client Screen";
@@ -724,27 +783,6 @@ void ShowTotalBalancesScreen() {
     ShowTotalBalances();
 
 }
-
-enum enPermission {
-
-    eFullAccess = -1, pListClients = 1, pAddNewClient = 2, pDeleteClient = 4, 
-    pUpdateClient = 8, pFindClient = 16, pShowTransactionsMenue = 32,
-    pManageUser = 64
-};
-enum enManageMenuOptions {
-    eListUsers = 1, eAddNewUser = 2,
-    eDeleteUser = 3, UpdateUser = 4,
-    FindUser = 5, MainMenu = 6
-};
-enum enTransactionsMenueOptions { 
-    eDeposit = 1, eWithdraw = 2, 
-    eShowTotalBalance = 3, eShowMainMenue = 4 
-};
-enum enMainMenueOptions { 
-    eListClients = 1, eAddNewClient = 2, eDeleteClient = 3, 
-    eUpdateClient = 4, eFindClient = 5, eShowTransactionsMenue = 6,
-    ManageUser = 7, eExit = 8 
-};
 
 void GoBackToManageMenu() {
 
@@ -957,28 +995,18 @@ bool CheckAccessPermission(enPermission Permission) {
 ////////////////////////////////// Find User ///////////////////////////////👇
 void ShowFindUserScreen() {
 
-    if(CheckAccessPermission(enPermission::pFindClient))
-    {
-        cout << "\n-----------------------------------\n";
-        cout << "\tFind User Screen";
-        cout << "\n-----------------------------------\n";
+    cout << "\n-----------------------------------\n";
+    cout << "\tFind User Screen";
+    cout << "\n-----------------------------------\n";
 
-        vector <sUsers> vUsers = LoadUsersDataFromFile(UsersFileName);
-        sUsers Users;
-        string UserName = ReadUserNameOfUser();
-        if (FindUsersByUserName(UserName, vUsers, Users))
-            PrintUsersCard(Users);
-        else
-            cout << "\nUser with UserName[" << UserName << "] is not found!";
-    }
+    vector <sUsers> vUsers = LoadUsersDataFromFile(UsersFileName);
+    sUsers Users;
+    string UserName = ReadUserNameOfUser();
+    if (FindUsersByUserName(UserName, vUsers, Users))
+        PrintUsersCard(Users);
     else
-    {
-        cout << "\n-----------------------------------";
-        cout << "\nAccess Denied,";
-        cout << "\nYou Don't Have Permission,";
-        cout << "\nPlease Contact your Admin";
-        cout << "\n-----------------------------------";
-    }
+        cout << "\nUser with UserName[" << UserName << "] is not found!";
+
 
 }
 ////////////////////////////////// Find User ///////////////////////////////👆
@@ -1038,25 +1066,15 @@ bool UpdateUserByUserName(string UserName, vector <sUsers>& vUsers) {
 
 }
 void ShowUpdateUserScreen() {
-    
-    if(CheckAccessPermission(enPermission::pUpdateClient))
-    {
-        cout << "\n-----------------------------------\n";
-        cout << "\tUpdate User Info Screen";
-        cout << "\n-----------------------------------\n";
 
-        vector <sUsers> vUsers = LoadUsersDataFromFile(UsersFileName);
-        string UserName = ReadUserNameOfUser();
-        UpdateUserByUserName(UserName, vUsers);
-    }
-    else
-    {
-        cout << "\n-----------------------------------";
-        cout << "\nAccess Denied,";
-        cout << "\nYou Don't Have Permission,";
-        cout << "\nPlease Contact your Admin";
-        cout << "\n-----------------------------------";
-    }
+    cout << "\n-----------------------------------\n";
+    cout << "\tUpdate User Info Screen";
+    cout << "\n-----------------------------------\n";
+
+    vector <sUsers> vUsers = LoadUsersDataFromFile(UsersFileName);
+    string UserName = ReadUserNameOfUser();
+    UpdateUserByUserName(UserName, vUsers);
+
 
 }
 ////////////////////////////////// Update User ///////////////////////////////👆
@@ -1116,27 +1134,14 @@ bool DeleteUsersByUserName(string UserName, vector <sUsers>& vUsers) {
 
 }
 void ShowDeleteUsersScreen() {
-
-    if(CheckAccessPermission(enPermission::pDeleteClient))
-    {
-        cout << "\n-----------------------------------\n";
-        cout << "\tDelete Client Screen";
-        cout << "\n-----------------------------------\n";
-
-        vector <sUsers> vUsers = LoadUsersDataFromFile(UsersFileName);
-        string UserName = ReadUserNameOfUser();
-        DeleteUsersByUserName(UserName, vUsers);
-    }
-    else
-    {
-        cout << "\n-----------------------------------";
-        cout << "\nAccess Denied,";
-        cout << "\nYou Don't Have Permission,";
-        cout << "\nPlease Contact your Admin";
-        cout << "\n-----------------------------------";
-    }
-
     
+    cout << "\n-----------------------------------\n";
+    cout << "\tDelete Client Screen";
+    cout << "\n-----------------------------------\n";
+
+    vector <sUsers> vUsers = LoadUsersDataFromFile(UsersFileName);
+    string UserName = ReadUserNameOfUser();
+    DeleteUsersByUserName(UserName, vUsers);
 
 }
 ////////////////////////////////// DeleteUser ///////////////////////////////👆
@@ -1205,8 +1210,6 @@ sUsers ReadNewUsers() {
     }
 
 
-    char Choise; 
-
     cout << "Enter Password? ";
     getline(cin, Users.Password);
 
@@ -1241,24 +1244,12 @@ void AddNewUsers(){
 }
 void ShowAddNewUsersScreen() {
 
-    if(CheckAccessPermission(enPermission::pAddNewClient))
-    {
-        cout << "\n-----------------------------------\n";
-        cout << "\tAdd New Users Screen";
-        cout << "\n-----------------------------------\n";
+    cout << "\n-----------------------------------\n";
+    cout << "\tAdd New Users Screen";
+    cout << "\n-----------------------------------\n";
 
-        AddNewUsers();
-    }
-    else
-    {
-        cout << "\n-----------------------------------";
-        cout << "\nAccess Denied,";
-        cout << "\nYou Don't Have Permission,";
-        cout << "\nPlease Contact your Admin";
-        cout << "\n-----------------------------------";
-    }
-    
-
+    AddNewUsers();
+  
 }
 
 ////////////////////////////////// AddUsers ///////////////////////////////👆
@@ -1302,18 +1293,7 @@ void ShowAllUsersScreen() {
 }
 void ShowUsersScreen() {
 
-    if(CheckAccessPermission(enPermission::pListClients))
-    {
-        ShowAllUsersScreen();
-    }
-    else
-    {
-        cout << "\n-----------------------------------";
-        cout << "\nAccess Denied,";
-        cout << "\nYou Don't Have Permission,";
-        cout << "\nPlease Contact your Admin";
-        cout << "\n-----------------------------------";
-    }
+    ShowAllUsersScreen();
 
 }
 ////////////////////////////////// UsersList ///////////////////////////////👆
@@ -1330,7 +1310,7 @@ void PerformManageUsersMenuScreen(enManageMenuOptions ManageMenuOptions) {
         
     case enManageMenuOptions::eAddNewUser:
         system("clear");
-        ShowAddNewUsersScreen();
+        ShowAddNewUsersScreen(); 
         GoBackToManageMenu();
         break;
     
@@ -1373,6 +1353,12 @@ short ReadManageUsersMenuScreen() {
 }
 
 void ShowManageUsersMenuScreen() {
+
+    if(!CheckAccessPermission(enPermission::pManageUser))
+    {
+        PrintAccessDenied();
+        return;
+    }
 
     system("clear");
     cout << "===========================================\n";
@@ -1451,6 +1437,12 @@ void PerfromTranactionsMenueOption(enTransactionsMenueOptions TransactionMenueOp
 }
 
 void ShowTransactionsMenue() {
+
+    if(!CheckAccessPermission(enPermission::pShowTransactionsMenue))
+    {
+        PrintAccessDenied();
+        return;
+    }
 
     system("clear");
     cout << "===========================================\n";
@@ -1593,12 +1585,6 @@ int main() {
     return 0;
 }
 ```
-<font color="#646a73">Output:</font>
-```
-
-```
----
-
 ### <font color="#ffff00">Abu-Hedhoud Input:</font>
 ```cpp
 #include <iostream>
