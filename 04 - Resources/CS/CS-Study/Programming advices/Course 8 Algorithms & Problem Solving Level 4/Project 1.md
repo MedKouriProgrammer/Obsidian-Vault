@@ -8,9 +8,9 @@ Author: "[[abu-hedhoud]]"
 > [!summary]-
 > 
 
-# <font color="#646a73">Projects: </font>
+# <font color="#646a73">Projects 1 Bank Extension 2 (Requirements & Solution):</font>  [[Projects 1 Requirements]]
 ---
-### <font color="#ffff00">Projects 1 Bank Extension 2 (Requirements):</font>  [[Projects 1 Requirements]]
+
 ### <font color="#ffff00">My Input:</font>
 ```cpp
 #include <iostream>
@@ -1544,6 +1544,7 @@ int main() {
 }
 ```
 ### <font color="#ffff00">Abu-Hedhoud Input:</font>
+
 ```cpp
 #include <iostream>
 #include <fstream>
@@ -3145,20 +3146,8 @@ int main()
     return 0;
 }
 ```
----
----
 
----
 
-### <font color="#ffff00">(#P2):</font> [[Projects 2 Requirements]]
 
-### <font color="#ffff00">My Input:</font>
-```cpp
 
-```
----
-### <font color="#ffff00">Abu-Hedhoude Input:</font>
-```cpp
 
-```
----
