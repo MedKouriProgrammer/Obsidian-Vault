@@ -13,43 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/Daily/2026-03-21.md",
+                "file": "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Projects 2 Requirements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-21"
-            }
-          },
-          {
-            "id": "8ac55018ce28666e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Untitled.canvas",
-                "viewState": {
-                  "x": 1736.496969364875,
-                  "y": 531.9321751575358,
-                  "zoom": -1.6272649411840678
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "86dbb3f2b9b8471a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 56 to 65.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Problems From 56 to 65"
+              "title": "Projects 2 Requirements"
             }
           }
         ]
@@ -174,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Daily/Daily/2026-03-21.md",
+                "file": "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Projects 2 Requirements.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-21"
+              "title": "Outline of Projects 2 Requirements"
             }
           },
           {
@@ -251,12 +220,15 @@
   },
   "active": "0d2a5f14bbf14298",
   "lastOpenFiles": [
-    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Projects 1 Bank Extension 2 (Requirements).md",
-    "06 - Daily/Daily/2026-03-21.md",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Projects 1 Requirements.md",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Projects 2 Requirements.md",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Projects.md",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Projects Requirement.md",
+    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 56 to 65.md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Untitled.canvas",
+    "06 - Daily/Daily/2026-03-21.md",
     "06 - Daily/Daily/2026-03-20.md",
     "06 - Daily/Daily/2026-03-19.md",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 56 to 65.md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 6 Introduction to Programming Using C++ Level 2/2- Miscellaneous/Lesson 12 - Bitwise AND operator.md",
     "06 - Daily/Daily/2026-03-18.md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 7 Algorithms & Problem Solving Level 3/Project 1 - Bank1 (Requirements).md",
@@ -285,9 +257,6 @@
     "04 - Resources/CS/CS-Study/Programming advices/Course 7 Algorithms & Problem Solving Level 3/Problems From 21 to 30.md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 7 Algorithms & Problem Solving Level 3/Problems From 31 to 40.md",
     "06 - Daily/Daily/2026-03-15.md",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 11 to 19.md",
-    "06 - Daily/Daily/2026-03-13.md",
-    "06 - Daily/Daily/2026-03-14.md",
     "04 - Resources/CS/CS-Study/Yehya Tech",
     "Author",
     "My code file.ts",
