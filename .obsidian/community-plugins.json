@@ -24,10 +24,10 @@
   "advanced-canvas",
   "contribution-graph",
   "obsidian-tracker",
-  "code-styler",
   "obsidian-style-settings",
   "obsidian-tasks-plugin",
   "ninja-cursor",
   "heatmap-tracker",
-  "obsidian-git"
+  "obsidian-git",
+  "code-styler"
 ]
