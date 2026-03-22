@@ -8,7 +8,7 @@ Author: "[[abu-hedhoud]]"
 > [!summary]-
 > 
 
-# <font color="#646a73">Projects 1 Bank Extension 2 (Requirements & Solution):</font>  [[Projects 1 Requirements]]
+# <font color="#646a73">Projects 1 Bank Extension 2 (Requirements & Solution):</font> [[Projects 1 Requirements]]
 ---
 
 ### <font color="#ffff00">My Input:</font>
