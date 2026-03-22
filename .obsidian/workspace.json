@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Projects 2.md",
+                "file": "06 - Daily/Daily/2026-03-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projects 2"
+              "title": "2026-03-22"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Projects 2.md",
+                "file": "06 - Daily/Daily/2026-03-22.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Projects 2"
+              "title": "Outline of 2026-03-22"
             }
           },
           {
@@ -246,13 +246,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ac8680c995a6864",
+  "active": "0d2a5f14bbf14298",
   "lastOpenFiles": [
+    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Projects 2.md",
     "04 - Resources/CS/CS-Study/Programming advices/Untitled",
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Projects 2 Requirements.md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Projects 1 Requirements.md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Project 1.md",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Projects 2.md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 7 Algorithms & Problem Solving Level 3/Project 1 - Bank1 (Requirements).md",
     "06 - Daily/Daily/2026-03-22.md",
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 20 to 55.md",
@@ -295,7 +295,6 @@
     "04 - Resources/CS/CS-Study/Programming advices/Course 7 Algorithms & Problem Solving Level 3",
     "04 - Resources/CS/CS-Study/Programming advices/Course 6 Introduction to Programming Using C++ Level 2/15- DateTime",
     "04 - Resources/CS/CS-Study/Programming advices/Course 6 Introduction to Programming Using C++ Level 2/14- Files",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 6 Introduction to Programming Using C++ Level 2/13- Dealing With Strings 1",
     "04 - Resources/CS/CS-Study/Programming advices/Course 2 Algorithm & solving problems l.1/Problem 10 - Average of 3 Marks.canvas",
     "04 - Resources/CS/CS-Study/Programming advices/Course 2 Algorithm & solving problems l.1/Problem 9 - Sum of 3 Numbers.canvas",
     "04 - Resources/CS/CS-Study/Programming advices/Course 2 Algorithm & solving problems l.1/Problem 6 - FullName.canvas",

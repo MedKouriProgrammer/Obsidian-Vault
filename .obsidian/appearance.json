@@ -23,5 +23,7 @@
   "theme": "obsidian",
   "baseFontSize": 17,
   "showViewHeader": true,
-  "showRibbon": false
+  "showRibbon": false,
+  "baseFontSizeAction": false,
+  "nativeMenus": false
 }
