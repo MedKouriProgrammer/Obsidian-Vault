@@ -4,7 +4,7 @@ tags:
   - Resources/Articles
 Resource: https://programmingadvices.com/courses/introduction-to-programming-using-c-level-2/lectures/42209801
 Author: "[[abu-hedhoud]]"
-topic: "[[Lesson 32 - Vector Functions\r]]"
+topic: "[](Lesson%2032%20-%20Vector%20Functions.md)"
 ---
 > [!summary]-
 > 

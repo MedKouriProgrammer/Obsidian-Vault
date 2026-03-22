@@ -4,7 +4,7 @@ tags:
   - Resources/Articles
 Resource:
 Author: "[[abu-hedhoud]]"
-topic: "[[04 - Resources/CS/CS-Study/Programming advices/Course 5 Algorithms & Problem-Solving Level 2/Project 1]]"
+topic: "[[04 - Resources/CS/CS-Study/Programming Advice/Course 05 Algorithms & Problem-Solving Level 2/Project 1]]"
 ---
 > [!summary]-
 > 

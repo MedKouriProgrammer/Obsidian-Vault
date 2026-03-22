@@ -4,7 +4,7 @@ tags:
   - Resources/Articles
 Resource: https://programmingadvices.com/courses/introduction-to-programming-using-c-level-2/lectures/41496976
 Author: "[[abu-hedhoud]]"
-topic: "[[Lesson 39 - Call by Reference Using pointers\r]]"
+topic: "[](Lesson%2039%20-%20Call%20by%20Reference%20Using%20pointers.md)"
 ---
 > [!summary]-
 > 

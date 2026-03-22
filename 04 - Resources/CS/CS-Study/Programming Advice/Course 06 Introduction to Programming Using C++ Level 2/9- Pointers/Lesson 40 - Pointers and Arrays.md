@@ -4,7 +4,7 @@ tags:
   - Resources/Articles
 Resource: https://programmingadvices.com/courses/introduction-to-programming-using-c-level-2/lectures/41496974
 Author: "[[abu-hedhoud]]"
-topic: "[[Lesson 40 - Pointers and Arrays\r]]"
+topic: "[](Lesson%2040%20-%20Pointers%20and%20Arrays.md)"
 ---
 > [!summary]-
 > 

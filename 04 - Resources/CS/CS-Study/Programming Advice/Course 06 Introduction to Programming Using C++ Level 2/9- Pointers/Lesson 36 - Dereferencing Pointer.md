@@ -4,7 +4,7 @@ tags:
   - Resources/Articles
 Resource: https://programmingadvices.com/courses/introduction-to-programming-using-c-level-2/lectures/41497178
 Author: "[[abu-hedhoud]]"
-topic: "[[Lesson 36 - Dereferencing Pointer\r]]"
+topic: "[](Lesson%2036%20-%20Dereferencing%20Pointer.md)"
 ---
 > [!summary]-
 > 

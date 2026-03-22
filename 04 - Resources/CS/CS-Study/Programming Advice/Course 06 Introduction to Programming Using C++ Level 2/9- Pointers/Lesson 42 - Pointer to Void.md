@@ -4,7 +4,7 @@ tags:
   - Resources/Articles
 Resource: https://programmingadvices.com/courses/1827205/lectures/41772594
 Author: "[[abu-hedhoud]]"
-topic: "[[  Lesson 42 - Pointer to Void\r]]"
+topic: "[](Lesson%2042%20-%20Pointer%20to%20Void.md)"
 ---
 > [!summary]-
 > 

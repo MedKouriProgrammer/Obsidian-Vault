@@ -13,40 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/Daily/2026-03-22.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/2-   MAN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-22"
-            }
-          },
-          {
-            "id": "65b9688cf2c7a835",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Daily/Daily/2026-03-22.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-22"
-            }
-          },
-          {
-            "id": "8df1849492cc1679",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Project 1.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Project 1"
+              "title": "2-   MAN"
             }
           }
         ]
@@ -171,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Daily/Daily/2026-03-22.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/2-   MAN.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-22"
+              "title": "Outline of 2-   MAN"
             }
           },
           {
@@ -248,16 +220,24 @@
   },
   "active": "0d2a5f14bbf14298",
   "lastOpenFiles": [
-    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Projects 2.md",
-    "04 - Resources/CS/CS-Study/Programming advices/Untitled",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Projects 2 Requirements.md",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Projects 1 Requirements.md",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Project 1.md",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 7 Algorithms & Problem Solving Level 3/Project 1 - Bank1 (Requirements).md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/1- Revision of Networks Part I.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/2-   MAN.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 01 Important basis of programming/Lesson 10 Programming Foundations - Netwroks Part I.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 01 Important basis of programming/lesson 4 - Speeds and units of measurement in the computer.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 01 Important basis of programming/lesson 3 - binary systeme.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 01 Important basis of programming/lesson 2 - what_s computer & components & functions.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 01 Important basis of programming/lesson 1 - different between data & information & knowledge & wisdom.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 08 Algorithms & Problem Solving Level 4/Project 1.md",
     "06 - Daily/Daily/2026-03-22.md",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 20 to 55.md",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 56 to 65.md",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Problems From 11 to 19.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 08 Algorithms & Problem Solving Level 4/Projects 2.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 08 Algorithms & Problem Solving Level 4/Projects 2 Requirements.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 08 Algorithms & Problem Solving Level 4/Projects 1 Requirements.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 07 Algorithms & Problem Solving Level 3/Project 1 - Bank1 (Requirements).md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 08 Algorithms & Problem Solving Level 4/Problems From 20 to 55.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 08 Algorithms & Problem Solving Level 4/Problems From 56 to 65.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 08 Algorithms & Problem Solving Level 4/Problems From 11 to 19.md",
     "99 - Meta/99 - Attachment/Pasted image 20260321171603.png",
     "99 - Meta/99 - Attachment/Pasted image 20260321171548.png",
     "99 - Meta/99 - Attachment/Pasted image 20260321171433.png",
@@ -273,35 +253,28 @@
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Untitled.canvas",
     "06 - Daily/Daily/2026-03-20.md",
     "06 - Daily/Daily/2026-03-19.md",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 6 Introduction to Programming Using C++ Level 2/2- Miscellaneous/Lesson 12 - Bitwise AND operator.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 06 Introduction to Programming Using C++ Level 2/2- Miscellaneous/Lesson 12 - Bitwise AND operator.md",
     "06 - Daily/Daily/2026-03-18.md",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 6 Introduction to Programming Using C++ Level 2/2- Miscellaneous/Lesson 11 - Validate Number.md",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 6 Introduction to Programming Using C++ Level 2/2- Miscellaneous/Lesson 09 - Ternary Operator (Short Hand IF).md",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 6 Introduction to Programming Using C++ Level 2/2- Miscellaneous/Lesson 10 - Ranged Loop.md",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 6 Introduction to Programming Using C++ Level 2/2- Miscellaneous/Lesson 08 - Library (Create Your Own Library).md",
-    "06 - Daily/Daily/2026-03-17.md",
-    "Untitled.md",
-    "Tasks Plugin - Review and check your Statuses 2026-03-10 14-18-36.md",
-    "Untitled 1.md",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 7 Algorithms & Problem Solving Level 3/Problems From 41 to 50.md",
-    "06 - Daily/Daily/2026-03-16.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 06 Introduction to Programming Using C++ Level 2/2- Miscellaneous/Lesson 11 - Validate Number.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 06 Introduction to Programming Using C++ Level 2/2- Miscellaneous/Lesson 09 - Ternary Operator (Short Hand IF).md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 06 Introduction to Programming Using C++ Level 2/2- Miscellaneous/Lesson 10 - Ranged Loop.md",
     "04 - Resources/CS/CS-Study/Yehya Tech",
     "Author",
     "My code file.ts",
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/My code file.cpp",
     "04 - Resources/Notes ( Programming )/Course 8 Algorithms & Problem Solving Level 4 1",
     "04 - Resources/CS/CS-Study/Programming advices/Course 7 Algorithms & Problem Solving Level 3/Untitled.canvas",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 7 Algorithms & Problem Solving Level 3",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 6 Introduction to Programming Using C++ Level 2/15- DateTime",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 6 Introduction to Programming Using C++ Level 2/14- Files",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 2 Algorithm & solving problems l.1/Problem 10 - Average of 3 Marks.canvas",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 2 Algorithm & solving problems l.1/Problem 9 - Sum of 3 Numbers.canvas",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 2 Algorithm & solving problems l.1/Problem 6 - FullName.canvas",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 2 Algorithm & solving problems l.1/Problem 7 - Half Number.canvas",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 2 Algorithm & solving problems l.1/Problem 8 - Pass or Fail.canvas",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 2 Algorithm & solving problems l.1/Problem 5 - Hire a Driver Case 2.canvas",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 2 Algorithm & solving problems l.1/Problem 4 - Hire a driver - Case 1.canvas",
-    "04 - Resources/CS/CS-Study/Programming advices/Course 2 Algorithm & solving problems l.1/Problem 3 - defined flow chart & solve first 3 problems.canvas"
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 08 Algorithms & Problem Solving Level 4",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 07 Algorithms & Problem Solving Level 3",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 06 Introduction to Programming Using C++ Level 2/15- DateTime",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 06 Introduction to Programming Using C++ Level 2/14- Files",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 02 Algorithm & solving problems l.1/Problem 10 - Average of 3 Marks.canvas",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 02 Algorithm & solving problems l.1/Problem 9 - Sum of 3 Numbers.canvas",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 02 Algorithm & solving problems l.1/Problem 6 - FullName.canvas",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 02 Algorithm & solving problems l.1/Problem 7 - Half Number.canvas",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 02 Algorithm & solving problems l.1/Problem 8 - Pass or Fail.canvas",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 02 Algorithm & solving problems l.1/Problem 5 - Hire a Driver Case 2.canvas",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 02 Algorithm & solving problems l.1/Problem 4 - Hire a driver - Case 1.canvas",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 02 Algorithm & solving problems l.1/Problem 3 - defined flow chart & solve first 3 problems.canvas"
   ]
 }
