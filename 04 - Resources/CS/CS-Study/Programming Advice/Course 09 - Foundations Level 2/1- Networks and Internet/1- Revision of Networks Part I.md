@@ -11,3 +11,5 @@ Author: "[[abu-hedhoud]]"
 ---
 
 ### [[Lesson 10 Programming Foundations - Netwroks Part I]]
+![[Pasted image 20260323151812.png]]
+![[Pasted image 20260323151842.png]]

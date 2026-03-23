@@ -9,3 +9,4 @@ Author: "[[abu-hedhoud]]"
 
 # <font color="#646a73">MAN</font>
 ---
+![[Pasted image 20260323151959.png]]
