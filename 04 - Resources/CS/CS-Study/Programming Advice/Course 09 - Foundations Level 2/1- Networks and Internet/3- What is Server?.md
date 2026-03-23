@@ -7,7 +7,7 @@ Author: "[[abu-hedhoud]]"
 > [!summary]-
 > 
 
-# What is Server?
+# <font color="#646a73">What is Server?</font>
 ---
 ![[Screenshot_20260323-151149_Moon+ Reader Pro.jpg]]
 ![[Screenshot_20260323-151152_Moon+ Reader Pro.jpg]]
