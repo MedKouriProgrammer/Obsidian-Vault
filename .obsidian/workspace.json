@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/Untitled.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/3- What is Server?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "3- What is Server?"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/Untitled.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/3- What is Server?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of 3- What is Server?"
             }
           },
           {
@@ -220,8 +220,10 @@
   },
   "active": "0d2a5f14bbf14298",
   "lastOpenFiles": [
+    "99 - Meta/99 - Attachment/Screenshot_20260323-151152_Moon+ Reader Pro.jpg",
+    "99 - Meta/99 - Attachment/Screenshot_20260323-151149_Moon+ Reader Pro.jpg",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/2-   MAN.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/Untitled.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/3- What is Server?.md",
     "99 - Meta/99 - Attachment/Pasted image 20260323151959.png",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/1- Revision of Networks Part I.md",
     "99 - Meta/99 - Attachment/Pasted image 20260323151842.png",
@@ -234,7 +236,6 @@
     "99 - Meta/99 - Attachment/1774273521522-6943187b-f879-4be1-ad5b-600111374694_2.jpg",
     "06 - Daily/Daily/2026-03-23.md",
     "99 - Meta/99 - Attachment/_⁨كورس_9_أساسيات_مهمة_لكل_مبرمج_المستوى_الثاني⁩.pdf",
-    "99 - Meta/99 - Attachment/Pasted image 20260322235058.png",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 08 Algorithms & Problem Solving Level 4/Problems From 56 to 65.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 07 Algorithms & Problem Solving Level 3/Project 1 - Bank1 (Requirements).md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 08 Algorithms & Problem Solving Level 4/Project 1.md",
@@ -259,7 +260,6 @@
     "04 - Resources/CS/CS-Study/Programming Advice/Course 06 Introduction to Programming Using C++ Level 2/2- Miscellaneous/Lesson 12 - Bitwise AND operator.md",
     "06 - Daily/Daily/2026-03-18.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 06 Introduction to Programming Using C++ Level 2/2- Miscellaneous/Lesson 11 - Validate Number.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 06 Introduction to Programming Using C++ Level 2/2- Miscellaneous/Lesson 09 - Ternary Operator (Short Hand IF).md",
     "04 - Resources/CS/CS-Study/Yehya Tech",
     "Author",
     "My code file.ts",
