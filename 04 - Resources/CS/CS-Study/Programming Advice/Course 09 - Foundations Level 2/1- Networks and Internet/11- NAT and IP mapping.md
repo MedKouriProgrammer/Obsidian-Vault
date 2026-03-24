@@ -7,7 +7,7 @@ Author:
 > [!summary]-
 > 
 
-# 
+# <font color="#646a73">NAT and IP mapping</font>
 ---
 ![[Screenshot_20260323-151225_Moon+ Reader Pro.jpg]]
 ![[Screenshot_20260323-151229_Moon+ Reader Pro.jpg]]
