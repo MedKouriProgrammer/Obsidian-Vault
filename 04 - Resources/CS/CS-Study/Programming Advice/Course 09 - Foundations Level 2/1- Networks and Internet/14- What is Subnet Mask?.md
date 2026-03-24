@@ -7,6 +7,6 @@ Author:
 > [!summary]-
 > 
 
-# 
+#  <font color="#646a73">What is Subnet Mask? </font>
 ---
 ![[Screenshot_20260323-151253_Moon+ Reader Pro.jpg]]

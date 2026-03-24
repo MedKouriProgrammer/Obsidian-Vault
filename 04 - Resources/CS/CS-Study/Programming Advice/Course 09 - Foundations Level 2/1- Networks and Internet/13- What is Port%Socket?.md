@@ -7,7 +7,7 @@ Author:
 > [!summary]-
 > 
 
-# 
+# <font color="#646a73">What is Port/Socket?</font> 
 ---
 ![[Screenshot_20260323-151242_Moon+ Reader Pro.jpg]]
 ![[Screenshot_20260323-151246_Moon+ Reader Pro.jpg]]

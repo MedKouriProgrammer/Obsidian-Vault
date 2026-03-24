@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/Untitled 6.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/16- How to know Your IP Address?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 6"
+              "title": "16- How to know Your IP Address?"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/Untitled 6.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/16- How to know Your IP Address?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 6"
+              "title": "Outline of 16- How to know Your IP Address?"
             }
           },
           {
@@ -220,6 +220,15 @@
   },
   "active": "0d2a5f14bbf14298",
   "lastOpenFiles": [
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/15- What is Mac Address?.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/13- What is Port%Socket?.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/19- What is Internet vs WWW?.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/20- Surfing Internet (Browsers).md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/21- Http vs Https Protocols.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/18- What is VPN?.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/17- What IP Address Reveals about us?.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/16- How to know Your IP Address?.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/14- What is Subnet Mask?.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/12- What is ISP?.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/10- IP Part 4 (DHCP).md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/11- NAT and IP mapping.md",
@@ -241,21 +250,12 @@
     "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/Untitled 17.md",
     "99 - Meta/99 - Attachment/Screenshot_20260323-151351_Moon+ Reader Pro.jpg",
     "99 - Meta/99 - Attachment/Screenshot_20260323-151348_Moon+ Reader Pro.jpg",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/Untitled 16.md",
     "99 - Meta/99 - Attachment/Screenshot_20260323-151344_Moon+ Reader Pro.jpg",
     "99 - Meta/99 - Attachment/Screenshot_20260323-151341_Moon+ Reader Pro.jpg",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/Untitled 15.md",
     "99 - Meta/99 - Attachment/Screenshot_20260323-151337_Moon+ Reader Pro.jpg",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/Untitled 14.md",
     "99 - Meta/99 - Attachment/Screenshot_20260323-151334_Moon+ Reader Pro.jpg",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/Untitled 13.md",
     "99 - Meta/99 - Attachment/Screenshot_20260323-151331_Moon+ Reader Pro.jpg",
     "99 - Meta/99 - Attachment/Screenshot_20260323-151327_Moon+ Reader Pro.jpg",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/Untitled 12.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/Untitled 11.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/Untitled 10.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/Untitled 9.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/Untitled 8.md",
     "99 - Meta/99 - Attachment/_⁨كورس_9_أساسيات_مهمة_لكل_مبرمج_المستوى_الثاني⁩.pdf",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2",
