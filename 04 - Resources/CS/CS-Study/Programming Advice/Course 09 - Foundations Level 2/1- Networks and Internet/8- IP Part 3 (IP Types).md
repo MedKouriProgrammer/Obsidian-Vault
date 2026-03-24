@@ -7,6 +7,6 @@ Author:
 > [!summary]-
 > 
 
-# 
+# <font color="#646a73">IP Part 3 (IP Types)</font>
 ---
 ![[Screenshot_20260323-151212_Moon+ Reader Pro.jpg]]
