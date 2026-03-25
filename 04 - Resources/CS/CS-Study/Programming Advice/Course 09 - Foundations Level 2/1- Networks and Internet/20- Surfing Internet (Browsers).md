@@ -9,5 +9,7 @@ Author:
 
 #  <font color="#646a73">Surfing Internet (Browsers) </font>
 ---
+![[Screenshot_20260323-151312_Moon+ Reader Pro.jpg]]
+
 ![[Screenshot_20260323-151327_Moon+ Reader Pro.jpg]]
 ![[Screenshot_20260323-151331_Moon+ Reader Pro.jpg]]
