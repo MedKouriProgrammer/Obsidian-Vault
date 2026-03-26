@@ -11,5 +11,4 @@ Author:
 ---
 ![[Screenshot_20260323-151312_Moon+ Reader Pro.jpg]]
 
-![[Screenshot_20260323-151327_Moon+ Reader Pro.jpg]]
-![[Screenshot_20260323-151331_Moon+ Reader Pro.jpg]]
+

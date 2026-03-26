@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/19- What is Internet vs WWW?.md",
-      "timestamp": 1774536001015
-    },
-    {
-      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/21- Http vs Https Protocols.md",
-      "timestamp": 1774535982108
-    },
-    {
       "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/20- Surfing Internet (Browsers).md",
-      "timestamp": 1774535975034
+      "timestamp": 1774537161654
     },
     {
-      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/18- What is VPN?.md",
-      "timestamp": 1774532508728
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/26- FTP.md",
+      "timestamp": 1774537153823
     },
     {
-      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/17- What IP Address Reveals about us?.md",
-      "timestamp": 1774532118225
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/25- URL.md",
+      "timestamp": 1774537151095
+    },
+    {
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/24- Sub Domain Names.md",
+      "timestamp": 1774537147347
+    },
+    {
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/23- What is DNS?.md",
+      "timestamp": 1774537143165
     }
   ],
   "bookmarkedFileStore": [],
