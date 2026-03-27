@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/20- Surfing Internet (Browsers).md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/21- Http vs Https Protocols.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20- Surfing Internet (Browsers)"
+              "title": "21- Http vs Https Protocols"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/20- Surfing Internet (Browsers).md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/21- Http vs Https Protocols.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20- Surfing Internet (Browsers)"
+              "title": "Outline of 21- Http vs Https Protocols"
             }
           },
           {
@@ -220,13 +220,13 @@
   },
   "active": "0d2a5f14bbf14298",
   "lastOpenFiles": [
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/20- Surfing Internet (Browsers).md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/26- FTP.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/25- URL.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/24- Sub Domain Names.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/23- What is DNS?.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/22- What is Domain Name? From Where to Get One?.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/21- Http vs Https Protocols.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/20- Surfing Internet (Browsers).md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/19- What is Internet vs WWW?.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/18- What is VPN?.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/17- What IP Address Reveals about us?.md",
