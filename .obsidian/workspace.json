@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/Miscellaneous/2- Real Example about API.md",
+                "file": "06 - Daily/Daily/2026-03-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2- Real Example about API"
+              "title": "2026-03-28"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/Miscellaneous/2- Real Example about API.md",
+                "file": "06 - Daily/Daily/2026-03-28.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2- Real Example about API"
+              "title": "Outline of 2026-03-28"
             }
           },
           {
@@ -218,8 +218,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ac8680c995a6864",
+  "active": "0d2a5f14bbf14298",
   "lastOpenFiles": [
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/Miscellaneous/2- Real Example about API.md",
+    "06 - Daily/Daily/2026-03-28.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/Miscellaneous/1- What is API?.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/Miscellaneous/9- Why Software Cost Millions?.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/Miscellaneous/8- What is Security in Simple Terms.md",
@@ -237,7 +239,6 @@
     "99 - Meta/99 - Attachment/Screenshot_20260323-151405_Moon+ Reader Pro 1.jpg",
     "99 - Meta/99 - Attachment/Screenshot_20260323-151402_Moon+ Reader Pro 1.jpg",
     "99 - Meta/99 - Attachment/Screenshot_20260323-151358_Moon+ Reader Pro 2.jpg",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/Miscellaneous/2- Real Example about API.md",
     "99 - Meta/99 - Attachment/Screenshot_20260323-151412_Moon+ Reader Pro.jpg",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/Miscellaneous/What is API? 9.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/1- Networks and Internet/26- FTP.md",
