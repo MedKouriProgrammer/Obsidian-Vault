@@ -9,4 +9,8 @@ Author:
 
 # <font color="#646a73">What is Business Intelligence ? and what is Cube?</font>
 ---
+
+![[Business Intelligence and Cubes.pdf]]
+
+
 ![[Screenshot_20260323-151426_Moon+ Reader Pro.jpg]]
