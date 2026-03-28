@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/EN/new english.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "new english"
+              "title": "Untitled"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/EN/new english.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of new english"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -220,6 +220,8 @@
   },
   "active": "0d2a5f14bbf14298",
   "lastOpenFiles": [
+    "04 - Resources/EN/new english.md",
+    "99 - Meta/00 - Templates/Zettelkasten/Untitled.md",
     "99 - Meta/00 - Templates/Zettelkasten/Do.md",
     "99 - Meta/00 - Templates/Zettelkasten/Resources.T.md",
     "99 - Meta/00 - Templates/Zettelkasten 1/Resources.T.md",
@@ -258,8 +260,6 @@
     "04 - Resources/CS/CS-Study/Programming Advice/Course 09 - Foundations Level 2/Miscellaneous/What is API? 9.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 09 Foundations Level 2/1- Networks and Internet/26- FTP.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 09 Foundations Level 2/Miscellaneous",
-    "06 - Daily/Daily/2026-03-27.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 09 Foundations Level 2/1- Networks and Internet/21- Http vs Https Protocols.md",
     "99 - Meta/99 - Attachment/_⁨كورس_9_أساسيات_مهمة_لكل_مبرمج_المستوى_الثاني⁩.pdf",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 09 Foundations Level 2/1- Networks and Internet",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 09 Foundations Level 2",
