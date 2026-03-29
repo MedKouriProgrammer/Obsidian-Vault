@@ -10,3 +10,4 @@ Author: "[[abu-hedhoud]]"
 # <font color="#646a73">What is OOP and Why</font>
 ---
 
+## <font color="#ffff00">Resources: </font> [Fetching Title#9y12](https://programmingadvices.com/courses/oop-as-it-should-be-concepts/lectures/43919368)
