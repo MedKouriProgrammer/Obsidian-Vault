@@ -24,20 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "06 - Daily/Daily/2026-03-31.md",
+      "timestamp": 1774912789061
+    },
+    {
       "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/02-Classes and Objects/01-Classes_and_Objects.md",
-      "timestamp": 1774880681563
-    },
-    {
-      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/01-What is OOP and Why/01-What_is_OOP_and_Why.md",
-      "timestamp": 1774880676858
-    },
-    {
-      "filepath": "06 - Daily/Daily/2026-03-30.md",
-      "timestamp": 1774880625465
-    },
-    {
-      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 03 c++ level 1/lesson 19 - ranges & sizes of datatypes.md",
-      "timestamp": 1774879468634
+      "timestamp": 1774912786951
     }
   ],
   "bookmarkedFileStore": [],
