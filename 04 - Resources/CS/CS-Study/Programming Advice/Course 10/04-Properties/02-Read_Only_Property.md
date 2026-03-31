@@ -10,3 +10,7 @@ Author: "[[abu-hedhoud]]"
 # <font color="#646a73">Read Only Property</font>
 ---
 
+### <font color="#ffc000">Input: </font>
+```cpp
+
+```
