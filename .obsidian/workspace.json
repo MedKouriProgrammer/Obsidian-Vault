@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 08 Algorithms & Problem Solving Level 4/Problems From 56 to 65.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/03-Access Specifiers/01-Access_Specifiers_Modifiers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Problems From 56 to 65"
-            }
-          },
-          {
-            "id": "d650a407be16c732",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Daily/Daily/2026-03-31.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-31"
+              "title": "01-Access_Specifiers_Modifiers"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,8 +89,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Daily/Daily/2026-03-31.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/03-Access Specifiers/01-Access_Specifiers_Modifiers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-31"
+              "title": "Outline of 01-Access_Specifiers_Modifiers"
             }
           },
           {
@@ -234,17 +218,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d650a407be16c732",
+  "active": "0d2a5f14bbf14298",
   "lastOpenFiles": [
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 08 Algorithms & Problem Solving Level 4/Problems From 56 to 65.md",
+    "06 - Daily/Daily/2026-03-31.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 07 Algorithms & Problem Solving Level 3/Problems From 11 to 20.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 08 Algorithms & Problem Solving Level 4/Problems From 1 to 10.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 08 Algorithms & Problem Solving Level 4/Problems From 11 to 19.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 08 Algorithms & Problem Solving Level 4/Problems From 56 to 65.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/06-Project 1/02-Calculator_Project_Solution.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/02-Classes and Objects/03-Objects_In_Memory.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/01-What is OOP and Why/01-What_is_OOP_and_Why.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/02-Classes and Objects/01-Classes_and_Objects.md",
-    "06 - Daily/Daily/2026-03-31.md",
     "06 - Daily/Daily/2026-03-30.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 03 c++ level 1/lesson 19 - ranges & sizes of datatypes.md",
     "06 - Daily/Daily/2026-03-29.md",
