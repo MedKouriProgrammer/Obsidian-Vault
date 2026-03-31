@@ -25,15 +25,15 @@ class clsPerson {
 
     public:
 
-    string SetFirstName(string FirstName) {
-        return _FirstName = FirstName;
+    void SetFirstName(string FirstName) {
+        _FirstName = FirstName;
     }
     string FirstName() {
         return _FirstName;
     }
 
-    string SetLastName(string LastName) {
-        return _LastName = LastName;
+    void SetLastName(string LastName) {
+        _LastName = LastName;
     }
     string LastName(string LastName) {
         return _LastName;
