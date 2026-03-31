@@ -55,3 +55,8 @@ int main() {
 
 }
 ```
+Output:
+```
+Zakaria Medkouri
+20
+```

@@ -35,7 +35,7 @@ class clsPerson {
     void SetLastName(string LastName) {
         _LastName = LastName;
     }
-    string LastName(string LastName) {
+    string LastName() {
         return _LastName;
     }
 
@@ -53,8 +53,17 @@ int main() {
 
     Person.SetFirstName("Mohemmed");
     Person.SetLastName("Abu-Hedhoud");
-
-    cout << Person.PrintFullName();
+	
+	cout << "FirstName: " << Person.FirstName() << endl;
+	cout << "LastName: " << Person.LastName() << endl;
+    cout << "\nFullName: " << Person.PrintFullName();
     
 }
+```
+Output:
+```
+FirstName: Mohemmed
+LastName: Abu-Hedhoud
+
+FullName: Mohemmed Abu-Hedhoud
 ```
