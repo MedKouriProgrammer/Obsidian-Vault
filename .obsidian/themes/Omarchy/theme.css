@@ -6,21 +6,21 @@
   --background-primary-alt: #1e1e2e;
   --background-secondary: #1e1e2e;
   --background-secondary-alt: #1e1e2e;
-  --text-normal: #ffffff;
+  --text-normal: #cdd6f4;
 
   /* Selection colors */
-  --text-selection: #89b4fa;
+  --text-selection: #f5e0dc;
 
   /* Border color */
-  --background-modifier-border: #45475a;
+  --background-modifier-border: #585b70;
 
   /* Semantic heading colors */
   --text-title-h1: #f38ba8;
   --text-title-h2: #a6e3a1;
   --text-title-h3: #f9e2af;
   --text-title-h4: #89b4fa;
-  --text-title-h5: #cba6f7;
-  --text-title-h6: #cba6f7;
+  --text-title-h5: #f5c2e7;
+  --text-title-h6: #f5c2e7;
 
   /* Links and accents */
   --text-link: #89b4fa;
@@ -30,8 +30,8 @@
   --interactive-accent-hover: #89b4fa;
 
   /* Muted text */
-  --text-muted: color-mix(in srgb, #ffffff 70%, transparent);
-  --text-faint: color-mix(in srgb, #ffffff 55%, transparent);
+  --text-muted: color-mix(in srgb, #cdd6f4 70%, transparent);
+  --text-faint: color-mix(in srgb, #cdd6f4 55%, transparent);
 
   /* Code */
   --code-normal: #94e2d5;
@@ -43,10 +43,10 @@
 
   /* Tags */
   --tag-color: #94e2d5;
-  --tag-background: #45475a;
+  --tag-background: #585b70;
 
   /* Graph */
-  --graph-line: #45475a;
+  --graph-line: #585b70;
   --graph-node: #89b4fa;
   --graph-node-focused: #89b4fa;
   --graph-node-tag: #94e2d5;
@@ -70,7 +70,7 @@
 .cm-s-obsidian span.cm-keyword { color: #f38ba8; }
 .cm-s-obsidian span.cm-string { color: #a6e3a1; }
 .cm-s-obsidian span.cm-number { color: #f9e2af; }
-.cm-s-obsidian span.cm-comment { color: #45475a; }
+.cm-s-obsidian span.cm-comment { color: #585b70; }
 .cm-s-obsidian span.cm-operator { color: #89b4fa; }
 .cm-s-obsidian span.cm-def { color: #89b4fa; }
 
