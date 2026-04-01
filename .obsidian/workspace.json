@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/04-Properties/02-Read_Only_Property.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/04-Properties/03-Properties_Set_and_Get_through_equals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-Read_Only_Property"
+              "title": "03-Properties_Set_and_Get_through_equals"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/04-Properties/02-Read_Only_Property.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/04-Properties/03-Properties_Set_and_Get_through_equals.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 02-Read_Only_Property"
+              "title": "Outline of 03-Properties_Set_and_Get_through_equals"
             }
           },
           {
@@ -220,9 +220,9 @@
   },
   "active": "0d2a5f14bbf14298",
   "lastOpenFiles": [
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/04-Properties/02-Read_Only_Property.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/03-Access Specifiers/01-Access_Specifiers_Modifiers.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/04-Properties/01-Properties_Set_and_Get.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/04-Properties/02-Read_Only_Property.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 08 Algorithms & Problem Solving Level 4/Problems From 56 to 65.md",
     "06 - Daily/Daily/2026-03-31.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 07 Algorithms & Problem Solving Level 3/Problems From 11 to 20.md",
