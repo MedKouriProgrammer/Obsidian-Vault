@@ -10,3 +10,4 @@ Author: "[[abu-hedhoud]]"
 # <font color="#646a73">Calculator Project Requirements</font>
 ---
 
+![[Pasted image 20260402202751.png]]
