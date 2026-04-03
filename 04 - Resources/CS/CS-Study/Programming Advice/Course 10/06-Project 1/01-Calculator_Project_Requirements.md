@@ -17,7 +17,7 @@ Author: "[[abu-hedhoud]]"
 using namespace std;
 
 
-class clsPerson {
+class clsCalculator {
 
     private:
     int _Add = 0;
@@ -85,7 +85,7 @@ class clsPerson {
 
 int main() {
 
-    clsPerson Person;
+    clsCalculator Person;
 
     Person.Clear();
 
@@ -122,11 +122,3 @@ Result After Multiplying 3 is: 135
 ```
 ---
 
-### Abu-hedhoud Input:
-```cpp
-
-```
-Output:
-```
-
-```
