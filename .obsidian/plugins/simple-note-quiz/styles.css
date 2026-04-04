@@ -1,0 +1,33 @@
+.quiz__container {
+    max-height: 80%;
+    overflow: auto;
+    padding: 2%;
+}
+
+.modal-bg {
+    backdrop-filter: blur(6px) !important;
+}
+
+.show-answer-btn {
+    font-size: 24px;
+    flex-grow: 1;
+    opacity: 0.8;
+    margin: 0;
+}
+
+.quiz__container__answer__container {
+    border-top: 1px solid var(--background-modifier-border);
+}
+
+.quiz__container__checkmark__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-top: 1px solid var(--background-modifier-border);
+}
+
+.quiz__container__checkmark__container button{
+    font-size: 24px;
+    flex-grow: 1;
+    border-radius: 15px;
+}

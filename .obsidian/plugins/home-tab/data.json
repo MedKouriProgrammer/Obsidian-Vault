@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "06 - Daily/Daily/2026-04-04.md",
-      "timestamp": 1775299188116
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/02-Copy_Constructors.md",
+      "timestamp": 1775330242084
     },
     {
       "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/01-Constructors.md",
-      "timestamp": 1775299180959
+      "timestamp": 1775330211196
+    },
+    {
+      "filepath": "06 - Daily/Daily/2026-04-04.md",
+      "timestamp": 1775299188116
     }
   ],
   "bookmarkedFileStore": [],
