@@ -33,5 +33,13 @@
       ],
       "key": "Q"
     }
+  ],
+  "minimal-quiz:show-questions-modal": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
   ]
 }
