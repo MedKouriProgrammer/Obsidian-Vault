@@ -1,5 +1,5 @@
 {
   "questionMarkSetting": "?",
   "questionSeparatorSetting": "new-line",
-  "randomizeQuestionSetting": true
+  "randomizeQuestionSetting": false
 }

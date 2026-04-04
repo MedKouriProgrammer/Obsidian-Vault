@@ -6,7 +6,6 @@
   "journals",
   "obsidian-file-color",
   "various-complements",
-  "obsidian-languagetool-plugin",
   "editing-toolbar",
   "obsidian-auto-link-title",
   "templater-obsidian",
@@ -30,5 +29,6 @@
   "heatmap-tracker",
   "obsidian-git",
   "code-styler",
-  "minimal-quiz"
+  "minimal-quiz",
+  "simple-note-quiz"
 ]
