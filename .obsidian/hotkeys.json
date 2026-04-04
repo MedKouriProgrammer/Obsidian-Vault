@@ -25,5 +25,13 @@
       ],
       "key": "T"
     }
+  ],
+  "simple-note-quiz:quiz-current-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
   ]
 }
