@@ -9,3 +9,6 @@ Author: "[[abu-hedhoud]]"
 
 # <font color="#646a73">Copy Constructors</font>
 ---
+
+
+A constructor is a special type of member function that is called automatically when an object is created?
