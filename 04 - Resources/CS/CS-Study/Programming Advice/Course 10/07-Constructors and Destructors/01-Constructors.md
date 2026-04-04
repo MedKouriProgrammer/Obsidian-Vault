@@ -88,3 +88,17 @@ int main() {
     return 0;
 }
 ```
+
+### <font color="#0070c0">Quiz:</font>
+
+- A constructor is a special type of member function that is called automatically when an object is created?
+
+- In C++, a constructor has the same name as that of the class, and it does not have a return type?
+
+- Constructor should? :
+	1- Have the same name of the class.
+	2- Should not return type.
+	3- Should be Public.
+	4- None of the above.
+
+
