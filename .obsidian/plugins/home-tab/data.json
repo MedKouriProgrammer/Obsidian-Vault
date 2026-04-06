@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/08-Static Members and Methods/02-Static_Methods_Functions.md",
+      "timestamp": 1775492062592
+    },
+    {
       "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/08-Static Members and Methods/01-Static_Members.md",
-      "timestamp": 1775488285291
+      "timestamp": 1775488969833
+    },
+    {
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 06 Introduction to Programming Using C++ Level 2/4- More About Variables/Lesson 20 - Static Variables.md",
+      "timestamp": 1775488845882
+    },
+    {
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/11-Static_vs_Dynamic_Binding.md",
+      "timestamp": 1775488831196
     },
     {
       "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/03-Destructors.md",
       "timestamp": 1775487598887
-    },
-    {
-      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/01-Constructors.md",
-      "timestamp": 1775487592847
-    },
-    {
-      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/02-Copy_Constructors.md",
-      "timestamp": 1775487584313
-    },
-    {
-      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 08 Algorithms & Problem Solving Level 4/Project 1.md",
-      "timestamp": 1775487215072
     }
   ],
   "bookmarkedFileStore": [],

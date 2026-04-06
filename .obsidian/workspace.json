@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/08-Static Members and Methods/01-Static_Members.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/08-Static Members and Methods/02-Static_Methods_Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Static_Members"
+              "title": "02-Static_Methods_Functions"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "palindrom",
+                "query": "Static",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/08-Static Members and Methods/01-Static_Members.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/08-Static Members and Methods/02-Static_Methods_Functions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01-Static_Members"
+              "title": "Outline of 02-Static_Methods_Functions"
             }
           },
           {
@@ -231,6 +231,9 @@
   },
   "active": "d6c6a9b223764cde",
   "lastOpenFiles": [
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/08-Static Members and Methods/01-Static_Members.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 06 Introduction to Programming Using C++ Level 2/4- More About Variables/Lesson 20 - Static Variables.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/11-Static_vs_Dynamic_Binding.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/03-Destructors.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/01-Constructors.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/02-Copy_Constructors.md",
@@ -259,9 +262,6 @@
     "06 - Daily/Daily/2026-03-31.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 07 Algorithms & Problem Solving Level 3/Problems From 11 to 20.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 08 Algorithms & Problem Solving Level 4/Problems From 11 to 19.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/02-Classes and Objects/03-Objects_In_Memory.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/01-What is OOP and Why/01-What_is_OOP_and_Why.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/02-Classes and Objects/01-Classes_and_Objects.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/19-Course Completed",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/18-Class vs Structure",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/17-Projects",
