@@ -98,6 +98,24 @@ int main() {
     return 0;
 }
 ```
+Output:
+```
+Address Details:
+------------------------
+AddressLine1: Queen Alia Street
+AddressLine2: B 303
+POBox : 11192
+ZipCode : 5555
+
+Address Details:
+------------------------
+AddressLine1: Queen Alia Street
+AddressLine2: B 303
+POBox : 11192
+ZipCode : 5555
+```
+---
+
 ### <font color="#0070c0">Quiz:</font> 
 - The copy constructor is used to initialize the members of a newly created object by copying the members of an already existing object?
 - True.
