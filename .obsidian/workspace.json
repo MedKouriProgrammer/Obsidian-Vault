@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/03-Destructors.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/08-Static Members and Methods/01-Static_Members.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-Destructors"
+              "title": "01-Static_Members"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/03-Destructors.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/08-Static Members and Methods/01-Static_Members.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03-Destructors"
+              "title": "Outline of 01-Static_Members"
             }
           },
           {
@@ -231,8 +231,8 @@
   },
   "active": "d6c6a9b223764cde",
   "lastOpenFiles": [
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/01-Constructors.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/03-Destructors.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/01-Constructors.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/02-Copy_Constructors.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 08 Algorithms & Problem Solving Level 4/Project 1.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/06-Project 1/02-Calculator_Project_Solution.md",

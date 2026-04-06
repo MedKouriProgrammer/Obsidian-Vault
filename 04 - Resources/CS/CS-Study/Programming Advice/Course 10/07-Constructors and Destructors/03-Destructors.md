@@ -59,6 +59,7 @@ Hi I'am Constractor.
 Hi I'am Destractor.
 ```
 ---
+### <font color="#245bdb">Quiz:</font>
 
 - Destructor is an instance member function which is invoked automatically whenever an object is going to be destroyed. Meaning, a destructor is the last function that is going to be called before an object is destroyed?
 - True

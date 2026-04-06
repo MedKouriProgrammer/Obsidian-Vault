@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/08-Static Members and Methods/01-Static_Members.md",
+      "timestamp": 1775488285291
+    },
+    {
       "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/03-Destructors.md",
       "timestamp": 1775487598887
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 08 Algorithms & Problem Solving Level 4/Project 1.md",
       "timestamp": 1775487215072
-    },
-    {
-      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/06-Project 1/02-Calculator_Project_Solution.md",
-      "timestamp": 1775484358311
     }
   ],
   "bookmarkedFileStore": [],
