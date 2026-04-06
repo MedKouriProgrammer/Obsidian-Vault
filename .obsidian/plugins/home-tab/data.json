@@ -24,8 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "06 - Daily/Daily/2026-04-06.md",
-      "timestamp": 1775481013954
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/02-Copy_Constructors.md",
+      "timestamp": 1775484480461
+    },
+    {
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/01-Constructors.md",
+      "timestamp": 1775484426011
+    },
+    {
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/03-Destructors.md",
+      "timestamp": 1775484394351
+    },
+    {
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/06-Project 1/02-Calculator_Project_Solution.md",
+      "timestamp": 1775484358311
+    },
+    {
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/04-Properties/02-Read_Only_Property.md",
+      "timestamp": 1775484350775
     }
   ],
   "bookmarkedFileStore": [],

@@ -1,5 +1,5 @@
 ---
-creation_date: 2026-03-28
+creation_date: 2026-04-06
 tags:
   - Resources/Articles
 Author: "[[abu-hedhoud]]"
@@ -15,8 +15,8 @@ Author: "[[abu-hedhoud]]"
 using namespace std;
 
 
-class clsAddress
-{
+class clsAddress {
+
     private:
     string _AddressLine1;
     string _AddressLine2;

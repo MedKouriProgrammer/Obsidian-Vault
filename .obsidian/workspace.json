@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a9dcccf77edc648",
+            "id": "d6c6a9b223764cde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/Daily/2026-04-06.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/02-Copy_Constructors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-06"
+              "title": "02-Copy_Constructors"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Daily/Daily/2026-04-06.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/02-Copy_Constructors.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-04-06"
+              "title": "Outline of 02-Copy_Constructors"
             }
           },
           {
@@ -229,15 +229,18 @@
       "simple-note-quiz:Quiz you note": false
     }
   },
-  "active": "8a9dcccf77edc648",
+  "active": "d6c6a9b223764cde",
   "lastOpenFiles": [
-    "06 - Daily/Daily/2026-04-05.md",
-    "06 - Daily/Daily/2026-04-06.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/02-Copy_Constructors.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/01-Constructors.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/02-Copy_Constructors.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/03-Destructors.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/06-Project 1/02-Calculator_Project_Solution.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/04-Properties/02-Read_Only_Property.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 08 Algorithms & Problem Solving Level 4/Problems From 1 to 10.md",
+    "06 - Daily/Daily/2026-04-06.md",
+    "06 - Daily/Daily/2026-04-05.md",
     "06 - Daily/Daily/2026-04-04.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/06-Project 1/01-Calculator_Project_Requirements.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/06-Project 1/02-Calculator_Project_Solution.md",
     "06 - Daily/Daily/2026-04-03.md",
     "06 - Daily/Daily/2026-04-02.md",
     "99 - Meta/99 - Attachment/Pasted image 20260402210951.png",
@@ -249,19 +252,16 @@
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/05-Encapsulation and Abstraction/01-First_Principle_Encapsulation.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/04-Properties/03-Properties_Set_and_Get_through_equals.md",
     "06 - Daily/Daily/2026-04-01.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/04-Properties/02-Read_Only_Property.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/03-Access Specifiers/01-Access_Specifiers_Modifiers.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/04-Properties/01-Properties_Set_and_Get.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 08 Algorithms & Problem Solving Level 4/Problems From 56 to 65.md",
     "06 - Daily/Daily/2026-03-31.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 07 Algorithms & Problem Solving Level 3/Problems From 11 to 20.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 08 Algorithms & Problem Solving Level 4/Problems From 1 to 10.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 08 Algorithms & Problem Solving Level 4/Problems From 11 to 19.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/02-Classes and Objects/03-Objects_In_Memory.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/01-What is OOP and Why/01-What_is_OOP_and_Why.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/02-Classes and Objects/01-Classes_and_Objects.md",
     "06 - Daily/Daily/2026-03-30.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 03 c++ level 1/lesson 19 - ranges & sizes of datatypes.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/19-Course Completed",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/18-Class vs Structure",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/17-Projects",
