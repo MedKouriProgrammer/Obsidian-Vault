@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/09-Exercises and Homework/01-Person_Exercise_Requirements.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/09-Exercises and Homework/03-Homework_Employee_Exercise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Person_Exercise_Requirements"
+              "title": "03-Homework_Employee_Exercise"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/09-Exercises and Homework/01-Person_Exercise_Requirements.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/09-Exercises and Homework/03-Homework_Employee_Exercise.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01-Person_Exercise_Requirements"
+              "title": "Outline of 03-Homework_Employee_Exercise"
             }
           },
           {
@@ -231,8 +231,11 @@
   },
   "active": "bed39d5c04ad1a04",
   "lastOpenFiles": [
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/01-Constructors.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/09-Exercises and Homework/01-Person_Exercise_Requirements.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/09-Exercises and Homework/02-Person_Exercise_Solution.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/09-Exercises and Homework/03-Homework_Employee_Exercise.md",
+    "99 - Meta/99 - Attachment/Pasted image 20260407203634.png",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/01-Constructors.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/03-Destructors.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/02-Copy_Constructors.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/04-Properties/03-Properties_Set_and_Get_through_equals.md",
@@ -241,8 +244,6 @@
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/08-Static Members and Methods/02-Static_Methods_Functions.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/08-Static Members and Methods/01-Static_Members.md",
     "99 - Meta/99 - Attachment/Pasted image 20260407173137.png",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/09-Exercises and Homework/02-Person_Exercise_Solution.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/09-Exercises and Homework/03-Homework_Employee_Exercise.md",
     "06 - Daily/Daily/2026-04-07.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 06 Introduction to Programming Using C++ Level 2/4- More About Variables/Lesson 20 - Static Variables.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/11-Static_vs_Dynamic_Binding.md",
@@ -262,7 +263,6 @@
     "99 - Meta/99 - Attachment/Pasted image 20260402202720.png",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/05-Encapsulation and Abstraction/02-Second_Principle_Abstraction.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/05-Encapsulation and Abstraction/01-First_Principle_Encapsulation.md",
-    "06 - Daily/Daily/2026-04-01.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/19-Course Completed",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/18-Class vs Structure",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/17-Projects",
@@ -276,7 +276,6 @@
     "99 - Meta/99 - Attachment/Screenshot_20260323-151426_Moon+ Reader Pro.jpg",
     "99 - Meta/99 - Attachment/Screenshot_20260323-151423_Moon+ Reader Pro.jpg",
     "99 - Meta/99 - Attachment/Screenshot_20260323-151419_Moon+ Reader Pro.jpg",
-    "99 - Meta/99 - Attachment/Screenshot_20260323-151415_Moon+ Reader Pro.jpg",
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Untitled.canvas",
     "04 - Resources/CS/CS-Study/Programming advices/Course 7 Algorithms & Problem Solving Level 3/Untitled.canvas",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 02 Algorithm & solving problems l.1/Problem 10 - Average of 3 Marks.canvas",

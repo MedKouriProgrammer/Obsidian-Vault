@@ -9,4 +9,4 @@ Author: "[[abu-hedhoud]]"
 
 # <font color="#646a73">Homework Employee Exercise</font>
 ---
-
+![[Pasted image 20260407203634.png]]
