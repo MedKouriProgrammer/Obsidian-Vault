@@ -37,6 +37,56 @@ class clsPersone {
         _Phone = Phone;
     }
 
+    int ID() {
+        return _ID;
+    }
+
+    string SetFirstName(string FirstName) {
+        return _FirstName = FirstName;
+    }
+    string FirstName() {
+        return _FirstName;
+    }
+
+    string SetLastName(string LastName) {
+        return _LastName = LastName;
+    }
+    string LastName() {
+        return _LastName;
+    }
+
+    string FullName() {
+        return _FirstName + " " + _LastName;
+    }
+
+    string SetEmail(string Email) {
+        return _Email + Email;
+    }
+
+    string Email() {
+        return _Email;
+    }
+
+    string SetPhone(string Phone) {
+        return _Phone = Phone;
+    } 
+    string Phone() {
+        return _Phone;
+    }
+    
+    void Print() {
+
+        cout << "\nInfo:";
+        cout << "\n________________________";
+        cout << "\nID       : " << _ID;
+        cout << "\nFirstName: " << _FirstName;
+        cout << "\nLastName : " << _LastName;
+        cout << "\nFullName : " << FullName();
+        cout << "\nEmail    : " << _Email;
+        cout << "\nPhone    : " << _Phone;
+        cout << "\n________________________" << endl;
+    }
+
     void SendEmail(string Subject, string Body) {
 
         cout << "\nThe following email send successfully to email: " << _Email;
@@ -48,19 +98,6 @@ class clsPersone {
 
         cout << "\nThe following message send successfully to Phone: " << _Phone;
         cout << "\nSubject: " << Subject << endl;
-    }
-    
-    void Print() {
-
-        cout << "\nInfo:";
-        cout << "\n________________________";
-        cout << "\nID       : " << _ID;
-        cout << "\nFirstName: " << _FirstName;
-        cout << "\nLastName : " << _LastName;
-        cout << "\nFullName : " << _FullName;
-        cout << "\nEmail    : " << _Email;
-        cout << "\nPhone    : " << _Phone;
-        cout << "\n________________________" << endl;
     }
 
 };
@@ -94,12 +131,4 @@ Body   : How are you
 
 The following message send successfully to Phone: 06213547
 Subject: How are you
-```
-### Abu-Hedhoud Input:
-```cpp
-
-```
-Output:
-```
-
 ```
