@@ -1,8 +1,5 @@
-
-
-
 ---
-creation_date: 2026-03-28
+creation_date: 2026-04-07
 tags:
   - Resources/Articles
 Author: "[[abu-hedhoud]]"
@@ -59,7 +56,7 @@ Output:
 - Static Functions can be called at class level without a need to have an object?
 - True
 
-- Static Functions can not be called through object?
+- Functions can not be called through object?
 - False
 
 - Static Functions can be called through any object as well as through the class itself?

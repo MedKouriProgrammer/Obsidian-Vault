@@ -10,7 +10,7 @@ Author: "[[abu-hedhoud]]"
 # <font color="#646a73">Properties Set and Get</font>
 ---
 
-### <font color="#ffc000">Inpurt:</font>
+### <font color="#ffc000">Input:</font>
 ```cpp
 #include <iostream>
 using namespace std;
