@@ -24,24 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "06 - Daily/Daily/2026-04-07.md",
+      "timestamp": 1775567127788
+    },
+    {
       "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/09-Exercises and Homework/01-Person_Exercise_Requirements.md",
-      "timestamp": 1775494436388
-    },
-    {
-      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/08-Static Members and Methods/02-Static_Methods_Functions.md",
-      "timestamp": 1775492062592
-    },
-    {
-      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/08-Static Members and Methods/01-Static_Members.md",
-      "timestamp": 1775488969833
-    },
-    {
-      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 06 Introduction to Programming Using C++ Level 2/4- More About Variables/Lesson 20 - Static Variables.md",
-      "timestamp": 1775488845882
-    },
-    {
-      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/11-Static_vs_Dynamic_Binding.md",
-      "timestamp": 1775488831196
+      "timestamp": 1775567123526
     }
   ],
   "bookmarkedFileStore": [],
