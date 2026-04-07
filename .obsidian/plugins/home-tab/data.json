@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/09-Exercises and Homework/01-Person_Exercise_Requirements.md",
+      "timestamp": 1775582309158
+    },
+    {
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/01-Constructors.md",
+      "timestamp": 1775582282488
+    },
+    {
       "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/03-Destructors.md",
       "timestamp": 1775580230256
     },
@@ -32,16 +40,8 @@
       "timestamp": 1775580220322
     },
     {
-      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/01-Constructors.md",
-      "timestamp": 1775580196608
-    },
-    {
       "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/04-Properties/03-Properties_Set_and_Get_through_equals.md",
       "timestamp": 1775580005792
-    },
-    {
-      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/04-Properties/02-Read_Only_Property.md",
-      "timestamp": 1775579963356
     }
   ],
   "bookmarkedFileStore": [],
