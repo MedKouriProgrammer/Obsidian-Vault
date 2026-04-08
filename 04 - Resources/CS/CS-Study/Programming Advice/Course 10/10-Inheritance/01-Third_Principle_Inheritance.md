@@ -9,7 +9,7 @@ Author: "[[abu-hedhoud]]"
 
 # <font color="#646a73">Third Principle Inheritance</font>
 ---
-
+### <font color="#c9c441">Input:</font>
 ```cpp
 #include <iostream>
 using namespace std;
