@@ -9,4 +9,4 @@ Author: "[[abu-hedhoud]]"
 
 # <font color="#646a73">Homework Developer Exercise</font>
 ---
-
+![[Pasted image 20260408181710.png]]

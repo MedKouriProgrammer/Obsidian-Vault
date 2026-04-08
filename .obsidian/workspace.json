@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/02-Parameterized_Constructor.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/04-Homework_Developer_Exercise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-Parameterized_Constructor"
+              "title": "04-Homework_Developer_Exercise"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/02-Parameterized_Constructor.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/04-Homework_Developer_Exercise.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 02-Parameterized_Constructor"
+              "title": "Outline of 04-Homework_Developer_Exercise"
             }
           },
           {
@@ -231,8 +231,11 @@
   },
   "active": "bed39d5c04ad1a04",
   "lastOpenFiles": [
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/09-Exercises and Homework/02-Person_Exercise_Solution.md",
+    "99 - Meta/99 - Attachment/Pasted image 20260408181710.png",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/03-Function_Overriding.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/04-Homework_Developer_Exercise.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/02-Parameterized_Constructor.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/09-Exercises and Homework/02-Person_Exercise_Solution.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/01-Third_Principle_Inheritance.md",
     "06 - Daily/Daily/2026-04-08.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/09-Exercises and Homework/03-Homework_Employee_Exercise.md",
@@ -256,9 +259,6 @@
     "06 - Daily/Daily/2026-04-06.md",
     "06 - Daily/Daily/2026-04-05.md",
     "06 - Daily/Daily/2026-04-04.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/06-Project 1/01-Calculator_Project_Requirements.md",
-    "06 - Daily/Daily/2026-04-03.md",
-    "06 - Daily/Daily/2026-04-02.md",
     "99 - Meta/99 - Attachment/Pasted image 20260402210951.png",
     "99 - Meta/99 - Attachment/Pasted image 20260402210918.png",
     "99 - Meta/99 - Attachment/Pasted image 20260402210746.png",
