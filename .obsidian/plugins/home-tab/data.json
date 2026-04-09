@@ -24,16 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/07-Inheritance_Visibility_Modes.md",
-      "timestamp": 1775749858103
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/09-Up_Casting_vs_Down_Casting.md",
+      "timestamp": 1775750969645
+    },
+    {
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/04-Homework_Developer_Exercise.md",
+      "timestamp": 1775750964482
+    },
+    {
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/05-Multi_Level_Inheritance.md",
+      "timestamp": 1775750959173
+    },
+    {
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/08-Inheritance_Types.md",
+      "timestamp": 1775750942728
     },
     {
       "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/06-Access_Specifiers_Review.md",
-      "timestamp": 1775743542431
-    },
-    {
-      "filepath": "06 - Daily/Daily/2026-04-09.md",
-      "timestamp": 1775737852493
+      "timestamp": 1775750907445
     }
   ],
   "bookmarkedFileStore": [],
