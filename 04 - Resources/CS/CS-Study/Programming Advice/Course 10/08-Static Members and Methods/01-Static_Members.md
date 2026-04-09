@@ -8,7 +8,7 @@ Author:
 > 
 
 # <font color="#646a73">Static Members</font>
----
+3
 
 ### <font color="#c9c441">Input:</font>
 ```cpp
