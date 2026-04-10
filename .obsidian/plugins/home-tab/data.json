@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/12-Friend Classes and Functions/01-Friend_Classes.md",
+      "timestamp": 1775845487351
+    },
+    {
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/12-Friend Classes and Functions/02-Friend_Function.md",
+      "timestamp": 1775845484998
+    },
+    {
       "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/11-Polymorphism/02-Interfaces_and_Abstract_Classes.md",
-      "timestamp": 1775840377123
+      "timestamp": 1775845257472
     },
     {
       "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/11-Polymorphism/01-Fourth_Principle_Polymorphism.md",
@@ -34,14 +42,6 @@
     {
       "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/11-Static_vs_Dynamic_Binding.md",
       "timestamp": 1775830553186
-    },
-    {
-      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/10-Virtual_Functions.md",
-      "timestamp": 1775830520489
-    },
-    {
-      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/09-Up_Casting_vs_Down_Casting.md",
-      "timestamp": 1775830461326
     }
   ],
   "bookmarkedFileStore": [],
