@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d20d35f690044d87",
+            "id": "ea4211089e7d7c57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "06 - Daily/Daily/2026-04-10.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -229,8 +229,9 @@
       "simple-note-quiz:Quiz you note": false
     }
   },
-  "active": "d20d35f690044d87",
+  "active": "ea4211089e7d7c57",
   "lastOpenFiles": [
+    "06 - Daily/Daily/2026-04-10.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/12-Friend Classes and Functions/01-Friend_Classes.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/12-Friend Classes and Functions/02-Friend_Function.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/11-Polymorphism/02-Interfaces_and_Abstract_Classes.md",
@@ -238,7 +239,6 @@
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/11-Static_vs_Dynamic_Binding.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/10-Virtual_Functions.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/09-Up_Casting_vs_Down_Casting.md",
-    "06 - Daily/Daily/2026-04-10.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/08-Static Members and Methods/01-Static_Members.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/04-Homework_Developer_Exercise.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/05-Multi_Level_Inheritance.md",
