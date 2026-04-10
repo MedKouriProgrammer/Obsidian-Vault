@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/12-Friend Classes and Functions/01-Friend_Classes.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/12-Friend Classes and Functions/02-Friend_Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Friend_Classes"
+              "title": "02-Friend_Function"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/12-Friend Classes and Functions/01-Friend_Classes.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/12-Friend Classes and Functions/02-Friend_Function.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01-Friend_Classes"
+              "title": "Outline of 02-Friend_Function"
             }
           },
           {
@@ -231,8 +231,8 @@
   },
   "active": "d20d35f690044d87",
   "lastOpenFiles": [
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/12-Friend Classes and Functions/02-Friend_Function.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/12-Friend Classes and Functions/01-Friend_Classes.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/12-Friend Classes and Functions/02-Friend_Function.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/11-Polymorphism/02-Interfaces_and_Abstract_Classes.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/11-Polymorphism/01-Fourth_Principle_Polymorphism.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/11-Static_vs_Dynamic_Binding.md",
