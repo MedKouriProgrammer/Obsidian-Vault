@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/Daily/2026-04-11.md",
-                "mode": "preview",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/13-Miscellaneous 1/02-Nested_Classes.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-11"
+              "title": "02-Nested_Classes"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Daily/Daily/2026-04-11.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/13-Miscellaneous 1/02-Nested_Classes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-04-11"
+              "title": "Outline of 02-Nested_Classes"
             }
           },
           {
@@ -231,13 +231,14 @@
   },
   "active": "6a9640d7b5b65603",
   "lastOpenFiles": [
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/06-Project 1/02-Calculator_Project_Solution.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/13-Miscellaneous 1/01-Structure_Inside_Class.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/11-Polymorphism/02-Interfaces_and_Abstract_Classes.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/12-Friend Classes and Functions/02-Friend_Function.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/12-Friend Classes and Functions/01-Friend_Classes.md",
     "06 - Daily/Daily/2026-04-11.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/06-Project 1/02-Calculator_Project_Solution.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/01-What is OOP and Why/01-What_is_OOP_and_Why.md",
     "06 - Daily/Daily/2026-04-10.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/12-Friend Classes and Functions/01-Friend_Classes.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/12-Friend Classes and Functions/02-Friend_Function.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/11-Polymorphism/02-Interfaces_and_Abstract_Classes.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/11-Polymorphism/01-Fourth_Principle_Polymorphism.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/11-Static_vs_Dynamic_Binding.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/10-Virtual_Functions.md",
@@ -257,7 +258,6 @@
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/01-Third_Principle_Inheritance.md",
     "06 - Daily/Daily/2026-04-08.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/09-Exercises and Homework/03-Homework_Employee_Exercise.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/09-Exercises and Homework/01-Person_Exercise_Requirements.md",
     "99 - Meta/99 - Attachment/Pasted image 20260407203634.png",
     "99 - Meta/99 - Attachment/Pasted image 20260407173137.png",
     "99 - Meta/99 - Attachment/Pasted image 20260402210951.png",
