@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/13-Miscellaneous 1/02-Nested_Classes.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/13-Miscellaneous 1/03-Nested_Classes_Homework_Solution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-Nested_Classes"
+              "title": "03-Nested_Classes_Homework_Solution"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/13-Miscellaneous 1/02-Nested_Classes.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/13-Miscellaneous 1/03-Nested_Classes_Homework_Solution.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 02-Nested_Classes"
+              "title": "Outline of 03-Nested_Classes_Homework_Solution"
             }
           },
           {
@@ -231,7 +231,9 @@
   },
   "active": "6a9640d7b5b65603",
   "lastOpenFiles": [
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/13-Miscellaneous 1/02-Nested_Classes.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/13-Miscellaneous 1/01-Structure_Inside_Class.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/01-Constructors.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/11-Polymorphism/02-Interfaces_and_Abstract_Classes.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/12-Friend Classes and Functions/02-Friend_Function.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/12-Friend Classes and Functions/01-Friend_Classes.md",
@@ -256,8 +258,6 @@
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/02-Parameterized_Constructor.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/09-Exercises and Homework/02-Person_Exercise_Solution.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/01-Third_Principle_Inheritance.md",
-    "06 - Daily/Daily/2026-04-08.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/09-Exercises and Homework/03-Homework_Employee_Exercise.md",
     "99 - Meta/99 - Attachment/Pasted image 20260407203634.png",
     "99 - Meta/99 - Attachment/Pasted image 20260407173137.png",
     "99 - Meta/99 - Attachment/Pasted image 20260402210951.png",
