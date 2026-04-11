@@ -81,3 +81,5 @@ Jordan
 - The members of an enclosing class have no special access to members of a nested class; the usual access rules shall be obeyed?
 - True
 
+---
+### Requirement: Make a constractor into inner class, And Read it into the clsPersone Container: [[03-Nested_Classes_Homework_Solution]]
