@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/Daily/2026-04-12.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/08-Static Members and Methods/02-Static_Methods_Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-12"
+              "title": "02-Static_Methods_Functions"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Daily/Daily/2026-04-12.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/08-Static Members and Methods/02-Static_Methods_Functions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-04-12"
+              "title": "Outline of 02-Static_Methods_Functions"
             }
           },
           {
@@ -231,7 +231,10 @@
   },
   "active": "6a9640d7b5b65603",
   "lastOpenFiles": [
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/08-Static Members and Methods/01-Static_Members.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/14-Organizing Code/01-Separate_Classes_In_Libraries.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/13-Miscellaneous 1/03-Nested_Classes_Homework_Solution.md",
+    "06 - Daily/Daily/2026-04-13.md",
     "06 - Daily/Daily/2026-04-12.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/13-Miscellaneous 1/02-Nested_Classes.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/01-Constructors.md",
@@ -247,7 +250,6 @@
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/11-Static_vs_Dynamic_Binding.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/10-Virtual_Functions.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/09-Up_Casting_vs_Down_Casting.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/08-Static Members and Methods/01-Static_Members.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/04-Homework_Developer_Exercise.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/05-Multi_Level_Inheritance.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/08-Inheritance_Types.md",
@@ -256,8 +258,6 @@
     "06 - Daily/Daily/2026-04-09.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/03-Access Specifiers/01-Access_Specifiers_Modifiers.md",
     "99 - Meta/99 - Attachment/Pasted image 20260408181710.png",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/03-Function_Overriding.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/02-Parameterized_Constructor.md",
     "99 - Meta/99 - Attachment/Pasted image 20260407203634.png",
     "99 - Meta/99 - Attachment/Pasted image 20260407173137.png",
     "99 - Meta/99 - Attachment/Pasted image 20260402210951.png",

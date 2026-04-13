@@ -24,8 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "06 - Daily/Daily/2026-04-12.md",
-      "timestamp": 1776079507230
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/08-Static Members and Methods/02-Static_Methods_Functions.md",
+      "timestamp": 1776082979032
+    },
+    {
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/08-Static Members and Methods/01-Static_Members.md",
+      "timestamp": 1776082936573
+    },
+    {
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/14-Organizing Code/01-Separate_Classes_In_Libraries.md",
+      "timestamp": 1776082709520
+    },
+    {
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/13-Miscellaneous 1/03-Nested_Classes_Homework_Solution.md",
+      "timestamp": 1776082683816
+    },
+    {
+      "filepath": "06 - Daily/Daily/2026-04-13.md",
+      "timestamp": 1776079512766
     }
   ],
   "bookmarkedFileStore": [],
