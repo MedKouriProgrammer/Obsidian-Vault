@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/16-Miscellaneous 2/02-Objects_and_Vectors.md",
+      "timestamp": 1776089291840
+    },
+    {
       "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/16-Miscellaneous 2/01-Passing_Objects.md",
       "timestamp": 1776086052183
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/08-Static Members and Methods/02-Static_Methods_Functions.md",
       "timestamp": 1776084257026
-    },
-    {
-      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/08-Static Members and Methods/01-Static_Members.md",
-      "timestamp": 1776083396065
     }
   ],
   "bookmarkedFileStore": [],

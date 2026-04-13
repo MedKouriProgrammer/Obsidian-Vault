@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/16-Miscellaneous 2/01-Passing_Objects.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/16-Miscellaneous 2/02-Objects_and_Vectors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Passing_Objects"
+              "title": "02-Objects_and_Vectors"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/16-Miscellaneous 2/01-Passing_Objects.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/16-Miscellaneous 2/02-Objects_and_Vectors.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01-Passing_Objects"
+              "title": "Outline of 02-Objects_and_Vectors"
             }
           },
           {
@@ -231,6 +231,7 @@
   },
   "active": "6a9640d7b5b65603",
   "lastOpenFiles": [
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/16-Miscellaneous 2/01-Passing_Objects.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/15-this Pointer in C++/01-What_is_this_Pointer.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/14-Organizing Code/01-Separate_Classes_In_Libraries.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/08-Static Members and Methods/02-Static_Methods_Functions.md",
@@ -256,7 +257,6 @@
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/04-Homework_Developer_Exercise.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/05-Multi_Level_Inheritance.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/08-Inheritance_Types.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/06-Access_Specifiers_Review.md",
     "99 - Meta/99 - Attachment/Pasted image 20260408181710.png",
     "99 - Meta/99 - Attachment/Pasted image 20260407203634.png",
     "99 - Meta/99 - Attachment/Pasted image 20260407173137.png",
