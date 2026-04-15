@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/Daily/2026-04-13.md",
+                "file": "06 - Daily/Daily/2026-04-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-13"
+              "title": "2026-04-15"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Daily/Daily/2026-04-13.md",
+                "file": "06 - Daily/Daily/2026-04-15.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-04-13"
+              "title": "Outline of 2026-04-15"
             }
           },
           {
@@ -231,8 +231,10 @@
   },
   "active": "6a9640d7b5b65603",
   "lastOpenFiles": [
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/16-Miscellaneous 2/02-Objects_and_Vectors.md",
+    "06 - Daily/Daily/2026-04-14.md",
+    "06 - Daily/Daily/2026-04-15.md",
     "06 - Daily/Daily/2026-04-13.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/16-Miscellaneous 2/02-Objects_and_Vectors.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/16-Miscellaneous 2/01-Passing_Objects.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/15-this Pointer in C++/01-What_is_this_Pointer.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/14-Organizing Code/01-Separate_Classes_In_Libraries.md",
@@ -255,8 +257,6 @@
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/11-Static_vs_Dynamic_Binding.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/10-Virtual_Functions.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/09-Up_Casting_vs_Down_Casting.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/04-Homework_Developer_Exercise.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/10-Inheritance/05-Multi_Level_Inheritance.md",
     "99 - Meta/99 - Attachment/Pasted image 20260408181710.png",
     "99 - Meta/99 - Attachment/Pasted image 20260407203634.png",
     "99 - Meta/99 - Attachment/Pasted image 20260407173137.png",
