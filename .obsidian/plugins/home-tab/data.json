@@ -24,8 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "06 - Daily/Daily/2026-04-17.md",
-      "timestamp": 1776510390390
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/16-Miscellaneous 2/04-Objects_with_Parameterized_Constructor.md",
+      "timestamp": 1776513863095
+    },
+    {
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/16-Miscellaneous 2/03-Objects_and_Dynamic_Array.md",
+      "timestamp": 1776513553901
+    },
+    {
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/16-Miscellaneous 2/02-Objects_and_Vectors.md",
+      "timestamp": 1776513402950
+    },
+    {
+      "filepath": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/16-Miscellaneous 2/01-Passing_Objects.md",
+      "timestamp": 1776511845069
+    },
+    {
+      "filepath": "06 - Daily/Daily/2026-04-18.md",
+      "timestamp": 1776510409033
     }
   ],
   "bookmarkedFileStore": [],
