@@ -9,7 +9,7 @@ Author: "[[abu-hedhoud]]"
 
 # <font color="#646a73">Inheritance Types</font>
 ---
-
+![[Screenshot_20260420-141019_Moon+ Reader Pro.jpg]]
 
 ---
 ### <font color="#245bdb">Quiz:</font>

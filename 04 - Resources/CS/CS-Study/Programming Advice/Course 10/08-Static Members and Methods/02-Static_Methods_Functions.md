@@ -9,6 +9,10 @@ Author: "[[abu-hedhoud]]"
 
 # <font color="#646a73">Static Methods Functions</font>
 ---
+![[Screenshot_20260420-140844_Moon+ Reader Pro.jpg]]
+![[Screenshot_20260420-140847_Moon+ Reader Pro.jpg]]
+
+---
 ### <font color="#c9c441">Input:</font>
 ```cpp
 #include <iostream>

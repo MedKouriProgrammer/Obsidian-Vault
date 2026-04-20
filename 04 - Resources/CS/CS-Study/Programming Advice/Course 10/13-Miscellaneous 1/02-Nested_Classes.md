@@ -9,7 +9,6 @@ Author: "[[abu-hedhoud]]"
 
 # <font color="#646a73">Nested Classes</font>
 ---
-
 ### <font color="#c9c441">Input:</font>
 ```cpp
 #include<iostream>

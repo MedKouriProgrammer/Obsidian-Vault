@@ -9,6 +9,12 @@ Author: "[[abu-hedhoud]]"
 
 # <font color="#646a73">Person Exercise Solution</font>
 ---
+![[Screenshot_20260420-140855_Moon+ Reader Pro.jpg]]
+
+![[Screenshot_20260420-140858_Moon+ Reader Pro.jpg]]
+![[Screenshot_20260420-140901_Moon+ Reader Pro.jpg]]
+
+---
 ### <font color="#c9c441">My Input:</font>
 ```cpp
 #include <iostream>

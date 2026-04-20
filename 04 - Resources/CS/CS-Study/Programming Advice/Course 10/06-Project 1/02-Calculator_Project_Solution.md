@@ -10,6 +10,11 @@ Author: "[[abu-hedhoud]]"
 # <font color="#646a73">Calculator Project Solution</font>
 ---
 ### Requirement Link: [[01-Calculator_Project_Requirements]]
+---
+![[Screenshot_20260420-140750_Moon+ Reader Pro.jpg]]
+![[Screenshot_20260420-140754_Moon+ Reader Pro.jpg]]
+
+---
 #### Abu-Hedhoud Input:
 ```cpp
 #include <iostream>

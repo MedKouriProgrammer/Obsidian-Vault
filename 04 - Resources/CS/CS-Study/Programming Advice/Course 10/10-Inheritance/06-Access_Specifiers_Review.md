@@ -9,7 +9,11 @@ Author: "[[abu-hedhoud]]"
 
 # <font color="#646a73">Access Specifiers Review</font>
 ---
+![[Screenshot_20260420-140953_Moon+ Reader Pro.jpg]]
+![[Screenshot_20260420-140956_Moon+ Reader Pro.jpg]]
+![[Screenshot_20260420-140958_Moon+ Reader Pro.jpg]]
 
+---
 ### <font color="#c9c441">Input:</font>
 ```cpp
 #include <iostream>

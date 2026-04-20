@@ -9,7 +9,13 @@ Author: "[[abu-hedhoud]]"
 
 # <font color="#646a73">Inheritance Visibility Modes</font>
 ---
+![[Screenshot_20260420-141001_Moon+ Reader Pro.jpg]]
+![[Screenshot_20260420-141007_Moon+ Reader Pro.jpg]]
+![[Screenshot_20260420-141010_Moon+ Reader Pro.jpg]]
+![[Screenshot_20260420-141012_Moon+ Reader Pro.jpg]]
+![[Screenshot_20260420-141016_Moon+ Reader Pro.jpg]]
 
+---
 ### <font color="#c9c441">Input:</font>
 ```cpp
 #include <iostream>

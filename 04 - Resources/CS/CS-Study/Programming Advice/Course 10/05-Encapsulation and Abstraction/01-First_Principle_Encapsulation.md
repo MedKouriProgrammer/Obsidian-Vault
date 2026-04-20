@@ -9,4 +9,4 @@ Author: "[[abu-hedhoud]]"
 
 # <font color="#646a73">First Principle Encapsulation</font>
 ---
-
+![[Screenshot_20260420-140726_Moon+ Reader Pro.jpg]]

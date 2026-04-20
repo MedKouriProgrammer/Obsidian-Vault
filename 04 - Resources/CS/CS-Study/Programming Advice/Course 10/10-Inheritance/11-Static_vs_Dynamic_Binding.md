@@ -9,6 +9,10 @@ Author: "[[abu-hedhoud]]"
 
 # <font color="#646a73">Static vs Dynamic Binding</font>
 ---
+![[Screenshot_20260420-141035_Moon+ Reader Pro.jpg]]
+![[Screenshot_20260420-141038_Moon+ Reader Pro.jpg]]
+
+---
 ### <font color="#c9c441">Input:</font> 
 ```cpp
 #include <iostream>

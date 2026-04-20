@@ -9,6 +9,9 @@ Author: "[[abu-hedhoud]]"
 
 # <font color="#646a73">What is this Pointer</font>
 ---
+![[Screenshot_20260420-141135_Moon+ Reader Pro.jpg]]
+![[Screenshot_20260420-141138_Moon+ Reader Pro.jpg]]
+![[Screenshot_20260420-141129_Moon+ Reader Pro.jpg]]
 
 ___
 ### <font color="#245bdb">Quiz:</font>

@@ -9,8 +9,11 @@ Author: "[[abu-hedhoud]]"
 
 # <font color="#646a73">Classes and Objects</font>
 ---
+![[Screenshot_20260420-140639_Moon+ Reader Pro.jpg]]
+![[Screenshot_20260420-140643_Moon+ Reader Pro.jpg]]
+![[Screenshot_20260420-140646_Moon+ Reader Pro.jpg]]
 
-
+---
 ### <font color="#ffff00">Input: </font>
 ```cpp
 #include <iostream>

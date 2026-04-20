@@ -9,7 +9,11 @@ Author: "[[abu-hedhoud]]"
 
 # <font color="#646a73">Up Casting vs Down Casting</font>
 ---
+![[Screenshot_20260420-141022_Moon+ Reader Pro.jpg]]
+![[Screenshot_20260420-141026_Moon+ Reader Pro.jpg]]
 
+
+---
 ### <font color="#c9c441">Input:</font>
 ```cpp
 #include <iostream>

@@ -10,7 +10,11 @@ Author: "[[abu-hedhoud]]"
 # <font color="#646a73">Nested Classes Homework Solution</font>
 ---
 ### **The following code will show you how to initiate an inner-class using constructor:**
+---
+![[Screenshot_20260420-141123_Moon+ Reader Pro.jpg]]
+![[Screenshot_20260420-141126_Moon+ Reader Pro.jpg]]
 
+---
 ### <font color="#c9c441">Input:</font>
 ```cpp
 #include<iostream>

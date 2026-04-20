@@ -9,7 +9,9 @@ Author: "[[abu-hedhoud]]"
 
 # <font color="#646a73">Read Only Property</font>
 ---
+![[Screenshot_20260420-140720_Moon+ Reader Pro.jpg]]
 
+---
 ### <font color="#ffc000">Input: </font>
 ```cpp
 #include <iostream>

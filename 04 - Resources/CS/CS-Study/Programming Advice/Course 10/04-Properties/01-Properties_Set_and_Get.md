@@ -9,7 +9,11 @@ Author: "[[abu-hedhoud]]"
 
 # <font color="#646a73">Properties Set and Get</font>
 ---
+![[Screenshot_20260420-140709_Moon+ Reader Pro.jpg]]
+![[Screenshot_20260420-140712_Moon+ Reader Pro.jpg]]
+![[Screenshot_20260420-140717_Moon+ Reader Pro.jpg]]
 
+---
 ### <font color="#ffc000">Input:</font>
 ```cpp
 #include <iostream>

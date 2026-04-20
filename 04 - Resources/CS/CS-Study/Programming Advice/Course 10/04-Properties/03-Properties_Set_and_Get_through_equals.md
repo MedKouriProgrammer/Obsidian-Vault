@@ -9,8 +9,9 @@ Author: "[[abu-hedhoud]]"
 
 # <font color="#646a73">Properties Set and Get through equals</font>
 ---
+![[Screenshot_20260420-140723_Moon+ Reader Pro.jpg]]
 
-
+---
 ### <font color="#ffc000">Input:</font>
 ```cpp
 #include <iostream>

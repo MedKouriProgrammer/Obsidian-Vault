@@ -9,7 +9,10 @@ Author: "[[abu-hedhoud]]"
 
 # <font color="#646a73">Virtual Functions</font>
 ---
+![[Screenshot_20260420-141029_Moon+ Reader Pro.jpg]]
+![[Screenshot_20260420-141032_Moon+ Reader Pro.jpg]]
 
+---
 ### <font color="#c9c441">Input:</font>
 ```cpp
 #include <iostream>

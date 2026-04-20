@@ -9,7 +9,10 @@ Author: "[[abu-hedhoud]]"
 
 # <font color="#646a73">Copy Constructors</font>
 ---
+![[Screenshot_20260420-140810_Moon+ Reader Pro.jpg]]
+![[Screenshot_20260420-140815_Moon+ Reader Pro.jpg]]
 
+---
 ### <font color="#c9c441">Input:</font>
 ```cpp
 #include <iostream>

@@ -9,6 +9,7 @@ Author: "[[abu-hedhoud]]"
 
 # <font color="#646a73">Fourth Principle Polymorphism</font>
 ---
+![[Screenshot_20260420-141042_Moon+ Reader Pro.jpg]]
 
 ---
 ### <font color="#245bdb">Quiz:</font>

@@ -9,7 +9,9 @@ Author: "[[abu-hedhoud]]"
 
 # <font color="#646a73">Parameterized Constructor</font>
 ---
+![[Screenshot_20260420-140934_Moon+ Reader Pro.jpg]]
 
+---
 ### <font color="#c9c441">Input:</font>
 ```cpp
 #include <iostream>

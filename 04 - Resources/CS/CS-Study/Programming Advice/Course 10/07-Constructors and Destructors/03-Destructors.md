@@ -9,7 +9,10 @@ Author: "[[abu-hedhoud]]"
 
 # <font color="#646a73">Destructors</font>
 ---
+![[Screenshot_20260420-140832_Moon+ Reader Pro.jpg]]
+![[Screenshot_20260420-140835_Moon+ Reader Pro.jpg]]
 
+---
 ### <font color="#c9c441">Input:</font>
 ```cpp
 #include <iostream>

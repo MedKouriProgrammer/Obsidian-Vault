@@ -9,7 +9,10 @@ Author: "[[abu-hedhoud]]"
 
 # <font color="#646a73">Function Overriding</font>
 ---
+![[Screenshot_20260420-140940_Moon+ Reader Pro.jpg]]
+![[Screenshot_20260420-140943_Moon+ Reader Pro.jpg]]
 
+---
 ### <font color="#c9c441">Input:</font>
 ```cpp
 #include <iostream>

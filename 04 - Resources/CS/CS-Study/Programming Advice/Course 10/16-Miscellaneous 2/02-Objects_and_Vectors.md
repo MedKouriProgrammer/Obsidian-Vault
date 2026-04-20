@@ -9,7 +9,9 @@ Author: "[[abu-hedhoud]]"
 
 # <font color="#646a73">Objects and Vectors</font>
 ---
+![[Screenshot_20260420-141157_Moon+ Reader Pro.jpg]]
 
+---
 ### <font color="#c9c441">Input:</font>
 ```cpp
 #include<iostream>

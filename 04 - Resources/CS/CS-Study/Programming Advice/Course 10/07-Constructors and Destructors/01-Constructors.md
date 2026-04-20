@@ -9,6 +9,12 @@ Author: "[[abu-hedhoud]]"
 
 # <font color="#646a73">Constructors</font>
 ---
+![[Screenshot_20260420-140801_Moon+ Reader Pro.jpg]]
+![[Screenshot_20260420-140804_Moon+ Reader Pro.jpg]]
+![[Screenshot_20260420-140807_Moon+ Reader Pro.jpg]]
+![[Screenshot_20260420-140758_Moon+ Reader Pro.jpg]]
+
+---
 ### <font color="#ffc000">Input:</font>
 ```cpp
 #include <iostream>
