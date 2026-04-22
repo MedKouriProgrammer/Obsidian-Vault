@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/01-Constructors.md",
+                "file": "06 - Daily/Daily/2026-04-22.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01-Constructors"
+              "title": "Outline of 2026-04-22"
             }
           },
           {
@@ -231,13 +231,15 @@
   },
   "active": "eb2e80b4649f9ca6",
   "lastOpenFiles": [
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/04-Properties/01-Properties_Set_and_Get.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/17-Projects/02-String_Library_Project_Solution.md",
     "06 - Daily/Daily/2026-04-22.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/07-Constructors and Destructors/01-Constructors.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 08 Algorithms & Problem Solving Level 4/Problems From 11 to 19.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/08-Static Members and Methods/01-Static_Members.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/17-Projects/01-String_Library_Project_Requirements.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/04-Properties/03-Properties_Set_and_Get_through_equals.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/14-Organizing Code/01-Separate_Classes_In_Libraries.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/17-Projects/02-String_Library_Project_Solution.md",
     "06 - Daily/Daily/2026-04-21.md",
     "06 - Daily/Daily/2026-04-20.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/17-Projects/04-Date_Library_Project_Solution.md",
@@ -266,8 +268,6 @@
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/13-Miscellaneous 1/01-Structure_Inside_Class.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/12-Friend Classes and Functions/02-Friend_Function.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/12-Friend Classes and Functions/01-Friend_Classes.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/11-Polymorphism/02-Interfaces_and_Abstract_Classes.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/11-Polymorphism/01-Fourth_Principle_Polymorphism.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/19-Course Completed",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/18-Class vs Structure",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/17-Projects",
