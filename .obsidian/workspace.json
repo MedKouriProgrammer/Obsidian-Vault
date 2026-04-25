@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fillarraywithrandom",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,8 +242,9 @@
   },
   "active": "50f89f61626ca045",
   "lastOpenFiles": [
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/17-Projects/04-Date_Library_Project_Solution.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 07 Algorithms & Problem Solving Level 3/Problems From 11 to 20.md",
     "06 - Daily/Daily/2026-04-25.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/17-Projects/04-Date_Library_Project_Solution.md",
     "06 - Daily/Daily/2026-04-24.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 08 Algorithms & Problem Solving Level 4/Problems From 11 to 19.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 05 Algorithms & Problem-Solving Level 2/Problem 31 to 40 Solutions.md",
@@ -268,7 +269,6 @@
     "06 - Daily/Daily/2026-04-20.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/17-Projects/03-Date_Library_Project_Requirements.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/17-Projects/05-Period_Class.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/19-Course Completed/01-Course_Completed_Thank_You.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 11 OOP as it Should Be (Applications)",
     "99 - Meta/99 - Attachment/Screenshot_20260420-141224_Moon+ Reader Pro.jpg",
     "99 - Meta/99 - Attachment/Screenshot_20260420-141220_Moon+ Reader Pro.jpg",
