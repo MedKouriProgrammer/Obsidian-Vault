@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "01272fec426627c5",
+        "id": "bd5e835a7f0fd790",
         "type": "tabs",
         "children": [
           {
-            "id": "629b3bfb613d5a4b",
+            "id": "9a5130695b7d20e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/Daily/2026-04-26.md",
-                "mode": "preview",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 11 OOP as it Should Be (Applications)/Project 1- Utility Library. 1/1- Utility Library- Requirements. 1.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-26"
+              "title": "1- Utility Library- Requirements. 1"
             }
           }
         ]
@@ -89,8 +89,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -144,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Daily/Daily/2026-04-26.md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 11 OOP as it Should Be (Applications)/Project 1- Utility Library. 1/1- Utility Library- Requirements. 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-04-26"
+              "title": "Outline of 1- Utility Library- Requirements. 1"
             }
           },
           {
@@ -230,10 +229,15 @@
       "simple-note-quiz:Quiz you note": false
     }
   },
-  "active": "629b3bfb613d5a4b",
+  "active": "2ac8680c995a6864",
   "lastOpenFiles": [
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 05 Algorithms & Problem-Solving Level 2/Problem 11 to 20 Solutions.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 11 OOP as it Should Be (Applications)/Project 1- Utility Library. 1 1/1- Utility Library- Requirements..md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 11 OOP as it Should Be (Applications)/Project 1- Utility Library. 1 1/1- Utility Library- Requirements. 1.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 11 OOP as it Should Be (Applications)/Project 1- Utility Library. 1 1",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 11 OOP as it Should Be (Applications)/Project 1- Utility Library. 1/1- Utility Library- Requirements..md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 11 OOP as it Should Be (Applications)/Project 1- Utility Library. 1/1- Utility Library- Requirements. 1.md",
     "06 - Daily/Daily/2026-04-26.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 05 Algorithms & Problem-Solving Level 2/Problem 11 to 20 Solutions.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 05 Algorithms & Problem-Solving Level 2/Project 1.md",
     "06 - Daily/Daily/2026-04-25.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 07 Algorithms & Problem Solving Level 3/Problems From 11 to 20.md",
@@ -245,7 +249,6 @@
     "04 - Resources/CS/CS-Study/Programming Advice/Course 03 c++ level 1/Lesson 35 - Function Part 3 - Parameters.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 05 Algorithms & Problem-Solving Level 2/Problem 21 to 30 Solutions.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 05 Algorithms & Problem-Solving Level 2/Problem 1 to 10 Solutions.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 11 OOP as it Should Be (Applications)/Project 1- Utility Library. 1/1- Utility Library- Requirements..md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 11 OOP as it Should Be (Applications)/Project 1- Utility Library. 1",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 11 OOP as it Should Be (Applications)/Project 1- Utility Library. 1/Project 1- Utility Library..md",
     "06 - Daily/Daily/2026-04-23.md",
@@ -256,9 +259,6 @@
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/08-Static Members and Methods/01-Static_Members.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/17-Projects/01-String_Library_Project_Requirements.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/04-Properties/03-Properties_Set_and_Get_through_equals.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/14-Organizing Code/01-Separate_Classes_In_Libraries.md",
-    "06 - Daily/Daily/2026-04-21.md",
-    "06 - Daily/Daily/2026-04-20.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 11 OOP as it Should Be (Applications)",
     "99 - Meta/99 - Attachment/Screenshot_20260420-141224_Moon+ Reader Pro.jpg",
     "99 - Meta/99 - Attachment/Screenshot_20260420-141220_Moon+ Reader Pro.jpg",
@@ -277,7 +277,6 @@
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/15-this Pointer in C++",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/14-Organizing Code",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 10/13-Miscellaneous 1",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/12-Friend Classes and Functions",
     "04 - Resources/CS/CS-Study/Programming advices/Course 8 Algorithms & Problem Solving Level 4/Untitled.canvas",
     "04 - Resources/CS/CS-Study/Programming advices/Course 7 Algorithms & Problem Solving Level 3/Untitled.canvas",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 02 Algorithm & solving problems l.1/Problem 10 - Average of 3 Marks.canvas",
