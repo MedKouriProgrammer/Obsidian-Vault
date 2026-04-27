@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 11 OOP as it Should Be (Applications)/Project 1- Utility Library. 1/2- Utility Library- Requirements..md",
+                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 11 OOP as it Should Be (Applications)/Project 1- Utility Library. 1/1- Utility Library- Requirements. 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2- Utility Library- Requirements."
+              "title": "1- Utility Library- Requirements. 1"
+            }
+          },
+          {
+            "id": "bdb3e40932936812",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -35,25 +46,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ac8680c995a6864",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
             "id": "97eba00af3bd6b86",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "EncryptionKey",
+                "query": "Read",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,16 +60,6 @@
               },
               "icon": "lucide-search",
               "title": "Search"
-            }
-          },
-          {
-            "id": "c103024e7ee06743",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
             }
           },
           {
@@ -88,8 +76,32 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "94c8768ad895a169",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "af88984716f15ef9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -143,13 +155,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/CS/CS-Study/Programming Advice/Course 11 OOP as it Should Be (Applications)/Project 1- Utility Library. 1/2- Utility Library- Requirements..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2- Utility Library- Requirements."
+              "title": "Outline"
             }
           },
           {
@@ -229,20 +240,20 @@
       "simple-note-quiz:Quiz you note": false
     }
   },
-  "active": "9a5130695b7d20e9",
+  "active": "bdb3e40932936812",
   "lastOpenFiles": [
     "04 - Resources/CS/CS-Study/Programming Advice/Course 11 OOP as it Should Be (Applications)/Project 1- Utility Library. 1/1- Utility Library- Requirements. 1.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/17-Projects/04-Date_Library_Project_Solution.md",
+    "04 - Resources/CS/CS-Study/Programming Advice/Course 11 OOP as it Should Be (Applications)/Project 1- Utility Library. 1/2- Utility Library- Requirements..md",
     "Author/abu-hedhoud.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 11 OOP as it Should Be (Applications)/Project 1- Utility Library. 1 1/1- Utility Library- Requirements..md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 11 OOP as it Should Be (Applications)/Project 1- Utility Library. 1 1/1- Utility Library- Requirements. 1.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 11 OOP as it Should Be (Applications)/Project 1- Utility Library. 1 1",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 11 OOP as it Should Be (Applications)/Project 1- Utility Library. 1/2- Utility Library- Requirements..md",
     "06 - Daily/Daily/2026-04-26.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 05 Algorithms & Problem-Solving Level 2/Problem 11 to 20 Solutions.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 05 Algorithms & Problem-Solving Level 2/Project 1.md",
     "06 - Daily/Daily/2026-04-25.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 07 Algorithms & Problem Solving Level 3/Problems From 11 to 20.md",
-    "04 - Resources/CS/CS-Study/Programming Advice/Course 10/17-Projects/04-Date_Library_Project_Solution.md",
     "06 - Daily/Daily/2026-04-24.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 08 Algorithms & Problem Solving Level 4/Problems From 11 to 19.md",
     "04 - Resources/CS/CS-Study/Programming Advice/Course 05 Algorithms & Problem-Solving Level 2/Problem 31 to 40 Solutions.md",
